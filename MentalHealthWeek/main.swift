@@ -8,95 +8,10 @@
 
 import Foundation
 
-struct Activity
-{
-    var weekdays : [[String]]
-    var name : String
-    var shortName : String
-    var personCap : Int
-    var supervisorName : String
-    
-    init(weekdays: [[String]], shortName: String, name: String, personCap: Int, supervisorName : String)
-    {
-        self.weekdays = weekdays
-        self.name = name
-        self.shortName = shortName
-        self.personCap = personCap
-        self.supervisorName = supervisorName
-    }
-}
 
-extension Activity: Equatable
-{
-    static func == (lhs: Activity, rhs: Activity) -> Bool
-    {
-        return
-            lhs.name == rhs.name &&
-                lhs.shortName == rhs.shortName &&
-                lhs.personCap == rhs.personCap &&
-                lhs.supervisorName == rhs.supervisorName
-    }
-}
-
-struct Student
-{
-    var activities: [String]
-    var email: String
-    var advisor: String
-    
-    init(activities: [String], email: String, advisor: String)
-    {
-        self.activities = activities
-        self.email = email
-        self.advisor = advisor
-    }
-}
-
-
-/// Read text file line by line
-class LineReader
-{
-    let path: String
-    
-    fileprivate let file: UnsafeMutablePointer<FILE>!
-    
-    init?(path: String) {
-        self.path = path
-        
-        file = fopen(path, "r")
-        
-        guard file != nil else { return nil }
-        
-    }
-    
-    var nextLine: String? {
-        var line:UnsafeMutablePointer<CChar>? = nil
-        var linecap:Int = 0
-        defer { free(line) }
-        return getline(&line, &linecap, file) > 0 ? String(cString: line!) : nil
-    }
-    
-    deinit {
-        fclose(file)
-    }
-}
-
-extension LineReader: Sequence {
-    func  makeIterator() -> AnyIterator<String> {
-        return AnyIterator<String> {
-            return self.nextLine
-        }
-    }
-}
-
-// Read the text file (place in your home folder)
-// Path will probably be /Users/student/survey_response_sample.txt
-// Obtain the data file on Haiku, Day 37
-guard let reader = LineReader(path: "/Users/student/Desktop/MentalHealthWeekFinal/survey_response_all_data_new_headers.csv") else {
-    exit(0); // cannot open file
-}
-
-
+//
+// Define Globals.
+//
 let gradeChoiceLookup : [Int : Int] = [9 : 0, 10 : 27, 11 : 55, 12 : 83]
 let gradeChoiceNum = [27, 28, 28, 29] // 27, 28, 28, 29
 let activityChoiceOffset = 12
@@ -118,6 +33,17 @@ var activities : [Activity] = [
 var weekdayLookup : [String : Int] = ["Monday" : 0, "Tuesday" : 1, "Wednesday" : 2, "Thursday" : 3, "Friday" : 4]
 
 
+// Read the text file (place in your home folder)
+// Path will probably be /Users/student/survey_response_sample.txt
+// Obtain the data file on Haiku, Day 37
+guard let reader = LineReader(path: "/Users/student/Desktop/MentalHealthWeekFinal/survey_response_all_data_new_headers.csv") else {
+    exit(0); // cannot open file
+}
+
+
+//
+// A function to parse the activity full name into the activity name.
+//
 func getActivityName (whole: String) -> String  {
     var switchNow = 0
     var charSetup = [Character]()
@@ -136,6 +62,10 @@ func getActivityName (whole: String) -> String  {
     return output
 }
 
+
+//
+// A function to parse the activity full name into the activitiy week day.
+//
 func getActivityDay (whole: String) -> String  {
     var charSetup = [Character]()
     var output = ""
@@ -246,6 +176,27 @@ for (number, line) in reader.enumerated()
 //print(activities)
 //print(students)
 
+//___oo#:#o__
+//o##########o###-
+//####o#~:~#~#####:~o______________
+//#####o~ -- ~  ~~~~ ~            ~~--_   _o---~- -o
+//~-##~_~-__                           ~-~::######oo:o
+//~~##-~~ ~   _oooooo___        o_____    ~ ~~~#~##~o_
+//_~~~~     _o##############__  _########o_      #~~~####
+//o~         o#####~~~~~~#####~~ #############o    ~-###_~o
+//#o       _####_~  _ooo#o###:   ########~~:###:_   ~####~
+//o~        #o####_o_######~#o#    #######-  ~-##_##~#--~
+//#         ###########~~~~:::~     ~######    #######_
+//#          #######:~~~ ~########o_  ######o_o########
+//#          -~~~~~~~     ~########~ _#################
+//~_            _         ~~#~~~ ~ -#~################
+//~_        _  ~-__       o~        ~~###########~#-
+//~o_  -_  #      ~~~~---#              ~~~-~~:_~~
+//_oo_~-_:~~~o             ~o_          ____--~ ~~#__    ____
+//#####o#_-~-~#o #_o---          :#::~#--##~--ooo_o_o###~:    ~~_
+//######:o-    ~#_ ~##o_      __-~~####oo_~~~~-_:~ ##o_   ~~o_o-~~
+//######~~~      ~o:~~###o--~~      ~~~####oo_  ~~  ~###  ##o~~-_
+
 
 func format (baseWord: String) -> String {
     
@@ -267,6 +218,7 @@ func format (baseWord: String) -> String {
     let newString = String(newChar)
     return newString
 }
+
 
 var week = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
 

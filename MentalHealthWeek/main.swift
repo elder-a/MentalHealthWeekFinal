@@ -261,10 +261,10 @@ func format (baseWord: String) -> String {
     if (standardAmount > charAmount) {
         needChar = standardAmount - charAmount
     }
-    for i in 0...needChar {
+    for _ in 0...needChar {
         newChar.append(" ")
     }
-    var newString = String(newChar)
+    let newString = String(newChar)
     return newString
 }
 

@@ -276,11 +276,15 @@ guard let writer = LineWriter(path: "/Users/student/Desktop/MentalHealthWeekFina
 }
 
 func indivdualTime () {
+    //var activites : [String] =
     for i in 0...students.count-3 {
+        //if
         writer.write(line: "\(format(baseWord: students[i].email)) -> \(format(baseWord:  students[i].advisor))")
         writer.write(line: "" )
+        
         writer.write(line: "\(format(baseWord: week[0]))\(format(baseWord: week[1]))\(format(baseWord: week[2]))\(format(baseWord: week[3]))\(format(baseWord: week[4]))")
         writer.write(line: "" )
+        
         writer.write(line: "\(format(baseWord: students[i].activities[0]))\(format(baseWord: students[i].activities[1]))\(format(baseWord: students[i].activities[2]))\(format(baseWord: students[i].activities[3]))\(format(baseWord: students[i].activities[4]))")
         writer.write(line: "" )
         writer.write(line: "______________________________________________________________________________________________" )
@@ -290,7 +294,7 @@ func indivdualTime () {
 
 
 func superVisorList2 (){
-    for i in 1...activities.count {
+    for i in 1...activities.count-1 {
         
         writer.write(line: "")
         writer.write(line: "______________________________" )
@@ -325,8 +329,8 @@ func superVisorList2 (){
 }
 
 
-//superVisorList2()
-indivdualTime()
+superVisorList2()
+//indivdualTime()
 
 // Close the output file
 writer.close() // MAKE NOTE OF THIS

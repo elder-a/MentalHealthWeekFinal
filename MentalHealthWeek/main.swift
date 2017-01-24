@@ -275,20 +275,28 @@ guard let writer = LineWriter(path: "/Users/student/Desktop/MentalHealthWeekFina
     exit(0); // cannot open output file
 }
 
+var advisorList : [String] = ["Bader Shaw","Beatty","Bibby","Chow","Darvasi","DeBlois","Doerksen","Donnelly","Enfield","Evans","Farrar","Fitz","Ghoreshy","Girvan","Gledhill","Grdon","Hart","Hutton","Kotecha","Lambersky","Newton","O'leary","Rankin","Seale","Spacie","Stevens","Totten", "Van Herk", "Vivares"]
+
 func indivdualTime () {
     //var activites : [String] =
-    for i in 0...students.count-3 {
-        //if
-        writer.write(line: "\(format(baseWord: students[i].email)) -> \(format(baseWord:  students[i].advisor))")
-        writer.write(line: "" )
-        
-        writer.write(line: "\(format(baseWord: week[0]))\(format(baseWord: week[1]))\(format(baseWord: week[2]))\(format(baseWord: week[3]))\(format(baseWord: week[4]))")
-        writer.write(line: "" )
-        
-        writer.write(line: "\(format(baseWord: students[i].activities[0]))\(format(baseWord: students[i].activities[1]))\(format(baseWord: students[i].activities[2]))\(format(baseWord: students[i].activities[3]))\(format(baseWord: students[i].activities[4]))")
-        writer.write(line: "" )
-        writer.write(line: "______________________________________________________________________________________________" )
-        writer.write(line: "" )
+    
+    for name in advisorList {
+        for i in 0...students.count-3 {
+            //if
+            if name == students[i].advisor {
+                writer.write(line: "\(format(baseWord: students[i].email)) -> \(format(baseWord:  students[i].advisor))")
+                writer.write(line: "" )
+                
+                writer.write(line: "\(format(baseWord: week[0]))\(format(baseWord: week[1]))\(format(baseWord: week[2]))\(format(baseWord: week[3]))\(format(baseWord: week[4]))")
+                writer.write(line: "" )
+                
+                writer.write(line: "\(format(baseWord: students[i].activities[0]))\(format(baseWord: students[i].activities[1]))\(format(baseWord: students[i].activities[2]))\(format(baseWord: students[i].activities[3]))\(format(baseWord: students[i].activities[4]))")
+                writer.write(line: "" )
+                writer.write(line: "______________________________________________________________________________________________" )
+                writer.write(line: "" )
+                
+            }
+        }
     }
 }
 
@@ -320,17 +328,17 @@ func superVisorList2 (){
                     print(activities[i].weekdays[j][l])
                     
                     writer.write(line: "\(format(baseWord: activities[i].weekdays[j][l]))")
-
+                    
                 }
             }
         }
     }
-
+    
 }
 
 
-superVisorList2()
-//indivdualTime()
+//superVisorList2()
+indivdualTime()
 
 // Close the output file
 writer.close() // MAKE NOTE OF THIS

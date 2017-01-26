@@ -9,14 +9,18 @@
 import Foundation
 
 
+//
+// Stuct to model an activity
+//
 struct Activity
 {
-    var weekdays : [[String]]
-    var name : String
-    var shortName : String
-    var personCap : Int
-    var supervisorName : String
+    var weekdays : [[String]] // List of students for each weekday
+    var name : String // Full name of the activity
+    var shortName : String // Short name of the activity
+    var personCap : Int // Number of people that the activity can hold
+    var supervisorName : String // Name of the teacher that is supervising this activity
     
+    // Initialize struct
     init(weekdays: [[String]], shortName: String, name: String, personCap: Int, supervisorName : String)
     {
         self.weekdays = weekdays
@@ -27,6 +31,10 @@ struct Activity
     }
 }
 
+
+//
+// Extension to assist in indexing the global array of activities.
+//
 extension Activity: Equatable
 {
     static func == (lhs: Activity, rhs: Activity) -> Bool
@@ -39,12 +47,17 @@ extension Activity: Equatable
     }
 }
 
+
+//
+// Struct to model a student.
+//
 struct Student
 {
-    var activities: [String]
-    var email: String
-    var advisor: String
+    var activities: [String] // The names of every activity the student is in for the week
+    var email: String // The email of the student
+    var advisor: String // The advisor of the student
     
+    // Initialize struct
     init(activities: [String], email: String, advisor: String)
     {
         self.activities = activities

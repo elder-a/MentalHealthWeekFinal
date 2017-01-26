@@ -55,119 +55,92 @@ for (number, line) in reader.enumerated() // Go through the data and process eac
 print(activities)
 print(students)
 
-//___oo#:#o__
-//o##########o###-
-//####o#~:~#~#####:~o______________
-//#####o~ -- ~  ~~~~ ~            ~~--_   _o---~- -o
-//~-##~_~-__                           ~-~::######oo:o
-//~~##-~~ ~   _oooooo___        o_____    ~ ~~~#~##~o_
-//_~~~~     _o##############__  _########o_      #~~~####
-//o~         o#####~~~~~~#####~~ #############o    ~-###_~o
-//#o       _####_~  _ooo#o###:   ########~~:###:_   ~####~
-//o~        #o####_o_######~#o#    #######-  ~-##_##~#--~
-//#         ###########~~~~:::~     ~######    #######_
-//#          #######:~~~ ~########o_  ######o_o########
-//#          -~~~~~~~     ~########~ _#################
-//~_            _         ~~#~~~ ~ -#~################
-//~_        _  ~-__       o~        ~~###########~#-
-//~o_  -_  #      ~~~~---#              ~~~-~~:_~~
-//_oo_~-_:~~~o             ~o_          ____--~ ~~#__    ____
-//#####o#_-~-~#o #_o---          :#::~#--##~--ooo_o_o###~:    ~~_
-//######:o-    ~#_ ~##o_      __-~~####oo_~~~~-_:~ ##o_   ~~o_o-~~
-//######~~~      ~o:~~###o--~~      ~~~####oo_  ~~  ~###  ##o~~-_
 
-//
-//func format (baseWord: String) -> String {
-//    
-//    let standardAmount = 20
-//    var needChar = 0
-//    var charAmount = 0
-//    var newChar = [Character]()
-//    
-//    for char in baseWord.characters {
-//        newChar.append(char)
-//        charAmount += 1
-//    }
-//    if (standardAmount > charAmount) {
-//        needChar = standardAmount - charAmount
-//    }
-//    for _ in 0...needChar {
-//        newChar.append(" ")
-//    }
-//    let newString = String(newChar)
-//    return newString
-//}
-//
-//
-//var week = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
-//
-//guard let writer = LineWriter(path: "/Users/student/Desktop/MentalHealthWeekFinal/survey_output.txt", appending: false) else {
-//    print("Cannot open output file")
-//    exit(0); // cannot open output file
-//}
-//
-//func indivdualTime () {
-//    //var activites : [String] =
-//    for i in 0...students.count-3 {
-//        //if
-//        writer.write(line: "\(format(baseWord: students[i].email)) -> \(format(baseWord:  students[i].advisor))")
-//        writer.write(line: "" )
-//        
-//        writer.write(line: "\(format(baseWord: week[0]))\(format(baseWord: week[1]))\(format(baseWord: week[2]))\(format(baseWord: week[3]))\(format(baseWord: week[4]))")
-//        writer.write(line: "" )
-//        
-//        writer.write(line: "\(format(baseWord: students[i].activities[0]))\(format(baseWord: students[i].activities[1]))\(format(baseWord: students[i].activities[2]))\(format(baseWord: students[i].activities[3]))\(format(baseWord: students[i].activities[4]))")
-//        writer.write(line: "" )
-//        writer.write(line: "______________________________________________________________________________________________" )
-//        writer.write(line: "" )
-//    }
-//}
-//
-//
-//func superVisorList2 (){
-//    for i in 1...activities.count-1 {
-//        
-//        writer.write(line: "")
-//        writer.write(line: "______________________________" )
-//        writer.write(line: "")
-//        
-//        print(activities[i].name)
-//        print(activities[i].supervisorName)
-//        print("")
-//        
-//        writer.write(line: "\(activities[i].name)")
-//        writer.write(line: "\(activities[i].supervisorName)")
-//        
-//        for j in 0...4 {
-//            print("")
-//            print(week[j])
-//            print("")
-//            writer.write(line: "")
-//            writer.write(line: "\(format(baseWord: week[j]))")
-//            
-//            if activities[i].weekdays[j].count-1 > 0 {
-//                for l in 0...activities[i].weekdays[j].count-1{
-//                    
-//                    print(activities[i].weekdays[j][l])
-//                    
-//                    writer.write(line: "\(format(baseWord: activities[i].weekdays[j][l]))")
-//
-//                }
-//            }
-//        }
-//    }
-//
-//}
-//
-//
-//superVisorList2()
-////indivdualTime()
-//
-//// Close the output file
-//writer.close() // MAKE NOTE OF THIS
-//
-//
-//
-//
-//
-//
+func format (baseWord: String) -> String {
+    
+    let standardAmount = 20
+    var needChar = 0
+    var charAmount = 0
+    var newChar = [Character]()
+    
+    for char in baseWord.characters {
+        newChar.append(char)
+        charAmount += 1
+    }
+    if (standardAmount > charAmount) {
+        needChar = standardAmount - charAmount
+    }
+    for _ in 0...needChar {
+        newChar.append(" ")
+    }
+    let newString = String(newChar)
+    return newString
+}
+
+
+var week = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+
+guard let writer = LineWriter(path: "/Users/student/Desktop/MentalHealthWeekFinal/survey_output.txt", appending: false) else {
+    print("Cannot open output file")
+    exit(0); // cannot open output file
+}
+
+func indivdualTime () {
+    //var activites : [String] =
+    for i in 0...students.count-3 {
+        //if
+        writer.write(line: "\(format(baseWord: students[i].email)) -> \(format(baseWord:  students[i].advisor))")
+        writer.write(line: "" )
+        
+        writer.write(line: "\(format(baseWord: week[0]))\(format(baseWord: week[1]))\(format(baseWord: week[2]))\(format(baseWord: week[3]))\(format(baseWord: week[4]))")
+        writer.write(line: "" )
+        
+        writer.write(line: "\(format(baseWord: students[i].activities[0]))\(format(baseWord: students[i].activities[1]))\(format(baseWord: students[i].activities[2]))\(format(baseWord: students[i].activities[3]))\(format(baseWord: students[i].activities[4]))")
+        writer.write(line: "" )
+        writer.write(line: "______________________________________________________________________________________________" )
+        writer.write(line: "" )
+    }
+}
+
+
+func superVisorList2 (){
+    for i in 1...activities.count-1 {
+        
+        writer.write(line: "")
+        writer.write(line: "______________________________" )
+        writer.write(line: "")
+        
+        print(activities[i].name)
+        print(activities[i].supervisorName)
+        print("")
+        
+        writer.write(line: "\(activities[i].name)")
+        writer.write(line: "\(activities[i].supervisorName)")
+        
+        for j in 0...4 {
+            print("")
+            print(week[j])
+            print("")
+            writer.write(line: "")
+            writer.write(line: "\(format(baseWord: week[j]))")
+            
+            if activities[i].weekdays[j].count-1 > 0 {
+                for l in 0...activities[i].weekdays[j].count-1{
+                    
+                    print(activities[i].weekdays[j][l])
+                    
+                    writer.write(line: "\(format(baseWord: activities[i].weekdays[j][l]))")
+
+                }
+            }
+        }
+    }
+
+}
+
+
+superVisorList2()
+//indivdualTime()
+
+// Close the output file
+writer.close() // MAKE NOTE OF THIS

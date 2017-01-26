@@ -78,12 +78,12 @@ class Input
     func getStudentActivities(data: [String], titles: [String], grade: Int, email: String) -> [String]
     {
         let gradeChoiceOffset = gradeChoiceNum[grade - 9] // An offset to get to the correct selection of survey choices
-        let offset = gradeChoiceLookup[grade]! as Int
+        let offset = gradeChoiceLookup[grade]! as Int // Offset to get the survey choices based on grade
         
-        var previousDayCharacter : Character = "M"
-        var studentActivities : [String] = []
-        var activityRankings : [String] = []
-        var dayNames : [String] = []
+        var previousDayCharacter : Character = "M" // Lagging value of day character
+        var studentActivities : [String] = [] // A list of the activities the student is in for that week
+        var activityRankings : [String] = [] // A list of the student's activity rankings
+        var dayNames : [String] = [] // A list of activity full names
         
         for i in 0...gradeChoiceOffset - 1 // Iterate over all of the survey choices
         {
@@ -91,14 +91,14 @@ class Input
             let currentDay = titles[currentChoiceIndex] // Get the current title
             let currentDayCharacter = currentDay[currentDay.startIndex] // Isolate the first character (the character that shows the day)
             
-            if (currentDayCharacter != previousDayCharacter || i == gradeChoiceOffset - 1)
+            if (currentDayCharacter != previousDayCharacter || i == gradeChoiceOffset - 1) // If the day has changed
             {
-                if (i == gradeChoiceOffset - 1)
+                if (i == gradeChoiceOffset - 1) // Check for an exception to make sure we have a full set of data
                 {
-                    if let activityRank = String(columnDescriptors[currentChoiceIndex])
+                    if let activityRank = String(columnDescriptors[currentChoiceIndex]) // Get the activity rank
                     {
-                        activityRankings.append(activityRank)
-                        dayNames.append(currentDay)
+                        activityRankings.append(activityRank) // Add the activity rank
+                        dayNames.append(currentDay) // Append the current activity full name
                     }
                 }
                 

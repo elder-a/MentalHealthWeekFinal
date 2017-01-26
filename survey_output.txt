@@ -1170,3 +1170,1443 @@ JMizen@rsgc.on.ca
 HStevenson@rsgc.on.ca 
 CGallagher@rsgc.on.ca 
 cforgione@rsgc.on.ca 
+ZWebster@rsgc.on.ca   -> Bader Shaw           
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Animal Therapy       Animal Therapy       Animal Therapy       Sleep In             Massage              
+
+______________________________________________________________________________________________
+
+NWoollcombe@rsgc.on.ca  -> Bader Shaw           
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Academic Management  Academic Management  Academic Management  Academic Management  Academic Management  
+
+______________________________________________________________________________________________
+
+alanghorne@rsgc.on.ca  -> Bader Shaw           
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Physical Activity    Physical Activity    Sleep In             Sleep In             
+
+______________________________________________________________________________________________
+
+GTaylor@rsgc.on.ca    -> Bader Shaw           
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Casual Breakfast     Animal Therapy       Sleep In             Sleep In             
+
+______________________________________________________________________________________________
+
+wmcleod@rsgc.on.ca    -> Bader Shaw           
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Casual Breakfast     Physical Activity    Sleep In             Sleep In             
+
+______________________________________________________________________________________________
+
+OMcFarlane@rsgc.on.ca  -> Bader Shaw           
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Yoga                 Casual Breakfast     Casual Breakfast     Sleep In             Sleep In             
+
+______________________________________________________________________________________________
+
+RDavis@rsgc.on.ca     -> Beatty               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Animal Therapy       Physical Activity    Math Exam            Sleep In             
+
+______________________________________________________________________________________________
+
+MKahr-Landolt@rsgc.on.ca  -> Beatty               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Physical Activity    Sleep In             Physical Activity    Sleep In             
+
+______________________________________________________________________________________________
+
+GBenson@rsgc.on.ca    -> Beatty               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Animal Therapy       Sleep In             Academic Management  Sleep In             
+
+______________________________________________________________________________________________
+
+JBowlesConover@rsgc.on.ca  -> Beatty               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Sleep In             Relaxation           Relaxation           Sleep In             
+
+______________________________________________________________________________________________
+
+OLogush@rsgc.on.ca    -> Beatty               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Academic Management  Sleep In             Academic Management  Academic Management  Sleep In             
+
+______________________________________________________________________________________________
+
+MCulbert@rsgc.on.ca   -> Beatty               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Sleep In             Casual Breakfast     Casual Breakfast     Sleep In             
+
+______________________________________________________________________________________________
+
+NBarney@rsgc.on.ca    -> Beatty               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Casual Breakfast     Casual Breakfast     Casual Breakfast     Sleep In             
+
+______________________________________________________________________________________________
+
+MStewart@rsgc.on.ca   -> Beatty               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Casual Breakfast     Physical Activity    Physical Activity    Physical Activity    
+
+______________________________________________________________________________________________
+
+AWood@rsgc.on.ca      -> Beatty               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Sleep In             Casual Breakfast     Casual Breakfast     Sleep In             
+
+______________________________________________________________________________________________
+
+RBehbahani@rsgc.on.ca  -> Bibby                
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Sleep In             Casual Breakfast     Casual Breakfast     Sleep In             
+
+______________________________________________________________________________________________
+
+RColville-Reeves@rsgc.on.ca  -> Bibby                
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Physical Activity    Animal Therapy       Physical Activity    Sleep In             
+
+______________________________________________________________________________________________
+
+EPeterson@rsgc.on.ca  -> Bibby                
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Academic Management  Sleep In             Academic Management  Academic Management  Sleep In             
+
+______________________________________________________________________________________________
+
+JFisher@rsgc.on.ca    -> Bibby                
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Yoga                 Physical Activity    Math Exam            Sleep In             
+
+______________________________________________________________________________________________
+
+JBurleton@rsgc.on.ca  -> Bibby                
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Physical Activity    Casual Breakfast     Math Exam            Sleep In             
+
+______________________________________________________________________________________________
+
+HMcDaniel@rsgc.on.ca  -> Bibby                
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Physical Activity    Casual Breakfast     Physical Activity    Sleep In             
+
+______________________________________________________________________________________________
+
+APyper@rsgc.on.ca     -> Chow                 
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Animal Therapy       Sleep In             Academic Management  Academic Management  Sleep In             
+
+______________________________________________________________________________________________
+
+AFerguson@rsgc.on.ca  -> Chow                 
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Sleep In             Animal Therapy       Animal Therapy       Animal Therapy       
+
+______________________________________________________________________________________________
+
+ALee@rsgc.on.ca       -> Chow                 
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Academic Management  Sleep In             Casual Breakfast     Casual Breakfast     Sleep In             
+
+______________________________________________________________________________________________
+
+AChiu@rsgc.on.ca      -> Chow                 
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Academic Management  Casual Breakfast     Math Exam            Physical Activity    
+
+______________________________________________________________________________________________
+
+TDavies@rsgc.on.ca    -> Chow                 
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Academic Management  Casual Breakfast     Math Exam            Sleep In             
+
+______________________________________________________________________________________________
+
+WMcIlroy@rsgc.on.ca   -> Chow                 
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Physical Activity    Sleep In             Casual Breakfast     Sleep In             
+
+______________________________________________________________________________________________
+
+PBagga@rsgc.on.ca     -> Darvasi              
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Casual Breakfast     Casual Breakfast     Math Exam            Sleep In             
+
+______________________________________________________________________________________________
+
+SConnolly@rsgc.on.ca  -> Darvasi              
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Physical Activity    Sleep In             Casual Breakfast     Sleep In             
+
+______________________________________________________________________________________________
+
+jirwin@rsgc.on.ca     -> Darvasi              
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Sleep In             Physical Activity    Physical Activity    Sleep In             
+
+______________________________________________________________________________________________
+
+RLaxdal@rsgc.on.ca    -> Darvasi              
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Academic Management  Sleep In             Casual Breakfast     Sleep In             
+
+______________________________________________________________________________________________
+
+DaRaymond@rsgc.on.ca  -> Darvasi              
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Academic Management  Sleep In             Casual Breakfast     Sleep In             
+
+______________________________________________________________________________________________
+
+JBarkway@rsgc.on.ca   -> Darvasi              
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Casual Breakfast     Relaxation           Relaxation           Sleep In             
+
+______________________________________________________________________________________________
+
+OBarney@rsgc.on.ca    -> Darvasi              
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Sleep In             Academic Management  Academic Management  Sleep In             
+
+______________________________________________________________________________________________
+
+jkenney@rsgc.on.ca    -> DeBlois              
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Animal Therapy       Casual Breakfast     Casual Breakfast     Sleep In             Sleep In             
+
+______________________________________________________________________________________________
+
+BDreger@rsgc.on.ca    -> DeBlois              
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Animal Therapy       Casual Breakfast     Yoga                 Sleep In             Sleep In             
+
+______________________________________________________________________________________________
+
+WLenkov@rsgc.on.ca    -> DeBlois              
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Academic Management  Academic Management  Casual Breakfast     Sleep In             Sleep In             
+
+______________________________________________________________________________________________
+
+cabbott@rsgc.on.ca    -> DeBlois              
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Physical Activity    Physical Activity    Sleep In             Animal Therapy       
+
+______________________________________________________________________________________________
+
+rgross@rsgc.on.ca     -> DeBlois              
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Physical Activity    Physical Activity    Sleep In             Sleep In             
+
+______________________________________________________________________________________________
+
+JFell@rsgc.on.ca      -> DeBlois              
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Yoga                 Casual Breakfast     Casual Breakfast     Sleep In             Sleep In             
+
+______________________________________________________________________________________________
+
+ffatola@rsgc.on.ca    -> DeBlois              
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Yoga                 Yoga                 Physical Activity    Relaxation           Physical Activity    
+
+______________________________________________________________________________________________
+
+MHartford@rsgc.on.ca  -> DeBlois              
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Yoga                 Casual Breakfast     Relaxation           Relaxation           Relaxation           
+
+______________________________________________________________________________________________
+
+MAnderson@rsgc.on.ca  -> Doerksen             
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Casual Breakfast     Physical Activity    Math Exam            Massage              
+
+______________________________________________________________________________________________
+
+WHoward-Waddingham@rsgc.on.ca  -> Doerksen             
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Physical Activity    Physical Activity    Physical Activity    Physical Activity    
+
+______________________________________________________________________________________________
+
+NBethlenfalvy@rsgc.on.ca  -> Doerksen             
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Academic Management  Sleep In             Academic Management  Academic Management  Sleep In             
+
+______________________________________________________________________________________________
+
+MVassos@rsgc.on.ca    -> Doerksen             
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Academic Management  Sleep In             Animal Therapy       Relaxation           Animal Therapy       
+
+______________________________________________________________________________________________
+
+kelder@havergal.on.ca  -> Doerksen             
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Academic Management  Academic Management  Math Exam            Sleep In             
+
+______________________________________________________________________________________________
+
+WHope@rsgc.on.ca      -> Doerksen             
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Physical Activity    Sleep In             Physical Activity    Sleep In             
+
+______________________________________________________________________________________________
+
+JMcMaster@rsgc.on.ca  -> Doerksen             
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Sleep In             Casual Breakfast     Academic Management  Sleep In             
+
+______________________________________________________________________________________________
+
+ALeishman@rsgc.on.ca  -> Doerksen             
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Casual Breakfast     Casual Breakfast     Math Exam            Sleep In             
+
+______________________________________________________________________________________________
+
+GHardacre@rsgc.on.ca  -> Doerksen             
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Casual Breakfast     Casual Breakfast     Physical Activity    Sleep In             
+
+______________________________________________________________________________________________
+
+GBell@rsgc.on.ca      -> Donnelly             
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Animal Therapy       Animal Therapy       Sleep In             Physical Activity    Sleep In             
+
+______________________________________________________________________________________________
+
+ANash@rsgc.on.ca      -> Donnelly             
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Animal Therapy       Animal Therapy       Sleep In             Animal Therapy       Sleep In             
+
+______________________________________________________________________________________________
+
+SReed@rsgc.on.ca      -> Donnelly             
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Physical Activity    Animal Therapy       Math Exam            Sleep In             
+
+______________________________________________________________________________________________
+
+GButterworth@rsgc.on.ca  -> Donnelly             
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Physical Activity    Animal Therapy       Math Exam            Sleep In             
+
+______________________________________________________________________________________________
+
+blai@rsgc.on.ca       -> Donnelly             
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Academic Management  Academic Management  Physical Activity    Academic Management  Sleep In             
+
+______________________________________________________________________________________________
+
+SCanavan@rsgc.on.ca   -> Donnelly             
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Sleep In             Animal Therapy       Animal Therapy       Sleep In             
+
+______________________________________________________________________________________________
+
+OHardinge@rsgc.on.ca  -> Donnelly             
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Casual Breakfast     Casual Breakfast     Casual Breakfast     Sleep In             
+
+______________________________________________________________________________________________
+
+NJones@rsgc.on.ca     -> Donnelly             
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Casual Breakfast     Academic Management  Math Exam            Sleep In             
+
+______________________________________________________________________________________________
+
+MLivingston@rsgc.on.ca  -> Enfield              
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Animal Therapy       Yoga                 Sleep In             Animal Therapy       Massage              
+
+______________________________________________________________________________________________
+
+ABantis@rsgc.on.ca    -> Enfield              
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Physical Activity    Sleep In             Physical Activity    Sleep In             
+
+______________________________________________________________________________________________
+
+OMurphy@rsgc.on.ca    -> Enfield              
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Sleep In             Casual Breakfast     Casual Breakfast     Sleep In             
+
+______________________________________________________________________________________________
+
+jwilson@rsgc.on.ca    -> Enfield              
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Casual Breakfast     Casual Breakfast     Physical Activity    Sleep In             
+
+______________________________________________________________________________________________
+
+KSharma@rsgc.on.ca    -> Enfield              
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Physical Activity    Sleep In             Physical Activity    Sleep In             
+
+______________________________________________________________________________________________
+
+KChepeha@rsgc.on.ca   -> Enfield              
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Yoga                 Yoga                 Yoga                 Relaxation           Animal Therapy       
+
+______________________________________________________________________________________________
+
+SDanson@rsgc.on.ca    -> Enfield              
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Physical Activity    Sleep In             Academic Management  Sleep In             
+
+______________________________________________________________________________________________
+
+TLatimer@rsgc.on.ca   -> Evans                
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Academic Management  Academic Management  Math Exam            Sleep In             
+
+______________________________________________________________________________________________
+
+AHepner@rsgc.on.ca    -> Evans                
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Sleep In             Physical Activity    Animal Therapy       Sleep In             
+
+______________________________________________________________________________________________
+
+PBernhard@rsgc.on.ca  -> Evans                
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Academic Management  Animal Therapy       Math Exam            Animal Therapy       
+
+______________________________________________________________________________________________
+
+CMeakin@rsgc.on.ca    -> Evans                
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Yoga                 Yoga                 Yoga                 Animal Therapy       Physical Activity    
+
+______________________________________________________________________________________________
+
+WGround@rsgc.on.ca    -> Evans                
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Physical Activity    Sleep In             Casual Breakfast     Sleep In             
+
+______________________________________________________________________________________________
+
+NPloughman@rsgc.on.ca  -> Evans                
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Academic Management  Sleep In             Relaxation           Sleep In             
+
+______________________________________________________________________________________________
+
+AWilker@rsgc.on.ca    -> Evans                
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Academic Management  Sleep In             Casual Breakfast     Sleep In             
+
+______________________________________________________________________________________________
+
+MGoodman@rsgc.on.ca   -> Evans                
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Sleep In             Physical Activity    Physical Activity    Animal Therapy       
+
+______________________________________________________________________________________________
+
+LByrne@rsgc.on.ca     -> Farrar               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Academic Management  Casual Breakfast     Math Exam            Massage              
+
+______________________________________________________________________________________________
+
+NGeist@rsgc.on.ca     -> Farrar               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Academic Management  Sleep In             Academic Management  Academic Management  Sleep In             
+
+______________________________________________________________________________________________
+
+RHamilton@rsgc.on.ca  -> Farrar               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Academic Management  Academic Management  Academic Management  Academic Management  Sleep In             
+
+______________________________________________________________________________________________
+
+mhugessen@rsgc.on.ca  -> Farrar               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Physical Activity    Sleep In             Physical Activity    Physical Activity    
+
+______________________________________________________________________________________________
+
+AHodgson@rsgc.on.ca   -> Farrar               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Academic Management  Sleep In             Academic Management  Sleep In             
+
+______________________________________________________________________________________________
+
+DCrosner@rsgc.on.ca   -> Farrar               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Academic Management  Sleep In             Casual Breakfast     Sleep In             
+
+______________________________________________________________________________________________
+
+PKirby@rsgc.on.ca     -> Farrar               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Physical Activity    Sleep In             Academic Management  Sleep In             
+
+______________________________________________________________________________________________
+
+mamccutcheon@rsgc.on.ca  -> Fitz                 
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Academic Management  Casual Breakfast     Relaxation           Sleep In             Sleep In             
+
+______________________________________________________________________________________________
+
+AHerbert-Robertson@rsgc.on.ca  -> Fitz                 
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Physical Activity    Physical Activity    Sleep In             Sleep In             
+
+______________________________________________________________________________________________
+
+jlank@rsgc.on.ca      -> Fitz                 
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Academic Management  Physical Activity    Relaxation           Sleep In             Sleep In             
+
+______________________________________________________________________________________________
+
+mforgione@rsgc.on.ca  -> Fitz                 
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Yoga                 Yoga                 Yoga                 Casual Breakfast     Animal Therapy       
+
+______________________________________________________________________________________________
+
+ZKingsley@rsgc.on.ca  -> Fitz                 
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Physical Activity    Casual Breakfast     Sleep In             Sleep In             
+
+______________________________________________________________________________________________
+
+SFarber@rsgc.on.ca    -> Fitz                 
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Physical Activity    Physical Activity    Sleep In             Sleep In             
+
+______________________________________________________________________________________________
+
+dbarkway@rsgc.on.ca   -> Fitz                 
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Casual Breakfast     Physical Activity    Sleep In             Sleep In             
+
+______________________________________________________________________________________________
+
+jsutton@rsgc.on.ca    -> Fitz                 
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Yoga                 Yoga                 Yoga                 Academic Management  Academic Management  
+
+______________________________________________________________________________________________
+
+LWurstlin@rsgc.on.ca  -> Fitz                 
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Yoga                 Casual Breakfast     Physical Activity    Sleep In             Sleep In             
+
+______________________________________________________________________________________________
+
+JSchaffer@rsgc.on.ca  -> Ghoreshy             
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Sleep In             Casual Breakfast     Casual Breakfast     Sleep In             
+
+______________________________________________________________________________________________
+
+JGoldsmith@rsgc.on.ca  -> Ghoreshy             
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Academic Management  Academic Management  Math Exam            Sleep In             
+
+______________________________________________________________________________________________
+
+CNobleCurveira@rsgc.on.ca  -> Ghoreshy             
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Yoga                 Academic Management  Math Exam            Animal Therapy       
+
+______________________________________________________________________________________________
+
+JRau@rsgc.on.ca       -> Ghoreshy             
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Academic Management  Sleep In             Academic Management  Physical Activity    Sleep In             
+
+______________________________________________________________________________________________
+
+KLaxdal@rsgc.on.ca    -> Ghoreshy             
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Casual Breakfast     Casual Breakfast     Casual Breakfast     Sleep In             
+
+______________________________________________________________________________________________
+
+LSimpson@rsgc.on.ca   -> Ghoreshy             
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Physical Activity    Sleep In             Physical Activity    Sleep In             
+
+______________________________________________________________________________________________
+
+BGolding@rsgc.on.ca   -> Ghoreshy             
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Casual Breakfast     Casual Breakfast     Casual Breakfast     Sleep In             
+
+______________________________________________________________________________________________
+
+HReed@rsgc.on.ca      -> Ghoreshy             
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Yoga                 Sleep In             Academic Management  Sleep In             
+
+______________________________________________________________________________________________
+
+MMcCutcheon@rsgc.on.ca  -> Girvan               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Casual Breakfast     Yoga                 Math Exam            Sleep In             
+
+______________________________________________________________________________________________
+
+SBlackwell@rsgc.on.ca  -> Girvan               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Casual Breakfast     Casual Breakfast     Math Exam            Sleep In             
+
+______________________________________________________________________________________________
+
+mwheler@rsgc.on.ca    -> Girvan               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Yoga                 Sleep In             Physical Activity    Sleep In             
+
+______________________________________________________________________________________________
+
+AFell@rsgc.on.ca      -> Girvan               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Sleep In             Casual Breakfast     Physical Activity    Sleep In             
+
+______________________________________________________________________________________________
+
+RBruce@rsgc.on.ca     -> Girvan               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Yoga                 Academic Management  Math Exam            Sleep In             
+
+______________________________________________________________________________________________
+
+JAnderson@rsgc.on.ca  -> Gledhill             
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Physical Activity    Sleep In             Physical Activity    Sleep In             
+
+______________________________________________________________________________________________
+
+SSellery@rsgc.on.ca   -> Gledhill             
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Physical Activity    Sleep In             Physical Activity    Sleep In             
+
+______________________________________________________________________________________________
+
+MKingsley@rsgc.on.ca  -> Gledhill             
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Casual Breakfast     Animal Therapy       Math Exam            Animal Therapy       
+
+______________________________________________________________________________________________
+
+OGane@rsgc.on.ca      -> Gledhill             
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Casual Breakfast     Academic Management  Math Exam            Sleep In             
+
+______________________________________________________________________________________________
+
+jcorley@rsgc.on.ca    -> Gledhill             
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Academic Management  Academic Management  Sleep In             Academic Management  Sleep In             
+
+______________________________________________________________________________________________
+
+QKirkpatrick@rsgc.on.ca  -> Gledhill             
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Yoga                 Yoga                 Sleep In             Physical Activity    Sleep In             
+
+______________________________________________________________________________________________
+
+STrevor@rsgc.on.ca    -> Gledhill             
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Casual Breakfast     Casual Breakfast     Math Exam            Sleep In             
+
+______________________________________________________________________________________________
+
+JCostigan@rsgc.on.ca  -> Gledhill             
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Yoga                 Sleep In             Relaxation           Sleep In             
+
+______________________________________________________________________________________________
+
+schapple@rsgc.on.ca   -> Gledhill             
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Yoga                 Yoga                 Relaxation           Relaxation           Relaxation           
+
+______________________________________________________________________________________________
+
+ASmoley@rsgc.on.ca    -> Hart                 
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Physical Activity    Physical Activity    Sleep In             Sleep In             
+
+______________________________________________________________________________________________
+
+chmacdonald@rsgc.on.ca  -> Hart                 
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Animal Therapy       Physical Activity    Sleep In             Sleep In             
+
+______________________________________________________________________________________________
+
+DDiPierdomenico@rsgc.on.ca  -> Hart                 
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Physical Activity    Physical Activity    Sleep In             Sleep In             
+
+______________________________________________________________________________________________
+
+NVassos@rsgc.on.ca    -> Hart                 
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Academic Management  Casual Breakfast     Casual Breakfast     Sleep In             Relaxation           
+
+______________________________________________________________________________________________
+
+SPeterson@rsgc.on.ca  -> Hart                 
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Academic Management  Academic Management  Academic Management  Academic Management  Academic Management  
+
+______________________________________________________________________________________________
+
+STatoff@rsgc.on.ca    -> Hart                 
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Casual Breakfast     Physical Activity    Relaxation           Academic Management  
+
+______________________________________________________________________________________________
+
+lmorgante@rsgc.on.ca  -> Hart                 
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Academic Management  Casual Breakfast     Relaxation           Sleep In             Relaxation           
+
+______________________________________________________________________________________________
+
+jsmith@rsgc.on.ca     -> Hart                 
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Yoga                 Casual Breakfast     Relaxation           Sleep In             Sleep In             
+
+______________________________________________________________________________________________
+
+GChien@rsgc.on.ca     -> Hutton               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Animal Therapy       Animal Therapy       Animal Therapy       Math Exam            Animal Therapy       
+
+______________________________________________________________________________________________
+
+ASheeres-Paulicpulle@rsgc.on.ca  -> Hutton               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Sleep In             Animal Therapy       Animal Therapy       Sleep In             
+
+______________________________________________________________________________________________
+
+BLeder@rsgc.on.ca     -> Hutton               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Casual Breakfast     Casual Breakfast     Math Exam            Sleep In             
+
+______________________________________________________________________________________________
+
+Jwalker-sherman@rsgc.on.ca  -> Hutton               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Academic Management  Sleep In             Relaxation           Relaxation           Sleep In             
+
+______________________________________________________________________________________________
+
+CMacDougall@rsgc.on.ca  -> Hutton               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Physical Activity    Sleep In             Relaxation           Sleep In             
+
+______________________________________________________________________________________________
+
+DNoe@rsgc.on.ca       -> Hutton               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Academic Management  Sleep In             Relaxation           Sleep In             
+
+______________________________________________________________________________________________
+
+SOrmsby@rsgc.on.ca    -> Hutton               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Sleep In             Casual Breakfast     Casual Breakfast     Sleep In             
+
+______________________________________________________________________________________________
+
+LVandenBroek@rsgc.on.ca  -> Kotecha              
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Animal Therapy       Casual Breakfast     Math Exam            Sleep In             
+
+______________________________________________________________________________________________
+
+cforgione@rsgc.on.ca  -> Kotecha              
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Sleep In             Casual Breakfast     Animal Therapy       Massage              
+
+______________________________________________________________________________________________
+
+jstephenson-smith@rsgc.on.ca  -> Kotecha              
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Sleep In             Casual Breakfast     Casual Breakfast     Sleep In             
+
+______________________________________________________________________________________________
+
+JHancock@rsgc.on.ca   -> Kotecha              
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Physical Activity    Sleep In             Physical Activity    Sleep In             
+
+______________________________________________________________________________________________
+
+RKurdyak@rsgc.on.ca   -> Kotecha              
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Yoga                 Academic Management  Math Exam            Relaxation           
+
+______________________________________________________________________________________________
+
+JSussman@rsgc.on.ca   -> Kotecha              
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Physical Activity    Sleep In             Physical Activity    Sleep In             
+
+______________________________________________________________________________________________
+
+MFogolini@rsgc.on.ca  -> Kotecha              
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Yoga                 Sleep In             Physical Activity    Sleep In             
+
+______________________________________________________________________________________________
+
+wvannostrand@rsgc.on.ca  -> Lambersky            
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Academic Management  Casual Breakfast     Casual Breakfast     Sleep In             Sleep In             
+
+______________________________________________________________________________________________
+
+ARigby@rsgc.on.ca     -> Lambersky            
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Academic Management  Casual Breakfast     Casual Breakfast     Sleep In             Sleep In             
+
+______________________________________________________________________________________________
+
+mblanco@rsgc.on.ca    -> Lambersky            
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Physical Activity    Physical Activity    Sleep In             Sleep In             
+
+______________________________________________________________________________________________
+
+EHaisleyBrown@rsgc.on.ca  -> Lambersky            
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Yoga                 Casual Breakfast     Relaxation           Sleep In             Sleep In             
+
+______________________________________________________________________________________________
+
+CManson@rsgc.on.ca    -> Lambersky            
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Yoga                 Yoga                 Casual Breakfast     Sleep In             Sleep In             
+
+______________________________________________________________________________________________
+
+CAristone@rsgc.on.ca  -> Newton               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Animal Therapy       Physical Activity    Sleep In             Physical Activity    Sleep In             
+
+______________________________________________________________________________________________
+
+RShabbir@rsgc.on.ca   -> Newton               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Academic Management  Sleep In             Casual Breakfast     Academic Management  Sleep In             
+
+______________________________________________________________________________________________
+
+MPritchard@rsgc.on.ca  -> Newton               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Physical Activity    Casual Breakfast     Math Exam            Sleep In             
+
+______________________________________________________________________________________________
+
+KTsambalieros@rsgc.on.ca  -> Newton               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Academic Management  Sleep In             Casual Breakfast     Animal Therapy       
+
+______________________________________________________________________________________________
+
+BDonnelly@rsgc.on.ca  -> Newton               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Sleep In             Casual Breakfast     Casual Breakfast     Sleep In             
+
+______________________________________________________________________________________________
+
+AMartin@rsgc.on.ca    -> Rankin               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Animal Therapy       Animal Therapy       Sleep In             Animal Therapy       Massage              
+
+______________________________________________________________________________________________
+
+EKelly@rsgc.on.ca     -> Rankin               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Physical Activity    Academic Management  Math Exam            Sleep In             
+
+______________________________________________________________________________________________
+
+BChristmann@rsgc.on.ca  -> Rankin               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Animal Therapy       Sleep In             Animal Therapy       Sleep In             
+
+______________________________________________________________________________________________
+
+BAnderson@rsgc.on.ca  -> Rankin               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Sleep In             Physical Activity    Physical Activity    Sleep In             
+
+______________________________________________________________________________________________
+
+NUsher-Jones@rsgc.on.ca  -> Rankin               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Physical Activity    Physical Activity    Physical Activity    Physical Activity    
+
+______________________________________________________________________________________________
+
+jcrossland@rsgc.on.ca  -> Rankin               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Physical Activity    Sleep In             Physical Activity    Sleep In             
+
+______________________________________________________________________________________________
+
+FTafel-Sennecke@rsgc.on.ca  -> Rankin               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Casual Breakfast     Casual Breakfast     Casual Breakfast     Sleep In             
+
+______________________________________________________________________________________________
+
+mablum@rsgc.on.ca     -> Rankin               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Sleep In             Academic Management  Academic Management  Sleep In             
+
+______________________________________________________________________________________________
+
+adonnelly@rsgc.on.ca  -> Seale                
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Casual Breakfast     Physical Activity    Sleep In             Sleep In             
+
+______________________________________________________________________________________________
+
+JoParker@rsgc.on.ca   -> Seale                
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Academic Management  Casual Breakfast     Sleep In             Sleep In             
+
+______________________________________________________________________________________________
+
+bmazan@rsgc.on.ca     -> Seale                
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Casual Breakfast     Physical Activity    Sleep In             Sleep In             
+
+______________________________________________________________________________________________
+
+WRochon@rsgc.on.ca    -> Seale                
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Animal Therapy       Animal Therapy       Relaxation           Sleep In             Animal Therapy       
+
+______________________________________________________________________________________________
+
+JBlanco@rsgc.on.ca    -> Seale                
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Casual Breakfast     Casual Breakfast     Sleep In             Sleep In             
+
+______________________________________________________________________________________________
+
+syuan@rsgc.on.ca      -> Seale                
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Yoga                 Casual Breakfast     Physical Activity    Sleep In             Sleep In             
+
+______________________________________________________________________________________________
+
+LWatson@rsgc.on.ca    -> Spacie               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Academic Management  Casual Breakfast     Casual Breakfast     Casual Breakfast     Relaxation           
+
+______________________________________________________________________________________________
+
+cvont@rsgc.on.ca      -> Spacie               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Casual Breakfast     Casual Breakfast     Sleep In             Sleep In             
+
+______________________________________________________________________________________________
+
+sshabbir@rsgc.on.ca   -> Spacie               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Academic Management  Casual Breakfast     Academic Management  Sleep In             Sleep In             
+
+______________________________________________________________________________________________
+
+WHepner@rsgc.on.ca    -> Spacie               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Animal Therapy       Animal Therapy       Casual Breakfast     Sleep In             Sleep In             
+
+______________________________________________________________________________________________
+
+jdolgin@rsgc.on.ca    -> Spacie               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Casual Breakfast     Relaxation           Sleep In             Sleep In             
+
+______________________________________________________________________________________________
+
+mrovazzi@rsgc.on.ca   -> Spacie               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Yoga                 Casual Breakfast     Physical Activity    Sleep In             Sleep In             
+
+______________________________________________________________________________________________
+
+FWilkinson@rsgc.on.ca  -> Spacie               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Yoga                 Academic Management  Academic Management  Sleep In             Sleep In             
+
+______________________________________________________________________________________________
+
+oholland@rsgc.on.ca   -> Stevens              
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Casual Breakfast     Physical Activity    Math Exam            Sleep In             
+
+______________________________________________________________________________________________
+
+JMizen@rsgc.on.ca     -> Stevens              
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Animal Therapy       Sleep In             Casual Breakfast     Animal Therapy       Massage              
+
+______________________________________________________________________________________________
+
+CGallagher@rsgc.on.ca  -> Stevens              
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Sleep In             Casual Breakfast     Animal Therapy       Massage              
+
+______________________________________________________________________________________________
+
+drabin@rsgc.on.ca     -> Totten               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Physical Activity    Sleep In             Casual Breakfast     Sleep In             
+
+______________________________________________________________________________________________
+
+OClute@rsgc.on.ca     -> Totten               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Casual Breakfast     Casual Breakfast     Math Exam            Sleep In             
+
+______________________________________________________________________________________________
+
+JRussell@rsgc.on.ca   -> Totten               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Casual Breakfast     Casual Breakfast     Casual Breakfast     Sleep In             
+
+______________________________________________________________________________________________
+
+DeMiller@rsgc.on.ca   -> Totten               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Academic Management  Sleep In             Animal Therapy       Animal Therapy       Sleep In             
+
+______________________________________________________________________________________________
+
+POMalley@rsgc.on.ca   -> Totten               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Academic Management  Sleep In             Casual Breakfast     Relaxation           Sleep In             
+
+______________________________________________________________________________________________
+
+AMcLeish@rsgc.on.ca   -> Totten               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Physical Activity    Physical Activity    Sleep In             Physical Activity    Sleep In             
+
+______________________________________________________________________________________________
+
+CHacker@rsgc.on.ca    -> Totten               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Sleep In             Relaxation           Relaxation           Sleep In             
+
+______________________________________________________________________________________________
+
+DDaudi@rsgc.on.ca     -> Totten               
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Sleep In             Casual Breakfast     Physical Activity    Sleep In             
+
+______________________________________________________________________________________________
+
+SZimmermann@rsgc.on.ca  -> Van Herk             
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Animal Therapy       Casual Breakfast     Casual Breakfast     Math Exam            Massage              
+
+______________________________________________________________________________________________
+
+SDeshpande@rsgc.on.ca  -> Vivares              
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Sleep In             Animal Therapy       Animal Therapy       Math Exam            Massage              
+
+______________________________________________________________________________________________
+
+RHodgson@rsgc.on.ca   -> Vivares              
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Physical Activity    Sleep In             Casual Breakfast     Sleep In             
+
+______________________________________________________________________________________________
+
+SPetrovic@rsgc.on.ca  -> Vivares              
+
+Monday               Tuesday              Wednesday            Thursday             Friday               
+
+Casual Breakfast     Academic Management  Casual Breakfast     Casual Breakfast     Sleep In             
+
+______________________________________________________________________________________________
+

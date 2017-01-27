@@ -243,20 +243,15 @@ for (number, line) in reader.enumerated()
         }
     }
 }
-//print(activities)
-//print(students)
 
 
 
-//              .--~~,__
-//:-....,-------`~~'._.'
-//`-,,,  ,_      ; '~U'
-//_,-' ,'`-__; '--.|
-//(_/'~~      ''''(;)
-//
-
-
-
+//              .--~~,__ |
+//:-....,-------`~~'._.' |
+//`-,,,  ,_      ; '~U'  |
+//_,-' ,'`-__; '--.|     |
+//(_/'~~      ''''(;)    |
+//                       |
 
 
 
@@ -275,11 +270,11 @@ func format (baseWord: String) -> String {
     if (standardAmount > charAmount) { //detemines if extra spaces are needed
         needChar = standardAmount - charAmount
     }
-    for i in 0...needChar { //add however many spaces are needed
+    for _ in 0...needChar { //add however many spaces are needed
         newChar.append(" ")
     }
-    var newString = String(newChar)
-    return newString
+    return String(newChar)
+    
 }
 
 var week = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"] //just for printing out
@@ -292,7 +287,7 @@ guard let writer = LineWriter(path: "/Users/student/Desktop/MentalHealthWeekFina
 var advisorList : [String] = ["Bader Shaw","Beatty","Bibby","Chow","Darvasi","DeBlois","Doerksen","Donnelly","Enfield","Evans","Farrar","Fitz","Ghoreshy","Girvan","Gledhill","Grdon","Hart","Hutton","Kotecha","Lambersky","Newton","O'leary","Rankin","Seale","Spacie","Stevens","Totten", "Van Herk", "Vivares"]
 
 func indivdualTime () { //this is for the advisors and students
-   
+    
     for name in advisorList {
         for i in 0...students.count-3 {
             //this only prints if in correct advisors thereby sorting the students into there advisors
@@ -307,7 +302,6 @@ func indivdualTime () { //this is for the advisors and students
                 writer.write(line: "" )
                 writer.write(line: "______________________________________________________________________________________________" )
                 writer.write(line: "" )
-                
             }
         }
     }
@@ -317,30 +311,23 @@ func indivdualTime () { //this is for the advisors and students
 func superVisorList2 (){ //This is for the activity supervisors
     for i in 1...activities.count-1 {
         
+        //prints names of supervisor and activity
         writer.write(line: "")
         writer.write(line: "______________________________" )
         writer.write(line: "")
-        //prints names of supervisor and activity
-        //print(activities[i].name)
-        //print(activities[i].supervisorName)
-       // print("")
+        
         
         writer.write(line: "\(activities[i].name)")
         writer.write(line: "\(activities[i].supervisorName)")
         
         //prints all students and proper days of week
         for j in 0...4 {
-            //print("")
-            //print(week[j])
-            //print("")
+            
             writer.write(line: "")
             writer.write(line: "\(format(baseWord: week[j]))")
             
             if activities[i].weekdays[j].count-1 > 0 {
                 for l in 0...activities[i].weekdays[j].count-1{
-                    
-                    //print(activities[i].weekdays[j][l])
-                    
                     writer.write(line: "\(format(baseWord: activities[i].weekdays[j][l]))")
                     
                 }
@@ -348,6 +335,8 @@ func superVisorList2 (){ //This is for the activity supervisors
         }
     }
 }
+
+
 
 superVisorList2()//for supervisor
 indivdualTime() //for advisor

@@ -6,19 +6,23 @@ Mr. Fitz
 
 Monday               
 IBoloten@rsgc.on.ca  
+GChien@rsgc.on.ca    
 LByrne@rsgc.on.ca    
 MAnderson@rsgc.on.ca 
 RDavis@rsgc.on.ca    
 TLatimer@rsgc.on.ca  
 SDeshpande@rsgc.on.ca 
 OClute@rsgc.on.ca    
+SZimmermann@rsgc.on.ca 
 JRussell@rsgc.on.ca  
 SReed@rsgc.on.ca     
 RColville-Reeves@rsgc.on.ca 
+PCai@rsgc.on.ca      
 EKelly@rsgc.on.ca    
 oholland@rsgc.on.ca  
 GButterworth@rsgc.on.ca 
 HHardinge@rsgc.on.ca 
+WPearson@rsgc.on.ca  
 LVandenBroek@rsgc.on.ca 
 PBagga@rsgc.on.ca    
 JGoldsmith@rsgc.on.ca 
@@ -26,11 +30,14 @@ BLeder@rsgc.on.ca
 CNobleCurveira@rsgc.on.ca 
 MMcCutcheon@rsgc.on.ca 
 PBernhard@rsgc.on.ca 
+CMeakin@rsgc.on.ca   
 SBlackwell@rsgc.on.ca 
 MKingsley@rsgc.on.ca 
 wmcevoy@rsgc.on.ca   
 OGane@rsgc.on.ca     
 MPritchard@rsgc.on.ca 
+RKurdyak@rsgc.on.ca  
+JFisher@rsgc.on.ca   
 ERedfern@rsgc.on.ca  
 JBurleton@rsgc.on.ca 
 wgraham@rsgc.on.ca   
@@ -38,6 +45,7 @@ HMcDaniel@rsgc.on.ca
 KLaxdal@rsgc.on.ca   
 jhugessen@rsgc.on.ca 
 jwilson@rsgc.on.ca   
+AChiu@rsgc.on.ca     
 gstewart@rsgc.on.ca  
 OHardinge@rsgc.on.ca 
 RWilmer@rsgc.on.ca   
@@ -49,6 +57,7 @@ ALeishman@rsgc.on.ca
 GHardacre@rsgc.on.ca 
 TDavies@rsgc.on.ca   
 NJones@rsgc.on.ca    
+STrevor@rsgc.on.ca   
 NBarney@rsgc.on.ca   
 MStewart@rsgc.on.ca  
 RBruce@rsgc.on.ca    
@@ -59,6 +68,7 @@ Tuesday
 JSchaffer@rsgc.on.ca 
 RBehbahani@rsgc.on.ca 
 NGeist@rsgc.on.ca    
+WHoward-Waddingham@rsgc.on.ca 
 EMcAuliffe@rsgc.on.ca 
 APyper@rsgc.on.ca    
 JMizen@rsgc.on.ca    
@@ -69,15 +79,18 @@ RShabbir@rsgc.on.ca
 ASheeres-Paulicpulle@rsgc.on.ca 
 JBowlesConover@rsgc.on.ca 
 AHepner@rsgc.on.ca   
+RHamilton@rsgc.on.ca 
 JRau@rsgc.on.ca      
 EPeterson@rsgc.on.ca 
 NBethlenfalvy@rsgc.on.ca 
 BAnderson@rsgc.on.ca 
 jday@rsgc.on.ca      
 JLongwell@rsgc.on.ca 
+NUsher-Jones@rsgc.on.ca 
 jstephenson-smith@rsgc.on.ca 
 AFerguson@rsgc.on.ca 
 ALee@rsgc.on.ca      
+blai@rsgc.on.ca      
 DeMiller@rsgc.on.ca  
 POMalley@rsgc.on.ca  
 jirwin@rsgc.on.ca    
@@ -89,6 +102,7 @@ CHacker@rsgc.on.ca
 QClarke@rsgc.on.ca   
 OMurphy@rsgc.on.ca   
 Jwalker-sherman@rsgc.on.ca 
+KChepeha@rsgc.on.ca  
 WGold@rsgc.on.ca     
 MGoodman@rsgc.on.ca  
 BDonnelly@rsgc.on.ca 
@@ -126,7 +140,9 @@ FGane@rsgc.on.ca
 RBrocklehurst@rsgc.on.ca 
 JSussman@rsgc.on.ca  
 NPloughman@rsgc.on.ca 
+SPetrovic@rsgc.on.ca 
 jcorley@rsgc.on.ca   
+kfiset-algarvio@rsgc.on.ca 
 LTannerya@rsgc.on.ca 
 ABantis@rsgc.on.ca   
 CMacDougall@rsgc.on.ca 
@@ -139,6 +155,7 @@ KTsambalieros@rsgc.on.ca
 LSimpson@rsgc.on.ca  
 WHope@rsgc.on.ca     
 TPartridge@rsgc.on.ca 
+FPristine@rsgc.on.ca 
 mhugessen@rsgc.on.ca 
 AHodgson@rsgc.on.ca  
 QKirkpatrick@rsgc.on.ca 
@@ -149,6 +166,7 @@ mwheler@rsgc.on.ca
 JCostigan@rsgc.on.ca 
 NChristoffersen@rsgc.on.ca 
 RLaxdal@rsgc.on.ca   
+schapple@rsgc.on.ca  
 DaRaymond@rsgc.on.ca 
 MLeFeuvre@rsgc.on.ca 
 MFogolini@rsgc.on.ca 
@@ -157,7 +175,9 @@ HReed@rsgc.on.ca
 Thursday             
 ZWebster@rsgc.on.ca  
 adonnelly@rsgc.on.ca 
+LWatson@rsgc.on.ca   
 jkenney@rsgc.on.ca   
+NWoollcombe@rsgc.on.ca 
 JoParker@rsgc.on.ca  
 cvont@rsgc.on.ca     
 sshabbir@rsgc.on.ca  
@@ -176,11 +196,16 @@ AHerbert-Robertson@rsgc.on.ca
 DDiPierdomenico@rsgc.on.ca 
 JNewall@rsgc.on.ca   
 GTaylor@rsgc.on.ca   
+JCase@rsgc.on.ca     
 jlank@rsgc.on.ca     
 WLenkov@rsgc.on.ca   
 wmcleod@rsgc.on.ca   
 NVassos@rsgc.on.ca   
+SPeterson@rsgc.on.ca 
+mforgione@rsgc.on.ca 
+lmccutcheon@rsgc.on.ca 
 ZKingsley@rsgc.on.ca 
+STatoff@rsgc.on.ca   
 cabbott@rsgc.on.ca   
 rgross@rsgc.on.ca    
 lmorgante@rsgc.on.ca 
@@ -190,21 +215,28 @@ jdolgin@rsgc.on.ca
 SFarber@rsgc.on.ca   
 EHaisleyBrown@rsgc.on.ca 
 dbarkway@rsgc.on.ca  
+jsutton@rsgc.on.ca   
 jsmith@rsgc.on.ca    
 OMcFarlane@rsgc.on.ca 
 JKruse@rsgc.on.ca    
 JFell@rsgc.on.ca     
 mrovazzi@rsgc.on.ca  
 FWilkinson@rsgc.on.ca 
+ffatola@rsgc.on.ca   
 LWurstlin@rsgc.on.ca 
+MHartford@rsgc.on.ca 
 syuan@rsgc.on.ca     
 CManson@rsgc.on.ca   
+MMacMurray@rsgc.on.ca 
 GPlayfair@rsgc.on.ca 
 
 Friday               
+ZWebster@rsgc.on.ca  
 adonnelly@rsgc.on.ca 
 JSchaffer@rsgc.on.ca 
+LWatson@rsgc.on.ca   
 jkenney@rsgc.on.ca   
+NWoollcombe@rsgc.on.ca 
 JoParker@rsgc.on.ca  
 cvont@rsgc.on.ca     
 GBell@rsgc.on.ca     
@@ -212,13 +244,22 @@ sshabbir@rsgc.on.ca
 wvannostrand@rsgc.on.ca 
 ARigby@rsgc.on.ca    
 WHepner@rsgc.on.ca   
+IBoloten@rsgc.on.ca  
+MLivingston@rsgc.on.ca 
 bmazan@rsgc.on.ca    
 alanghorne@rsgc.on.ca 
+GChien@rsgc.on.ca    
+WRochon@rsgc.on.ca   
+LByrne@rsgc.on.ca    
 RBehbahani@rsgc.on.ca 
+MAnderson@rsgc.on.ca 
 RDavis@rsgc.on.ca    
 drabin@rsgc.on.ca    
 TLatimer@rsgc.on.ca  
+AMartin@rsgc.on.ca   
+SDeshpande@rsgc.on.ca 
 OClute@rsgc.on.ca    
+SZimmermann@rsgc.on.ca 
 JRussell@rsgc.on.ca  
 JAnderson@rsgc.on.ca 
 SSellery@rsgc.on.ca  
@@ -234,6 +275,7 @@ EKelly@rsgc.on.ca
 oholland@rsgc.on.ca  
 NGeist@rsgc.on.ca    
 GButterworth@rsgc.on.ca 
+WHoward-Waddingham@rsgc.on.ca 
 EMcAuliffe@rsgc.on.ca 
 mblanco@rsgc.on.ca   
 APyper@rsgc.on.ca    
@@ -242,6 +284,10 @@ HHardinge@rsgc.on.ca
 WPearson@rsgc.on.ca  
 LVandenBroek@rsgc.on.ca 
 chmacdonald@rsgc.on.ca 
+JMizen@rsgc.on.ca    
+HStevenson@rsgc.on.ca 
+CGallagher@rsgc.on.ca 
+cforgione@rsgc.on.ca 
 RShabbir@rsgc.on.ca  
 GBenson@rsgc.on.ca   
 ASheeres-Paulicpulle@rsgc.on.ca 
@@ -250,6 +296,7 @@ JGoldsmith@rsgc.on.ca
 LTao@rsgc.on.ca      
 BLeder@rsgc.on.ca    
 BChristmann@rsgc.on.ca 
+CNobleCurveira@rsgc.on.ca 
 lvidal-ribassmith@rsgc.on.ca 
 JBowlesConover@rsgc.on.ca 
 AHepner@rsgc.on.ca   
@@ -261,6 +308,7 @@ NBethlenfalvy@rsgc.on.ca
 BAnderson@rsgc.on.ca 
 jday@rsgc.on.ca      
 JLongwell@rsgc.on.ca 
+NUsher-Jones@rsgc.on.ca 
 jstephenson-smith@rsgc.on.ca 
 LConrod@rsgc.on.ca   
 SConnolly@rsgc.on.ca 
@@ -268,23 +316,33 @@ JHancock@rsgc.on.ca
 mamccutcheon@rsgc.on.ca 
 AHerbert-Robertson@rsgc.on.ca 
 DDiPierdomenico@rsgc.on.ca 
+PBernhard@rsgc.on.ca 
+AFerguson@rsgc.on.ca 
 JNewall@rsgc.on.ca   
 CGoodall@rsgc.on.ca  
 ALee@rsgc.on.ca      
+CMeakin@rsgc.on.ca   
 blai@rsgc.on.ca      
 DeMiller@rsgc.on.ca  
 SBlackwell@rsgc.on.ca 
 GTaylor@rsgc.on.ca   
 POMalley@rsgc.on.ca  
+JCase@rsgc.on.ca     
 jirwin@rsgc.on.ca    
 jlank@rsgc.on.ca     
+MKingsley@rsgc.on.ca 
 WLenkov@rsgc.on.ca   
 SCanavan@rsgc.on.ca  
 WGround@rsgc.on.ca   
 OLogush@rsgc.on.ca   
 AMcLeish@rsgc.on.ca  
 wmcleod@rsgc.on.ca   
+NVassos@rsgc.on.ca   
+SPeterson@rsgc.on.ca 
+MVassos@rsgc.on.ca   
+mforgione@rsgc.on.ca 
 wmcevoy@rsgc.on.ca   
+lmccutcheon@rsgc.on.ca 
 OGane@rsgc.on.ca     
 NTepsich@rsgc.on.ca  
 MPritchard@rsgc.on.ca 
@@ -292,15 +350,20 @@ FGane@rsgc.on.ca
 RBrocklehurst@rsgc.on.ca 
 CHacker@rsgc.on.ca   
 ZKingsley@rsgc.on.ca 
+RKurdyak@rsgc.on.ca  
 JFisher@rsgc.on.ca   
 QClarke@rsgc.on.ca   
+STatoff@rsgc.on.ca   
 JSussman@rsgc.on.ca  
+cabbott@rsgc.on.ca   
 rgross@rsgc.on.ca    
+lmorgante@rsgc.on.ca 
 NPloughman@rsgc.on.ca 
 ERedfern@rsgc.on.ca  
 SPetrovic@rsgc.on.ca 
 JBlanco@rsgc.on.ca   
 jcorley@rsgc.on.ca   
+kfiset-algarvio@rsgc.on.ca 
 epyper@rsgc.on.ca    
 JBurleton@rsgc.on.ca 
 LTannerya@rsgc.on.ca 
@@ -314,15 +377,18 @@ Jwalker-sherman@rsgc.on.ca
 jhugessen@rsgc.on.ca 
 CMacDougall@rsgc.on.ca 
 jwilson@rsgc.on.ca   
+AChiu@rsgc.on.ca     
 DNoe@rsgc.on.ca      
 SFarber@rsgc.on.ca   
 EHaisleyBrown@rsgc.on.ca 
 KSharma@rsgc.on.ca   
 jcrossland@rsgc.on.ca 
+KChepeha@rsgc.on.ca  
 AWilker@rsgc.on.ca   
 SDanson@rsgc.on.ca   
 gstewart@rsgc.on.ca  
 OHardinge@rsgc.on.ca 
+KTsambalieros@rsgc.on.ca 
 RWilmer@rsgc.on.ca   
 LSimpson@rsgc.on.ca  
 BGolding@rsgc.on.ca  
@@ -330,16 +396,20 @@ dbarkway@rsgc.on.ca
 kelder@havergal.on.ca 
 WGold@rsgc.on.ca     
 WHope@rsgc.on.ca     
+MGoodman@rsgc.on.ca  
 FTafel-Sennecke@rsgc.on.ca 
 SArmstrong@rsgc.on.ca 
 BDonnelly@rsgc.on.ca 
 JMcMaster@rsgc.on.ca 
+jsutton@rsgc.on.ca   
 ALeishman@rsgc.on.ca 
 TPartridge@rsgc.on.ca 
 DDaudi@rsgc.on.ca    
 jsmith@rsgc.on.ca    
 MCulbert@rsgc.on.ca  
+FPristine@rsgc.on.ca 
 GHardacre@rsgc.on.ca 
+mhugessen@rsgc.on.ca 
 AHodgson@rsgc.on.ca  
 TDavies@rsgc.on.ca   
 OMcFarlane@rsgc.on.ca 
@@ -355,6 +425,7 @@ NBarney@rsgc.on.ca
 JFell@rsgc.on.ca     
 mwheler@rsgc.on.ca   
 JCostigan@rsgc.on.ca 
+MStewart@rsgc.on.ca  
 AWood@rsgc.on.ca     
 NChristoffersen@rsgc.on.ca 
 AFell@rsgc.on.ca     
@@ -362,9 +433,12 @@ mrovazzi@rsgc.on.ca
 RLaxdal@rsgc.on.ca   
 FWilkinson@rsgc.on.ca 
 SOrmsby@rsgc.on.ca   
+schapple@rsgc.on.ca  
+ffatola@rsgc.on.ca   
 LWurstlin@rsgc.on.ca 
 DaRaymond@rsgc.on.ca 
 MLeFeuvre@rsgc.on.ca 
+MHartford@rsgc.on.ca 
 syuan@rsgc.on.ca     
 CManson@rsgc.on.ca   
 RBruce@rsgc.on.ca    
@@ -383,229 +457,651 @@ Ms. Totten
 
 Monday               
 JSchaffer@rsgc.on.ca 
-RBehbahani@rsgc.on.ca 
-drabin@rsgc.on.ca    
-RHodgson@rsgc.on.ca  
-EMcAuliffe@rsgc.on.ca 
-cforgione@rsgc.on.ca 
-ASheeres-Paulicpulle@rsgc.on.ca 
-LTao@rsgc.on.ca      
-BChristmann@rsgc.on.ca 
-JLongwell@rsgc.on.ca 
-LConrod@rsgc.on.ca   
-SConnolly@rsgc.on.ca 
-AFerguson@rsgc.on.ca 
-CGoodall@rsgc.on.ca  
-WGround@rsgc.on.ca   
-RBrocklehurst@rsgc.on.ca 
-CHacker@rsgc.on.ca   
-RKurdyak@rsgc.on.ca  
-JFisher@rsgc.on.ca   
-QClarke@rsgc.on.ca   
-NPloughman@rsgc.on.ca 
-SPetrovic@rsgc.on.ca 
-LTannerya@rsgc.on.ca 
-OMurphy@rsgc.on.ca   
-CMacDougall@rsgc.on.ca 
-DNoe@rsgc.on.ca      
-AWilker@rsgc.on.ca   
-KTsambalieros@rsgc.on.ca 
-WGold@rsgc.on.ca     
-BDonnelly@rsgc.on.ca 
-JMcMaster@rsgc.on.ca 
-DDaudi@rsgc.on.ca    
-MCulbert@rsgc.on.ca  
-FPristine@rsgc.on.ca 
-mhugessen@rsgc.on.ca 
-AHodgson@rsgc.on.ca  
-mablum@rsgc.on.ca    
-DCrosner@rsgc.on.ca  
-PKirby@rsgc.on.ca    
-WMcIlroy@rsgc.on.ca  
-STrevor@rsgc.on.ca   
-mwheler@rsgc.on.ca   
-JCostigan@rsgc.on.ca 
-AWood@rsgc.on.ca     
-AFell@rsgc.on.ca     
-RLaxdal@rsgc.on.ca   
-SOrmsby@rsgc.on.ca   
-DaRaymond@rsgc.on.ca 
-MLeFeuvre@rsgc.on.ca 
-OBarney@rsgc.on.ca   
-MFogolini@rsgc.on.ca 
-HReed@rsgc.on.ca     
-
-Tuesday              
-adonnelly@rsgc.on.ca 
-LWatson@rsgc.on.ca   
-jkenney@rsgc.on.ca   
-cvont@rsgc.on.ca     
-sshabbir@rsgc.on.ca  
-wvannostrand@rsgc.on.ca 
-ARigby@rsgc.on.ca    
-bmazan@rsgc.on.ca    
-MAnderson@rsgc.on.ca 
-OClute@rsgc.on.ca    
-SZimmermann@rsgc.on.ca 
-JRussell@rsgc.on.ca  
-BDreger@rsgc.on.ca   
-PCai@rsgc.on.ca      
-oholland@rsgc.on.ca  
-PBagga@rsgc.on.ca    
-BLeder@rsgc.on.ca    
-MMcCutcheon@rsgc.on.ca 
-mamccutcheon@rsgc.on.ca 
-SBlackwell@rsgc.on.ca 
-GTaylor@rsgc.on.ca   
-JCase@rsgc.on.ca     
-MKingsley@rsgc.on.ca 
-wmcleod@rsgc.on.ca   
-NVassos@rsgc.on.ca   
-wmcevoy@rsgc.on.ca   
-OGane@rsgc.on.ca     
-STatoff@rsgc.on.ca   
-lmorgante@rsgc.on.ca 
-ERedfern@rsgc.on.ca  
-JBlanco@rsgc.on.ca   
-wgraham@rsgc.on.ca   
-jdolgin@rsgc.on.ca   
-KLaxdal@rsgc.on.ca   
-jwilson@rsgc.on.ca   
-EHaisleyBrown@rsgc.on.ca 
-OHardinge@rsgc.on.ca 
-RWilmer@rsgc.on.ca   
-BGolding@rsgc.on.ca  
-dbarkway@rsgc.on.ca  
-FTafel-Sennecke@rsgc.on.ca 
-SArmstrong@rsgc.on.ca 
-ALeishman@rsgc.on.ca 
-jsmith@rsgc.on.ca    
-GHardacre@rsgc.on.ca 
-OMcFarlane@rsgc.on.ca 
-NJones@rsgc.on.ca    
-STrevor@rsgc.on.ca   
-NBarney@rsgc.on.ca   
-JFell@rsgc.on.ca     
-MStewart@rsgc.on.ca  
-mrovazzi@rsgc.on.ca  
-LWurstlin@rsgc.on.ca 
-MHartford@rsgc.on.ca 
-syuan@rsgc.on.ca     
-JBarkway@rsgc.on.ca  
-GPlayfair@rsgc.on.ca 
-aturnbull@rsgc.on.ca 
-
-Wednesday            
-JSchaffer@rsgc.on.ca 
-LWatson@rsgc.on.ca   
-jkenney@rsgc.on.ca   
-JoParker@rsgc.on.ca  
-cvont@rsgc.on.ca     
-wvannostrand@rsgc.on.ca 
-ARigby@rsgc.on.ca    
-WHepner@rsgc.on.ca   
+GBell@rsgc.on.ca     
+IBoloten@rsgc.on.ca  
+MLivingston@rsgc.on.ca 
+GChien@rsgc.on.ca    
 LByrne@rsgc.on.ca    
 RBehbahani@rsgc.on.ca 
+MAnderson@rsgc.on.ca 
+RDavis@rsgc.on.ca    
+drabin@rsgc.on.ca    
+TLatimer@rsgc.on.ca  
+AMartin@rsgc.on.ca   
+SDeshpande@rsgc.on.ca 
 OClute@rsgc.on.ca    
 SZimmermann@rsgc.on.ca 
 JRussell@rsgc.on.ca  
+JAnderson@rsgc.on.ca 
+SSellery@rsgc.on.ca  
+ANash@rsgc.on.ca     
+RHodgson@rsgc.on.ca  
+MKahr-Landolt@rsgc.on.ca 
+SReed@rsgc.on.ca     
+RColville-Reeves@rsgc.on.ca 
+PCai@rsgc.on.ca      
+EKelly@rsgc.on.ca    
+oholland@rsgc.on.ca  
+NGeist@rsgc.on.ca    
+GButterworth@rsgc.on.ca 
+WHoward-Waddingham@rsgc.on.ca 
 EMcAuliffe@rsgc.on.ca 
+APyper@rsgc.on.ca    
+CAristone@rsgc.on.ca 
+HHardinge@rsgc.on.ca 
+WPearson@rsgc.on.ca  
 LVandenBroek@rsgc.on.ca 
 JMizen@rsgc.on.ca    
 HStevenson@rsgc.on.ca 
 CGallagher@rsgc.on.ca 
 cforgione@rsgc.on.ca 
 RShabbir@rsgc.on.ca  
+GBenson@rsgc.on.ca   
+ASheeres-Paulicpulle@rsgc.on.ca 
 PBagga@rsgc.on.ca    
+JGoldsmith@rsgc.on.ca 
+LTao@rsgc.on.ca      
 BLeder@rsgc.on.ca    
+BChristmann@rsgc.on.ca 
+CNobleCurveira@rsgc.on.ca 
+lvidal-ribassmith@rsgc.on.ca 
+JBowlesConover@rsgc.on.ca 
+AHepner@rsgc.on.ca   
+RHamilton@rsgc.on.ca 
+JRau@rsgc.on.ca      
+MMcCutcheon@rsgc.on.ca 
+EPeterson@rsgc.on.ca 
+NBethlenfalvy@rsgc.on.ca 
+BAnderson@rsgc.on.ca 
+jday@rsgc.on.ca      
 JLongwell@rsgc.on.ca 
+NUsher-Jones@rsgc.on.ca 
 jstephenson-smith@rsgc.on.ca 
+LConrod@rsgc.on.ca   
+SConnolly@rsgc.on.ca 
+JHancock@rsgc.on.ca  
+PBernhard@rsgc.on.ca 
+AFerguson@rsgc.on.ca 
+CGoodall@rsgc.on.ca  
 ALee@rsgc.on.ca      
+CMeakin@rsgc.on.ca   
+blai@rsgc.on.ca      
+DeMiller@rsgc.on.ca  
 SBlackwell@rsgc.on.ca 
 POMalley@rsgc.on.ca  
-JCase@rsgc.on.ca     
-WLenkov@rsgc.on.ca   
-NVassos@rsgc.on.ca   
+jirwin@rsgc.on.ca    
+MKingsley@rsgc.on.ca 
+SCanavan@rsgc.on.ca  
+WGround@rsgc.on.ca   
+OLogush@rsgc.on.ca   
+AMcLeish@rsgc.on.ca  
+MVassos@rsgc.on.ca   
+wmcevoy@rsgc.on.ca   
+OGane@rsgc.on.ca     
+NTepsich@rsgc.on.ca  
 MPritchard@rsgc.on.ca 
-ZKingsley@rsgc.on.ca 
+FGane@rsgc.on.ca     
+RBrocklehurst@rsgc.on.ca 
+CHacker@rsgc.on.ca   
+RKurdyak@rsgc.on.ca  
+JFisher@rsgc.on.ca   
+QClarke@rsgc.on.ca   
+JSussman@rsgc.on.ca  
+NPloughman@rsgc.on.ca 
+ERedfern@rsgc.on.ca  
 SPetrovic@rsgc.on.ca 
-JBlanco@rsgc.on.ca   
+jcorley@rsgc.on.ca   
 kfiset-algarvio@rsgc.on.ca 
 JBurleton@rsgc.on.ca 
+LTannerya@rsgc.on.ca 
 wgraham@rsgc.on.ca   
+ABantis@rsgc.on.ca   
 HMcDaniel@rsgc.on.ca 
 OMurphy@rsgc.on.ca   
 KLaxdal@rsgc.on.ca   
+Jwalker-sherman@rsgc.on.ca 
+jhugessen@rsgc.on.ca 
+CMacDougall@rsgc.on.ca 
 jwilson@rsgc.on.ca   
 AChiu@rsgc.on.ca     
+DNoe@rsgc.on.ca      
+KSharma@rsgc.on.ca   
+jcrossland@rsgc.on.ca 
+KChepeha@rsgc.on.ca  
+AWilker@rsgc.on.ca   
+SDanson@rsgc.on.ca   
+gstewart@rsgc.on.ca  
 OHardinge@rsgc.on.ca 
+KTsambalieros@rsgc.on.ca 
+RWilmer@rsgc.on.ca   
+LSimpson@rsgc.on.ca  
 BGolding@rsgc.on.ca  
+kelder@havergal.on.ca 
 WGold@rsgc.on.ca     
+WHope@rsgc.on.ca     
+MGoodman@rsgc.on.ca  
 FTafel-Sennecke@rsgc.on.ca 
 SArmstrong@rsgc.on.ca 
 BDonnelly@rsgc.on.ca 
 JMcMaster@rsgc.on.ca 
 ALeishman@rsgc.on.ca 
+TPartridge@rsgc.on.ca 
 DDaudi@rsgc.on.ca    
+MCulbert@rsgc.on.ca  
+FPristine@rsgc.on.ca 
+GHardacre@rsgc.on.ca 
+mhugessen@rsgc.on.ca 
+AHodgson@rsgc.on.ca  
+TDavies@rsgc.on.ca   
+mablum@rsgc.on.ca    
+NJones@rsgc.on.ca    
+QKirkpatrick@rsgc.on.ca 
+DCrosner@rsgc.on.ca  
+PKirby@rsgc.on.ca    
+WMcIlroy@rsgc.on.ca  
+STrevor@rsgc.on.ca   
+NBarney@rsgc.on.ca   
+mwheler@rsgc.on.ca   
+JCostigan@rsgc.on.ca 
+MStewart@rsgc.on.ca  
+AWood@rsgc.on.ca     
+NChristoffersen@rsgc.on.ca 
+AFell@rsgc.on.ca     
+RLaxdal@rsgc.on.ca   
+SOrmsby@rsgc.on.ca   
+schapple@rsgc.on.ca  
+DaRaymond@rsgc.on.ca 
+MLeFeuvre@rsgc.on.ca 
+RBruce@rsgc.on.ca    
+JBarkway@rsgc.on.ca  
+OBarney@rsgc.on.ca   
+MFogolini@rsgc.on.ca 
+
+Tuesday              
+ZWebster@rsgc.on.ca  
+adonnelly@rsgc.on.ca 
+JSchaffer@rsgc.on.ca 
+LWatson@rsgc.on.ca   
+jkenney@rsgc.on.ca   
+NWoollcombe@rsgc.on.ca 
+JoParker@rsgc.on.ca  
+cvont@rsgc.on.ca     
+sshabbir@rsgc.on.ca  
+wvannostrand@rsgc.on.ca 
+ARigby@rsgc.on.ca    
+WHepner@rsgc.on.ca   
+IBoloten@rsgc.on.ca  
+bmazan@rsgc.on.ca    
+alanghorne@rsgc.on.ca 
+GChien@rsgc.on.ca    
+WRochon@rsgc.on.ca   
+LByrne@rsgc.on.ca    
+RBehbahani@rsgc.on.ca 
+MAnderson@rsgc.on.ca 
+RDavis@rsgc.on.ca    
+TLatimer@rsgc.on.ca  
+SDeshpande@rsgc.on.ca 
+OClute@rsgc.on.ca    
+SZimmermann@rsgc.on.ca 
+JRussell@rsgc.on.ca  
+ASmoley@rsgc.on.ca   
+BDreger@rsgc.on.ca   
+SReed@rsgc.on.ca     
+RColville-Reeves@rsgc.on.ca 
+PCai@rsgc.on.ca      
+EKelly@rsgc.on.ca    
+oholland@rsgc.on.ca  
+NGeist@rsgc.on.ca    
+GButterworth@rsgc.on.ca 
+WHoward-Waddingham@rsgc.on.ca 
+EMcAuliffe@rsgc.on.ca 
+mblanco@rsgc.on.ca   
+APyper@rsgc.on.ca    
+HHardinge@rsgc.on.ca 
+WPearson@rsgc.on.ca  
+LVandenBroek@rsgc.on.ca 
+chmacdonald@rsgc.on.ca 
+JMizen@rsgc.on.ca    
+HStevenson@rsgc.on.ca 
+CGallagher@rsgc.on.ca 
+cforgione@rsgc.on.ca 
+RShabbir@rsgc.on.ca  
+ASheeres-Paulicpulle@rsgc.on.ca 
+PBagga@rsgc.on.ca    
+JGoldsmith@rsgc.on.ca 
+BLeder@rsgc.on.ca    
+CNobleCurveira@rsgc.on.ca 
+JBowlesConover@rsgc.on.ca 
+AHepner@rsgc.on.ca   
+RHamilton@rsgc.on.ca 
+JRau@rsgc.on.ca      
+MMcCutcheon@rsgc.on.ca 
+EPeterson@rsgc.on.ca 
+NBethlenfalvy@rsgc.on.ca 
+BAnderson@rsgc.on.ca 
+jday@rsgc.on.ca      
+JLongwell@rsgc.on.ca 
+NUsher-Jones@rsgc.on.ca 
+jstephenson-smith@rsgc.on.ca 
+mamccutcheon@rsgc.on.ca 
+AHerbert-Robertson@rsgc.on.ca 
+DDiPierdomenico@rsgc.on.ca 
+PBernhard@rsgc.on.ca 
+AFerguson@rsgc.on.ca 
+JNewall@rsgc.on.ca   
+ALee@rsgc.on.ca      
+CMeakin@rsgc.on.ca   
+blai@rsgc.on.ca      
+DeMiller@rsgc.on.ca  
+SBlackwell@rsgc.on.ca 
+GTaylor@rsgc.on.ca   
+POMalley@rsgc.on.ca  
+JCase@rsgc.on.ca     
+jirwin@rsgc.on.ca    
+jlank@rsgc.on.ca     
+MKingsley@rsgc.on.ca 
+WLenkov@rsgc.on.ca   
+SCanavan@rsgc.on.ca  
+OLogush@rsgc.on.ca   
+wmcleod@rsgc.on.ca   
+NVassos@rsgc.on.ca   
+SPeterson@rsgc.on.ca 
+MVassos@rsgc.on.ca   
+mforgione@rsgc.on.ca 
+wmcevoy@rsgc.on.ca   
+lmccutcheon@rsgc.on.ca 
+OGane@rsgc.on.ca     
+NTepsich@rsgc.on.ca  
+MPritchard@rsgc.on.ca 
+CHacker@rsgc.on.ca   
+ZKingsley@rsgc.on.ca 
+RKurdyak@rsgc.on.ca  
+JFisher@rsgc.on.ca   
+QClarke@rsgc.on.ca   
+STatoff@rsgc.on.ca   
+cabbott@rsgc.on.ca   
+rgross@rsgc.on.ca    
+lmorgante@rsgc.on.ca 
+ERedfern@rsgc.on.ca  
+JBlanco@rsgc.on.ca   
+epyper@rsgc.on.ca    
+JBurleton@rsgc.on.ca 
+wgraham@rsgc.on.ca   
+jdolgin@rsgc.on.ca   
+HMcDaniel@rsgc.on.ca 
+OMurphy@rsgc.on.ca   
+KLaxdal@rsgc.on.ca   
+Jwalker-sherman@rsgc.on.ca 
+jhugessen@rsgc.on.ca 
+jwilson@rsgc.on.ca   
+AChiu@rsgc.on.ca     
+SFarber@rsgc.on.ca   
+EHaisleyBrown@rsgc.on.ca 
+KChepeha@rsgc.on.ca  
+gstewart@rsgc.on.ca  
+OHardinge@rsgc.on.ca 
+RWilmer@rsgc.on.ca   
+BGolding@rsgc.on.ca  
+dbarkway@rsgc.on.ca  
+kelder@havergal.on.ca 
+WGold@rsgc.on.ca     
+MGoodman@rsgc.on.ca  
+FTafel-Sennecke@rsgc.on.ca 
+SArmstrong@rsgc.on.ca 
+BDonnelly@rsgc.on.ca 
+JMcMaster@rsgc.on.ca 
+jsutton@rsgc.on.ca   
+ALeishman@rsgc.on.ca 
+DDaudi@rsgc.on.ca    
+jsmith@rsgc.on.ca    
 MCulbert@rsgc.on.ca  
 GHardacre@rsgc.on.ca 
 TDavies@rsgc.on.ca   
 OMcFarlane@rsgc.on.ca 
+mablum@rsgc.on.ca    
+NJones@rsgc.on.ca    
+JKruse@rsgc.on.ca    
 STrevor@rsgc.on.ca   
 NBarney@rsgc.on.ca   
 JFell@rsgc.on.ca     
+MStewart@rsgc.on.ca  
 AWood@rsgc.on.ca     
 AFell@rsgc.on.ca     
+mrovazzi@rsgc.on.ca  
+FWilkinson@rsgc.on.ca 
 SOrmsby@rsgc.on.ca   
+ffatola@rsgc.on.ca   
+LWurstlin@rsgc.on.ca 
+MHartford@rsgc.on.ca 
+syuan@rsgc.on.ca     
 CManson@rsgc.on.ca   
+RBruce@rsgc.on.ca    
 MMacMurray@rsgc.on.ca 
-aturnbull@rsgc.on.ca 
+JBarkway@rsgc.on.ca  
 
-Thursday             
+Wednesday            
+ZWebster@rsgc.on.ca  
+adonnelly@rsgc.on.ca 
 JSchaffer@rsgc.on.ca 
 LWatson@rsgc.on.ca   
+jkenney@rsgc.on.ca   
+NWoollcombe@rsgc.on.ca 
+JoParker@rsgc.on.ca  
+cvont@rsgc.on.ca     
+GBell@rsgc.on.ca     
+sshabbir@rsgc.on.ca  
+wvannostrand@rsgc.on.ca 
+ARigby@rsgc.on.ca    
+WHepner@rsgc.on.ca   
+IBoloten@rsgc.on.ca  
+MLivingston@rsgc.on.ca 
+bmazan@rsgc.on.ca    
+alanghorne@rsgc.on.ca 
+GChien@rsgc.on.ca    
+WRochon@rsgc.on.ca   
+LByrne@rsgc.on.ca    
 RBehbahani@rsgc.on.ca 
+MAnderson@rsgc.on.ca 
+RDavis@rsgc.on.ca    
 drabin@rsgc.on.ca    
+TLatimer@rsgc.on.ca  
+AMartin@rsgc.on.ca   
+SDeshpande@rsgc.on.ca 
+OClute@rsgc.on.ca    
+SZimmermann@rsgc.on.ca 
 JRussell@rsgc.on.ca  
+JAnderson@rsgc.on.ca 
+SSellery@rsgc.on.ca  
+ASmoley@rsgc.on.ca   
+ANash@rsgc.on.ca     
+BDreger@rsgc.on.ca   
 RHodgson@rsgc.on.ca  
+MKahr-Landolt@rsgc.on.ca 
+SReed@rsgc.on.ca     
+RColville-Reeves@rsgc.on.ca 
 PCai@rsgc.on.ca      
+EKelly@rsgc.on.ca    
+oholland@rsgc.on.ca  
+NGeist@rsgc.on.ca    
+GButterworth@rsgc.on.ca 
+WHoward-Waddingham@rsgc.on.ca 
 EMcAuliffe@rsgc.on.ca 
+mblanco@rsgc.on.ca   
+APyper@rsgc.on.ca    
+CAristone@rsgc.on.ca 
+HHardinge@rsgc.on.ca 
+WPearson@rsgc.on.ca  
+LVandenBroek@rsgc.on.ca 
+chmacdonald@rsgc.on.ca 
+JMizen@rsgc.on.ca    
+HStevenson@rsgc.on.ca 
+CGallagher@rsgc.on.ca 
+cforgione@rsgc.on.ca 
+RShabbir@rsgc.on.ca  
+GBenson@rsgc.on.ca   
+ASheeres-Paulicpulle@rsgc.on.ca 
+PBagga@rsgc.on.ca    
+JGoldsmith@rsgc.on.ca 
 LTao@rsgc.on.ca      
+BLeder@rsgc.on.ca    
+BChristmann@rsgc.on.ca 
+CNobleCurveira@rsgc.on.ca 
+lvidal-ribassmith@rsgc.on.ca 
+JBowlesConover@rsgc.on.ca 
+AHepner@rsgc.on.ca   
+RHamilton@rsgc.on.ca 
+JRau@rsgc.on.ca      
+MMcCutcheon@rsgc.on.ca 
+EPeterson@rsgc.on.ca 
+NBethlenfalvy@rsgc.on.ca 
+BAnderson@rsgc.on.ca 
+jday@rsgc.on.ca      
 JLongwell@rsgc.on.ca 
+NUsher-Jones@rsgc.on.ca 
 jstephenson-smith@rsgc.on.ca 
 LConrod@rsgc.on.ca   
 SConnolly@rsgc.on.ca 
+JHancock@rsgc.on.ca  
+mamccutcheon@rsgc.on.ca 
+AHerbert-Robertson@rsgc.on.ca 
+DDiPierdomenico@rsgc.on.ca 
+PBernhard@rsgc.on.ca 
+AFerguson@rsgc.on.ca 
+JNewall@rsgc.on.ca   
+CGoodall@rsgc.on.ca  
 ALee@rsgc.on.ca      
+CMeakin@rsgc.on.ca   
+blai@rsgc.on.ca      
+DeMiller@rsgc.on.ca  
+SBlackwell@rsgc.on.ca 
+GTaylor@rsgc.on.ca   
+POMalley@rsgc.on.ca  
 JCase@rsgc.on.ca     
+jirwin@rsgc.on.ca    
+jlank@rsgc.on.ca     
+MKingsley@rsgc.on.ca 
+WLenkov@rsgc.on.ca   
+SCanavan@rsgc.on.ca  
 WGround@rsgc.on.ca   
+OLogush@rsgc.on.ca   
+AMcLeish@rsgc.on.ca  
+wmcleod@rsgc.on.ca   
+NVassos@rsgc.on.ca   
+SPeterson@rsgc.on.ca 
+MVassos@rsgc.on.ca   
 mforgione@rsgc.on.ca 
 wmcevoy@rsgc.on.ca   
+lmccutcheon@rsgc.on.ca 
+OGane@rsgc.on.ca     
+NTepsich@rsgc.on.ca  
+MPritchard@rsgc.on.ca 
+FGane@rsgc.on.ca     
 RBrocklehurst@rsgc.on.ca 
+CHacker@rsgc.on.ca   
+ZKingsley@rsgc.on.ca 
+RKurdyak@rsgc.on.ca  
+JFisher@rsgc.on.ca   
 QClarke@rsgc.on.ca   
+STatoff@rsgc.on.ca   
+JSussman@rsgc.on.ca  
+cabbott@rsgc.on.ca   
+rgross@rsgc.on.ca    
+lmorgante@rsgc.on.ca 
+NPloughman@rsgc.on.ca 
 ERedfern@rsgc.on.ca  
 SPetrovic@rsgc.on.ca 
+JBlanco@rsgc.on.ca   
+jcorley@rsgc.on.ca   
 kfiset-algarvio@rsgc.on.ca 
+epyper@rsgc.on.ca    
+JBurleton@rsgc.on.ca 
 LTannerya@rsgc.on.ca 
+wgraham@rsgc.on.ca   
+jdolgin@rsgc.on.ca   
+ABantis@rsgc.on.ca   
+HMcDaniel@rsgc.on.ca 
 OMurphy@rsgc.on.ca   
 KLaxdal@rsgc.on.ca   
+Jwalker-sherman@rsgc.on.ca 
+jhugessen@rsgc.on.ca 
+CMacDougall@rsgc.on.ca 
+jwilson@rsgc.on.ca   
+AChiu@rsgc.on.ca     
+DNoe@rsgc.on.ca      
+SFarber@rsgc.on.ca   
+EHaisleyBrown@rsgc.on.ca 
+KSharma@rsgc.on.ca   
+jcrossland@rsgc.on.ca 
+KChepeha@rsgc.on.ca  
 AWilker@rsgc.on.ca   
+SDanson@rsgc.on.ca   
+gstewart@rsgc.on.ca  
 OHardinge@rsgc.on.ca 
 KTsambalieros@rsgc.on.ca 
-BGolding@rsgc.on.ca  
-WGold@rsgc.on.ca     
-FTafel-Sennecke@rsgc.on.ca 
-BDonnelly@rsgc.on.ca 
-TPartridge@rsgc.on.ca 
-MCulbert@rsgc.on.ca  
-DCrosner@rsgc.on.ca  
-WMcIlroy@rsgc.on.ca  
-NBarney@rsgc.on.ca   
-AWood@rsgc.on.ca     
-RLaxdal@rsgc.on.ca   
-SOrmsby@rsgc.on.ca   
-DaRaymond@rsgc.on.ca 
-MLeFeuvre@rsgc.on.ca 
-MMacMurray@rsgc.on.ca 
+RWilmer@rsgc.on.ca   
+LSimpson@rsgc.on.ca  
+
+Thursday             
+ZWebster@rsgc.on.ca  
+adonnelly@rsgc.on.ca 
+JSchaffer@rsgc.on.ca 
+LWatson@rsgc.on.ca   
+jkenney@rsgc.on.ca   
+NWoollcombe@rsgc.on.ca 
+JoParker@rsgc.on.ca  
+cvont@rsgc.on.ca     
+GBell@rsgc.on.ca     
+sshabbir@rsgc.on.ca  
+wvannostrand@rsgc.on.ca 
+ARigby@rsgc.on.ca    
+WHepner@rsgc.on.ca   
+IBoloten@rsgc.on.ca  
+MLivingston@rsgc.on.ca 
+bmazan@rsgc.on.ca    
+alanghorne@rsgc.on.ca 
+GChien@rsgc.on.ca    
+WRochon@rsgc.on.ca   
+LByrne@rsgc.on.ca    
+RBehbahani@rsgc.on.ca 
+MAnderson@rsgc.on.ca 
+RDavis@rsgc.on.ca    
+drabin@rsgc.on.ca    
+TLatimer@rsgc.on.ca  
+AMartin@rsgc.on.ca   
+SDeshpande@rsgc.on.ca 
+OClute@rsgc.on.ca    
+SZimmermann@rsgc.on.ca 
+JRussell@rsgc.on.ca  
+JAnderson@rsgc.on.ca 
+SSellery@rsgc.on.ca  
+ASmoley@rsgc.on.ca   
+ANash@rsgc.on.ca     
+BDreger@rsgc.on.ca   
+RHodgson@rsgc.on.ca  
+MKahr-Landolt@rsgc.on.ca 
+SReed@rsgc.on.ca     
+RColville-Reeves@rsgc.on.ca 
+PCai@rsgc.on.ca      
+EKelly@rsgc.on.ca    
+oholland@rsgc.on.ca  
+NGeist@rsgc.on.ca    
+GButterworth@rsgc.on.ca 
+WHoward-Waddingham@rsgc.on.ca 
+EMcAuliffe@rsgc.on.ca 
+mblanco@rsgc.on.ca   
+APyper@rsgc.on.ca    
+CAristone@rsgc.on.ca 
+HHardinge@rsgc.on.ca 
+WPearson@rsgc.on.ca  
+LVandenBroek@rsgc.on.ca 
+chmacdonald@rsgc.on.ca 
+JMizen@rsgc.on.ca    
+HStevenson@rsgc.on.ca 
+CGallagher@rsgc.on.ca 
+cforgione@rsgc.on.ca 
+RShabbir@rsgc.on.ca  
+GBenson@rsgc.on.ca   
+ASheeres-Paulicpulle@rsgc.on.ca 
+PBagga@rsgc.on.ca    
+JGoldsmith@rsgc.on.ca 
+LTao@rsgc.on.ca      
+BLeder@rsgc.on.ca    
+BChristmann@rsgc.on.ca 
+CNobleCurveira@rsgc.on.ca 
+lvidal-ribassmith@rsgc.on.ca 
+JBowlesConover@rsgc.on.ca 
+AHepner@rsgc.on.ca   
+RHamilton@rsgc.on.ca 
+JRau@rsgc.on.ca      
+MMcCutcheon@rsgc.on.ca 
+EPeterson@rsgc.on.ca 
+NBethlenfalvy@rsgc.on.ca 
+BAnderson@rsgc.on.ca 
+jday@rsgc.on.ca      
+JLongwell@rsgc.on.ca 
+NUsher-Jones@rsgc.on.ca 
+jstephenson-smith@rsgc.on.ca 
+LConrod@rsgc.on.ca   
+SConnolly@rsgc.on.ca 
+JHancock@rsgc.on.ca  
+mamccutcheon@rsgc.on.ca 
+AHerbert-Robertson@rsgc.on.ca 
+DDiPierdomenico@rsgc.on.ca 
+PBernhard@rsgc.on.ca 
+AFerguson@rsgc.on.ca 
+JNewall@rsgc.on.ca   
+CGoodall@rsgc.on.ca  
+ALee@rsgc.on.ca      
+CMeakin@rsgc.on.ca   
+blai@rsgc.on.ca      
+DeMiller@rsgc.on.ca  
+SBlackwell@rsgc.on.ca 
+GTaylor@rsgc.on.ca   
+POMalley@rsgc.on.ca  
+JCase@rsgc.on.ca     
+jirwin@rsgc.on.ca    
+jlank@rsgc.on.ca     
+MKingsley@rsgc.on.ca 
+WLenkov@rsgc.on.ca   
+SCanavan@rsgc.on.ca  
+WGround@rsgc.on.ca   
+OLogush@rsgc.on.ca   
+AMcLeish@rsgc.on.ca  
+wmcleod@rsgc.on.ca   
+NVassos@rsgc.on.ca   
+SPeterson@rsgc.on.ca 
+MVassos@rsgc.on.ca   
+mforgione@rsgc.on.ca 
+wmcevoy@rsgc.on.ca   
+lmccutcheon@rsgc.on.ca 
+OGane@rsgc.on.ca     
+NTepsich@rsgc.on.ca  
+MPritchard@rsgc.on.ca 
+FGane@rsgc.on.ca     
+RBrocklehurst@rsgc.on.ca 
+CHacker@rsgc.on.ca   
+ZKingsley@rsgc.on.ca 
+RKurdyak@rsgc.on.ca  
+JFisher@rsgc.on.ca   
+QClarke@rsgc.on.ca   
+STatoff@rsgc.on.ca   
+JSussman@rsgc.on.ca  
+cabbott@rsgc.on.ca   
+rgross@rsgc.on.ca    
+lmorgante@rsgc.on.ca 
+NPloughman@rsgc.on.ca 
+ERedfern@rsgc.on.ca  
+SPetrovic@rsgc.on.ca 
+JBlanco@rsgc.on.ca   
+jcorley@rsgc.on.ca   
+kfiset-algarvio@rsgc.on.ca 
+epyper@rsgc.on.ca    
+JBurleton@rsgc.on.ca 
+LTannerya@rsgc.on.ca 
+wgraham@rsgc.on.ca   
+jdolgin@rsgc.on.ca   
+ABantis@rsgc.on.ca   
+HMcDaniel@rsgc.on.ca 
+OMurphy@rsgc.on.ca   
+KLaxdal@rsgc.on.ca   
+Jwalker-sherman@rsgc.on.ca 
+jhugessen@rsgc.on.ca 
+CMacDougall@rsgc.on.ca 
+jwilson@rsgc.on.ca   
+AChiu@rsgc.on.ca     
+DNoe@rsgc.on.ca      
+SFarber@rsgc.on.ca   
+EHaisleyBrown@rsgc.on.ca 
+KSharma@rsgc.on.ca   
+jcrossland@rsgc.on.ca 
+KChepeha@rsgc.on.ca  
+AWilker@rsgc.on.ca   
+SDanson@rsgc.on.ca   
+gstewart@rsgc.on.ca  
+OHardinge@rsgc.on.ca 
+KTsambalieros@rsgc.on.ca 
+RWilmer@rsgc.on.ca   
+LSimpson@rsgc.on.ca  
 
 Friday               
 
@@ -615,196 +1111,264 @@ Physical Activity
 Mr. T/ Mr. S
 
 Monday               
+ZWebster@rsgc.on.ca  
 adonnelly@rsgc.on.ca 
+JSchaffer@rsgc.on.ca 
+LWatson@rsgc.on.ca   
+jkenney@rsgc.on.ca   
+NWoollcombe@rsgc.on.ca 
 JoParker@rsgc.on.ca  
 cvont@rsgc.on.ca     
+GBell@rsgc.on.ca     
+sshabbir@rsgc.on.ca  
+wvannostrand@rsgc.on.ca 
+ARigby@rsgc.on.ca    
+WHepner@rsgc.on.ca   
+IBoloten@rsgc.on.ca  
+MLivingston@rsgc.on.ca 
 bmazan@rsgc.on.ca    
 alanghorne@rsgc.on.ca 
-JAnderson@rsgc.on.ca 
-SSellery@rsgc.on.ca  
-ASmoley@rsgc.on.ca   
-MKahr-Landolt@rsgc.on.ca 
-WHoward-Waddingham@rsgc.on.ca 
-mblanco@rsgc.on.ca   
-WPearson@rsgc.on.ca  
-chmacdonald@rsgc.on.ca 
-CGallagher@rsgc.on.ca 
-GBenson@rsgc.on.ca   
-JBowlesConover@rsgc.on.ca 
-AHepner@rsgc.on.ca   
-BAnderson@rsgc.on.ca 
-jday@rsgc.on.ca      
-NUsher-Jones@rsgc.on.ca 
-jstephenson-smith@rsgc.on.ca 
-JHancock@rsgc.on.ca  
-AHerbert-Robertson@rsgc.on.ca 
-DDiPierdomenico@rsgc.on.ca 
-GTaylor@rsgc.on.ca   
-jirwin@rsgc.on.ca    
-SCanavan@rsgc.on.ca  
-AMcLeish@rsgc.on.ca  
-wmcleod@rsgc.on.ca   
-NTepsich@rsgc.on.ca  
-FGane@rsgc.on.ca     
-ZKingsley@rsgc.on.ca 
-STatoff@rsgc.on.ca   
-JSussman@rsgc.on.ca  
-cabbott@rsgc.on.ca   
-rgross@rsgc.on.ca    
-JBlanco@rsgc.on.ca   
-kfiset-algarvio@rsgc.on.ca 
-epyper@rsgc.on.ca    
-jdolgin@rsgc.on.ca   
-ABantis@rsgc.on.ca   
-AChiu@rsgc.on.ca     
-SFarber@rsgc.on.ca   
-KSharma@rsgc.on.ca   
-jcrossland@rsgc.on.ca 
-SDanson@rsgc.on.ca   
-LSimpson@rsgc.on.ca  
-dbarkway@rsgc.on.ca  
-WHope@rsgc.on.ca     
-MGoodman@rsgc.on.ca  
-
-Tuesday              
-alanghorne@rsgc.on.ca 
+GChien@rsgc.on.ca    
+WRochon@rsgc.on.ca   
+LByrne@rsgc.on.ca    
+RBehbahani@rsgc.on.ca 
+MAnderson@rsgc.on.ca 
+RDavis@rsgc.on.ca    
 drabin@rsgc.on.ca    
+TLatimer@rsgc.on.ca  
+AMartin@rsgc.on.ca   
+SDeshpande@rsgc.on.ca 
+OClute@rsgc.on.ca    
+SZimmermann@rsgc.on.ca 
+JRussell@rsgc.on.ca  
 JAnderson@rsgc.on.ca 
 SSellery@rsgc.on.ca  
 ASmoley@rsgc.on.ca   
+ANash@rsgc.on.ca     
+BDreger@rsgc.on.ca   
 RHodgson@rsgc.on.ca  
 MKahr-Landolt@rsgc.on.ca 
 SReed@rsgc.on.ca     
 RColville-Reeves@rsgc.on.ca 
+PCai@rsgc.on.ca      
 EKelly@rsgc.on.ca    
+oholland@rsgc.on.ca  
+NGeist@rsgc.on.ca    
 GButterworth@rsgc.on.ca 
 WHoward-Waddingham@rsgc.on.ca 
+EMcAuliffe@rsgc.on.ca 
 mblanco@rsgc.on.ca   
+APyper@rsgc.on.ca    
 CAristone@rsgc.on.ca 
-WPearson@rsgc.on.ca  
-LTao@rsgc.on.ca      
-NUsher-Jones@rsgc.on.ca 
-SConnolly@rsgc.on.ca 
-JHancock@rsgc.on.ca  
-AHerbert-Robertson@rsgc.on.ca 
-DDiPierdomenico@rsgc.on.ca 
-jlank@rsgc.on.ca     
-WGround@rsgc.on.ca   
-AMcLeish@rsgc.on.ca  
-MPritchard@rsgc.on.ca 
-FGane@rsgc.on.ca     
-RBrocklehurst@rsgc.on.ca 
-ZKingsley@rsgc.on.ca 
-JSussman@rsgc.on.ca  
-cabbott@rsgc.on.ca   
-rgross@rsgc.on.ca    
-kfiset-algarvio@rsgc.on.ca 
-epyper@rsgc.on.ca    
-JBurleton@rsgc.on.ca 
-LTannerya@rsgc.on.ca 
-ABantis@rsgc.on.ca   
-HMcDaniel@rsgc.on.ca 
-CMacDougall@rsgc.on.ca 
-SFarber@rsgc.on.ca   
-KSharma@rsgc.on.ca   
-jcrossland@rsgc.on.ca 
-SDanson@rsgc.on.ca   
-gstewart@rsgc.on.ca  
-LSimpson@rsgc.on.ca  
-WHope@rsgc.on.ca     
-TPartridge@rsgc.on.ca 
-FPristine@rsgc.on.ca 
-mhugessen@rsgc.on.ca 
-PKirby@rsgc.on.ca    
-WMcIlroy@rsgc.on.ca  
+HHardinge@rsgc.on.ca 
 
-Wednesday            
+Tuesday              
+ZWebster@rsgc.on.ca  
 adonnelly@rsgc.on.ca 
+JSchaffer@rsgc.on.ca 
+LWatson@rsgc.on.ca   
+jkenney@rsgc.on.ca   
+NWoollcombe@rsgc.on.ca 
+JoParker@rsgc.on.ca  
+cvont@rsgc.on.ca     
+GBell@rsgc.on.ca     
+sshabbir@rsgc.on.ca  
+wvannostrand@rsgc.on.ca 
+ARigby@rsgc.on.ca    
+WHepner@rsgc.on.ca   
+IBoloten@rsgc.on.ca  
+MLivingston@rsgc.on.ca 
 bmazan@rsgc.on.ca    
 alanghorne@rsgc.on.ca 
+GChien@rsgc.on.ca    
+WRochon@rsgc.on.ca   
+LByrne@rsgc.on.ca    
+RBehbahani@rsgc.on.ca 
 MAnderson@rsgc.on.ca 
 RDavis@rsgc.on.ca    
-ASmoley@rsgc.on.ca   
-oholland@rsgc.on.ca  
-WHoward-Waddingham@rsgc.on.ca 
-mblanco@rsgc.on.ca   
-WPearson@rsgc.on.ca  
-chmacdonald@rsgc.on.ca 
-AHepner@rsgc.on.ca   
-BAnderson@rsgc.on.ca 
-jday@rsgc.on.ca      
-NUsher-Jones@rsgc.on.ca 
-AHerbert-Robertson@rsgc.on.ca 
-DDiPierdomenico@rsgc.on.ca 
-JNewall@rsgc.on.ca   
-blai@rsgc.on.ca      
-jirwin@rsgc.on.ca    
-wmcleod@rsgc.on.ca   
-NTepsich@rsgc.on.ca  
-JFisher@rsgc.on.ca   
-STatoff@rsgc.on.ca   
-cabbott@rsgc.on.ca   
-rgross@rsgc.on.ca    
-ERedfern@rsgc.on.ca  
-epyper@rsgc.on.ca    
-SFarber@rsgc.on.ca   
-gstewart@rsgc.on.ca  
-dbarkway@rsgc.on.ca  
-MGoodman@rsgc.on.ca  
-FPristine@rsgc.on.ca 
-MStewart@rsgc.on.ca  
-mrovazzi@rsgc.on.ca  
-ffatola@rsgc.on.ca   
-LWurstlin@rsgc.on.ca 
-syuan@rsgc.on.ca     
-GPlayfair@rsgc.on.ca 
-
-Thursday             
-GBell@rsgc.on.ca     
+drabin@rsgc.on.ca    
+TLatimer@rsgc.on.ca  
+AMartin@rsgc.on.ca   
+SDeshpande@rsgc.on.ca 
+OClute@rsgc.on.ca    
+SZimmermann@rsgc.on.ca 
+JRussell@rsgc.on.ca  
 JAnderson@rsgc.on.ca 
 SSellery@rsgc.on.ca  
+ASmoley@rsgc.on.ca   
+ANash@rsgc.on.ca     
+BDreger@rsgc.on.ca   
+RHodgson@rsgc.on.ca  
 MKahr-Landolt@rsgc.on.ca 
+SReed@rsgc.on.ca     
 RColville-Reeves@rsgc.on.ca 
+PCai@rsgc.on.ca      
+EKelly@rsgc.on.ca    
+oholland@rsgc.on.ca  
+NGeist@rsgc.on.ca    
+GButterworth@rsgc.on.ca 
 WHoward-Waddingham@rsgc.on.ca 
+EMcAuliffe@rsgc.on.ca 
+mblanco@rsgc.on.ca   
+APyper@rsgc.on.ca    
 CAristone@rsgc.on.ca 
-WPearson@rsgc.on.ca  
-JRau@rsgc.on.ca      
-BAnderson@rsgc.on.ca 
-jday@rsgc.on.ca      
-NUsher-Jones@rsgc.on.ca 
-JHancock@rsgc.on.ca  
-jirwin@rsgc.on.ca    
-AMcLeish@rsgc.on.ca  
-JSussman@rsgc.on.ca  
-wgraham@rsgc.on.ca   
-ABantis@rsgc.on.ca   
-HMcDaniel@rsgc.on.ca 
-jwilson@rsgc.on.ca   
-KSharma@rsgc.on.ca   
-jcrossland@rsgc.on.ca 
-LSimpson@rsgc.on.ca  
-WHope@rsgc.on.ca     
-MGoodman@rsgc.on.ca  
-DDaudi@rsgc.on.ca    
-FPristine@rsgc.on.ca 
-GHardacre@rsgc.on.ca 
-mhugessen@rsgc.on.ca 
-QKirkpatrick@rsgc.on.ca 
-mwheler@rsgc.on.ca   
-MStewart@rsgc.on.ca  
-AFell@rsgc.on.ca     
-MFogolini@rsgc.on.ca 
+HHardinge@rsgc.on.ca 
+
+Wednesday            
+ZWebster@rsgc.on.ca  
+adonnelly@rsgc.on.ca 
+JSchaffer@rsgc.on.ca 
+LWatson@rsgc.on.ca   
+jkenney@rsgc.on.ca   
+NWoollcombe@rsgc.on.ca 
+JoParker@rsgc.on.ca  
+cvont@rsgc.on.ca     
+GBell@rsgc.on.ca     
+sshabbir@rsgc.on.ca  
+wvannostrand@rsgc.on.ca 
+ARigby@rsgc.on.ca    
+WHepner@rsgc.on.ca   
+IBoloten@rsgc.on.ca  
+MLivingston@rsgc.on.ca 
+bmazan@rsgc.on.ca    
+alanghorne@rsgc.on.ca 
+GChien@rsgc.on.ca    
+WRochon@rsgc.on.ca   
+LByrne@rsgc.on.ca    
+RBehbahani@rsgc.on.ca 
+MAnderson@rsgc.on.ca 
+RDavis@rsgc.on.ca    
+drabin@rsgc.on.ca    
+TLatimer@rsgc.on.ca  
+AMartin@rsgc.on.ca   
+SDeshpande@rsgc.on.ca 
+OClute@rsgc.on.ca    
+SZimmermann@rsgc.on.ca 
+JRussell@rsgc.on.ca  
+JAnderson@rsgc.on.ca 
+SSellery@rsgc.on.ca  
+ASmoley@rsgc.on.ca   
+ANash@rsgc.on.ca     
+BDreger@rsgc.on.ca   
+RHodgson@rsgc.on.ca  
+MKahr-Landolt@rsgc.on.ca 
+SReed@rsgc.on.ca     
+RColville-Reeves@rsgc.on.ca 
+PCai@rsgc.on.ca      
+EKelly@rsgc.on.ca    
+oholland@rsgc.on.ca  
+NGeist@rsgc.on.ca    
+GButterworth@rsgc.on.ca 
+WHoward-Waddingham@rsgc.on.ca 
+EMcAuliffe@rsgc.on.ca 
+mblanco@rsgc.on.ca   
+APyper@rsgc.on.ca    
+CAristone@rsgc.on.ca 
+HHardinge@rsgc.on.ca 
+
+Thursday             
+ZWebster@rsgc.on.ca  
+adonnelly@rsgc.on.ca 
+JSchaffer@rsgc.on.ca 
+LWatson@rsgc.on.ca   
+jkenney@rsgc.on.ca   
+NWoollcombe@rsgc.on.ca 
+JoParker@rsgc.on.ca  
+cvont@rsgc.on.ca     
+GBell@rsgc.on.ca     
+sshabbir@rsgc.on.ca  
+wvannostrand@rsgc.on.ca 
+ARigby@rsgc.on.ca    
+WHepner@rsgc.on.ca   
+IBoloten@rsgc.on.ca  
+MLivingston@rsgc.on.ca 
+bmazan@rsgc.on.ca    
+alanghorne@rsgc.on.ca 
+GChien@rsgc.on.ca    
+WRochon@rsgc.on.ca   
+LByrne@rsgc.on.ca    
+RBehbahani@rsgc.on.ca 
+MAnderson@rsgc.on.ca 
+RDavis@rsgc.on.ca    
+drabin@rsgc.on.ca    
+TLatimer@rsgc.on.ca  
+AMartin@rsgc.on.ca   
+SDeshpande@rsgc.on.ca 
+OClute@rsgc.on.ca    
+SZimmermann@rsgc.on.ca 
+JRussell@rsgc.on.ca  
+JAnderson@rsgc.on.ca 
+SSellery@rsgc.on.ca  
+ASmoley@rsgc.on.ca   
+ANash@rsgc.on.ca     
+BDreger@rsgc.on.ca   
+RHodgson@rsgc.on.ca  
+MKahr-Landolt@rsgc.on.ca 
+SReed@rsgc.on.ca     
+RColville-Reeves@rsgc.on.ca 
+PCai@rsgc.on.ca      
+EKelly@rsgc.on.ca    
+oholland@rsgc.on.ca  
+NGeist@rsgc.on.ca    
+GButterworth@rsgc.on.ca 
+WHoward-Waddingham@rsgc.on.ca 
+EMcAuliffe@rsgc.on.ca 
+mblanco@rsgc.on.ca   
+APyper@rsgc.on.ca    
+CAristone@rsgc.on.ca 
+HHardinge@rsgc.on.ca 
 
 Friday               
+ZWebster@rsgc.on.ca  
+adonnelly@rsgc.on.ca 
+JSchaffer@rsgc.on.ca 
+LWatson@rsgc.on.ca   
+jkenney@rsgc.on.ca   
+NWoollcombe@rsgc.on.ca 
+JoParker@rsgc.on.ca  
+cvont@rsgc.on.ca     
+GBell@rsgc.on.ca     
+sshabbir@rsgc.on.ca  
+wvannostrand@rsgc.on.ca 
+ARigby@rsgc.on.ca    
+WHepner@rsgc.on.ca   
+IBoloten@rsgc.on.ca  
+MLivingston@rsgc.on.ca 
+bmazan@rsgc.on.ca    
+alanghorne@rsgc.on.ca 
+GChien@rsgc.on.ca    
+WRochon@rsgc.on.ca   
+LByrne@rsgc.on.ca    
+RBehbahani@rsgc.on.ca 
+MAnderson@rsgc.on.ca 
+RDavis@rsgc.on.ca    
+drabin@rsgc.on.ca    
+TLatimer@rsgc.on.ca  
+AMartin@rsgc.on.ca   
+SDeshpande@rsgc.on.ca 
+OClute@rsgc.on.ca    
+SZimmermann@rsgc.on.ca 
+JRussell@rsgc.on.ca  
+JAnderson@rsgc.on.ca 
+SSellery@rsgc.on.ca  
+ASmoley@rsgc.on.ca   
+ANash@rsgc.on.ca     
+BDreger@rsgc.on.ca   
+RHodgson@rsgc.on.ca  
+MKahr-Landolt@rsgc.on.ca 
+SReed@rsgc.on.ca     
+RColville-Reeves@rsgc.on.ca 
+PCai@rsgc.on.ca      
+EKelly@rsgc.on.ca    
+oholland@rsgc.on.ca  
+NGeist@rsgc.on.ca    
+GButterworth@rsgc.on.ca 
 WHoward-Waddingham@rsgc.on.ca 
-NUsher-Jones@rsgc.on.ca 
-CMeakin@rsgc.on.ca   
-kfiset-algarvio@rsgc.on.ca 
-AChiu@rsgc.on.ca     
-FPristine@rsgc.on.ca 
-mhugessen@rsgc.on.ca 
-MStewart@rsgc.on.ca  
-ffatola@rsgc.on.ca   
+EMcAuliffe@rsgc.on.ca 
+mblanco@rsgc.on.ca   
+APyper@rsgc.on.ca    
+CAristone@rsgc.on.ca 
+HHardinge@rsgc.on.ca 
 
 ______________________________
 
@@ -816,47 +1380,490 @@ Monday
 Tuesday              
 
 Wednesday            
+ZWebster@rsgc.on.ca  
+adonnelly@rsgc.on.ca 
+JSchaffer@rsgc.on.ca 
+LWatson@rsgc.on.ca   
+jkenney@rsgc.on.ca   
+NWoollcombe@rsgc.on.ca 
+JoParker@rsgc.on.ca  
+cvont@rsgc.on.ca     
+GBell@rsgc.on.ca     
+sshabbir@rsgc.on.ca  
+wvannostrand@rsgc.on.ca 
+ARigby@rsgc.on.ca    
+WHepner@rsgc.on.ca   
+IBoloten@rsgc.on.ca  
+MLivingston@rsgc.on.ca 
+bmazan@rsgc.on.ca    
+alanghorne@rsgc.on.ca 
+GChien@rsgc.on.ca    
 WRochon@rsgc.on.ca   
+LByrne@rsgc.on.ca    
+RBehbahani@rsgc.on.ca 
+MAnderson@rsgc.on.ca 
+RDavis@rsgc.on.ca    
+drabin@rsgc.on.ca    
+TLatimer@rsgc.on.ca  
+AMartin@rsgc.on.ca   
+SDeshpande@rsgc.on.ca 
+OClute@rsgc.on.ca    
+SZimmermann@rsgc.on.ca 
+JRussell@rsgc.on.ca  
+JAnderson@rsgc.on.ca 
+SSellery@rsgc.on.ca  
+ASmoley@rsgc.on.ca   
+ANash@rsgc.on.ca     
+BDreger@rsgc.on.ca   
+RHodgson@rsgc.on.ca  
+MKahr-Landolt@rsgc.on.ca 
+SReed@rsgc.on.ca     
+RColville-Reeves@rsgc.on.ca 
+PCai@rsgc.on.ca      
+EKelly@rsgc.on.ca    
+oholland@rsgc.on.ca  
+NGeist@rsgc.on.ca    
+GButterworth@rsgc.on.ca 
+WHoward-Waddingham@rsgc.on.ca 
+EMcAuliffe@rsgc.on.ca 
+mblanco@rsgc.on.ca   
+APyper@rsgc.on.ca    
+CAristone@rsgc.on.ca 
+HHardinge@rsgc.on.ca 
+WPearson@rsgc.on.ca  
+LVandenBroek@rsgc.on.ca 
+chmacdonald@rsgc.on.ca 
+JMizen@rsgc.on.ca    
+HStevenson@rsgc.on.ca 
+CGallagher@rsgc.on.ca 
+cforgione@rsgc.on.ca 
+RShabbir@rsgc.on.ca  
+GBenson@rsgc.on.ca   
+ASheeres-Paulicpulle@rsgc.on.ca 
+PBagga@rsgc.on.ca    
+JGoldsmith@rsgc.on.ca 
+LTao@rsgc.on.ca      
+BLeder@rsgc.on.ca    
+BChristmann@rsgc.on.ca 
+CNobleCurveira@rsgc.on.ca 
+lvidal-ribassmith@rsgc.on.ca 
 JBowlesConover@rsgc.on.ca 
+AHepner@rsgc.on.ca   
+RHamilton@rsgc.on.ca 
+JRau@rsgc.on.ca      
+MMcCutcheon@rsgc.on.ca 
+EPeterson@rsgc.on.ca 
+NBethlenfalvy@rsgc.on.ca 
+BAnderson@rsgc.on.ca 
+jday@rsgc.on.ca      
+JLongwell@rsgc.on.ca 
+NUsher-Jones@rsgc.on.ca 
+jstephenson-smith@rsgc.on.ca 
+LConrod@rsgc.on.ca   
+SConnolly@rsgc.on.ca 
+JHancock@rsgc.on.ca  
 mamccutcheon@rsgc.on.ca 
+AHerbert-Robertson@rsgc.on.ca 
+DDiPierdomenico@rsgc.on.ca 
+PBernhard@rsgc.on.ca 
+AFerguson@rsgc.on.ca 
+JNewall@rsgc.on.ca   
+CGoodall@rsgc.on.ca  
+ALee@rsgc.on.ca      
+CMeakin@rsgc.on.ca   
+blai@rsgc.on.ca      
+DeMiller@rsgc.on.ca  
+SBlackwell@rsgc.on.ca 
+GTaylor@rsgc.on.ca   
+POMalley@rsgc.on.ca  
+JCase@rsgc.on.ca     
+jirwin@rsgc.on.ca    
 jlank@rsgc.on.ca     
+MKingsley@rsgc.on.ca 
+WLenkov@rsgc.on.ca   
+SCanavan@rsgc.on.ca  
+WGround@rsgc.on.ca   
+OLogush@rsgc.on.ca   
+AMcLeish@rsgc.on.ca  
+wmcleod@rsgc.on.ca   
+NVassos@rsgc.on.ca   
+SPeterson@rsgc.on.ca 
+MVassos@rsgc.on.ca   
+mforgione@rsgc.on.ca 
 wmcevoy@rsgc.on.ca   
+lmccutcheon@rsgc.on.ca 
+OGane@rsgc.on.ca     
+NTepsich@rsgc.on.ca  
+MPritchard@rsgc.on.ca 
+FGane@rsgc.on.ca     
+RBrocklehurst@rsgc.on.ca 
 CHacker@rsgc.on.ca   
+ZKingsley@rsgc.on.ca 
+RKurdyak@rsgc.on.ca  
+JFisher@rsgc.on.ca   
 QClarke@rsgc.on.ca   
+STatoff@rsgc.on.ca   
+JSussman@rsgc.on.ca  
+cabbott@rsgc.on.ca   
+rgross@rsgc.on.ca    
 lmorgante@rsgc.on.ca 
+NPloughman@rsgc.on.ca 
+ERedfern@rsgc.on.ca  
+SPetrovic@rsgc.on.ca 
+JBlanco@rsgc.on.ca   
+jcorley@rsgc.on.ca   
+kfiset-algarvio@rsgc.on.ca 
+epyper@rsgc.on.ca    
+JBurleton@rsgc.on.ca 
+LTannerya@rsgc.on.ca 
+wgraham@rsgc.on.ca   
 jdolgin@rsgc.on.ca   
+ABantis@rsgc.on.ca   
+HMcDaniel@rsgc.on.ca 
+OMurphy@rsgc.on.ca   
+KLaxdal@rsgc.on.ca   
 Jwalker-sherman@rsgc.on.ca 
+jhugessen@rsgc.on.ca 
+CMacDougall@rsgc.on.ca 
+jwilson@rsgc.on.ca   
+AChiu@rsgc.on.ca     
+DNoe@rsgc.on.ca      
+SFarber@rsgc.on.ca   
 EHaisleyBrown@rsgc.on.ca 
-jsmith@rsgc.on.ca    
-schapple@rsgc.on.ca  
-MHartford@rsgc.on.ca 
-JBarkway@rsgc.on.ca  
+KSharma@rsgc.on.ca   
+jcrossland@rsgc.on.ca 
+KChepeha@rsgc.on.ca  
+AWilker@rsgc.on.ca   
+SDanson@rsgc.on.ca   
+gstewart@rsgc.on.ca  
+OHardinge@rsgc.on.ca 
+KTsambalieros@rsgc.on.ca 
+RWilmer@rsgc.on.ca   
+LSimpson@rsgc.on.ca  
 
 Thursday             
+ZWebster@rsgc.on.ca  
+adonnelly@rsgc.on.ca 
+JSchaffer@rsgc.on.ca 
+LWatson@rsgc.on.ca   
+jkenney@rsgc.on.ca   
+NWoollcombe@rsgc.on.ca 
+JoParker@rsgc.on.ca  
+cvont@rsgc.on.ca     
+GBell@rsgc.on.ca     
+sshabbir@rsgc.on.ca  
+wvannostrand@rsgc.on.ca 
+ARigby@rsgc.on.ca    
+WHepner@rsgc.on.ca   
+IBoloten@rsgc.on.ca  
+MLivingston@rsgc.on.ca 
+bmazan@rsgc.on.ca    
+alanghorne@rsgc.on.ca 
+GChien@rsgc.on.ca    
+WRochon@rsgc.on.ca   
+LByrne@rsgc.on.ca    
+RBehbahani@rsgc.on.ca 
+MAnderson@rsgc.on.ca 
+RDavis@rsgc.on.ca    
+drabin@rsgc.on.ca    
+TLatimer@rsgc.on.ca  
+AMartin@rsgc.on.ca   
+SDeshpande@rsgc.on.ca 
+OClute@rsgc.on.ca    
+SZimmermann@rsgc.on.ca 
+JRussell@rsgc.on.ca  
+JAnderson@rsgc.on.ca 
+SSellery@rsgc.on.ca  
+ASmoley@rsgc.on.ca   
+ANash@rsgc.on.ca     
+BDreger@rsgc.on.ca   
+RHodgson@rsgc.on.ca  
+MKahr-Landolt@rsgc.on.ca 
+SReed@rsgc.on.ca     
+RColville-Reeves@rsgc.on.ca 
+PCai@rsgc.on.ca      
+EKelly@rsgc.on.ca    
+oholland@rsgc.on.ca  
+NGeist@rsgc.on.ca    
+GButterworth@rsgc.on.ca 
+WHoward-Waddingham@rsgc.on.ca 
+EMcAuliffe@rsgc.on.ca 
+mblanco@rsgc.on.ca   
+APyper@rsgc.on.ca    
+CAristone@rsgc.on.ca 
+HHardinge@rsgc.on.ca 
+WPearson@rsgc.on.ca  
+LVandenBroek@rsgc.on.ca 
+chmacdonald@rsgc.on.ca 
+JMizen@rsgc.on.ca    
+HStevenson@rsgc.on.ca 
+CGallagher@rsgc.on.ca 
+cforgione@rsgc.on.ca 
+RShabbir@rsgc.on.ca  
+GBenson@rsgc.on.ca   
+ASheeres-Paulicpulle@rsgc.on.ca 
+PBagga@rsgc.on.ca    
+JGoldsmith@rsgc.on.ca 
+LTao@rsgc.on.ca      
+BLeder@rsgc.on.ca    
+BChristmann@rsgc.on.ca 
+CNobleCurveira@rsgc.on.ca 
+lvidal-ribassmith@rsgc.on.ca 
 JBowlesConover@rsgc.on.ca 
+AHepner@rsgc.on.ca   
+RHamilton@rsgc.on.ca 
+JRau@rsgc.on.ca      
+MMcCutcheon@rsgc.on.ca 
+EPeterson@rsgc.on.ca 
+NBethlenfalvy@rsgc.on.ca 
+BAnderson@rsgc.on.ca 
+jday@rsgc.on.ca      
+JLongwell@rsgc.on.ca 
+NUsher-Jones@rsgc.on.ca 
+jstephenson-smith@rsgc.on.ca 
+LConrod@rsgc.on.ca   
+SConnolly@rsgc.on.ca 
+JHancock@rsgc.on.ca  
+mamccutcheon@rsgc.on.ca 
+AHerbert-Robertson@rsgc.on.ca 
+DDiPierdomenico@rsgc.on.ca 
+PBernhard@rsgc.on.ca 
+AFerguson@rsgc.on.ca 
+JNewall@rsgc.on.ca   
+CGoodall@rsgc.on.ca  
+ALee@rsgc.on.ca      
+CMeakin@rsgc.on.ca   
+blai@rsgc.on.ca      
+DeMiller@rsgc.on.ca  
+SBlackwell@rsgc.on.ca 
+GTaylor@rsgc.on.ca   
 POMalley@rsgc.on.ca  
+JCase@rsgc.on.ca     
+jirwin@rsgc.on.ca    
+jlank@rsgc.on.ca     
+MKingsley@rsgc.on.ca 
+WLenkov@rsgc.on.ca   
+SCanavan@rsgc.on.ca  
+WGround@rsgc.on.ca   
+OLogush@rsgc.on.ca   
+AMcLeish@rsgc.on.ca  
+wmcleod@rsgc.on.ca   
+NVassos@rsgc.on.ca   
+SPeterson@rsgc.on.ca 
 MVassos@rsgc.on.ca   
+mforgione@rsgc.on.ca 
+wmcevoy@rsgc.on.ca   
+lmccutcheon@rsgc.on.ca 
+OGane@rsgc.on.ca     
+NTepsich@rsgc.on.ca  
+MPritchard@rsgc.on.ca 
 FGane@rsgc.on.ca     
+RBrocklehurst@rsgc.on.ca 
 CHacker@rsgc.on.ca   
+ZKingsley@rsgc.on.ca 
+RKurdyak@rsgc.on.ca  
+JFisher@rsgc.on.ca   
+QClarke@rsgc.on.ca   
 STatoff@rsgc.on.ca   
+JSussman@rsgc.on.ca  
+cabbott@rsgc.on.ca   
+rgross@rsgc.on.ca    
+lmorgante@rsgc.on.ca 
 NPloughman@rsgc.on.ca 
+ERedfern@rsgc.on.ca  
+SPetrovic@rsgc.on.ca 
+JBlanco@rsgc.on.ca   
+jcorley@rsgc.on.ca   
+kfiset-algarvio@rsgc.on.ca 
+epyper@rsgc.on.ca    
+JBurleton@rsgc.on.ca 
+LTannerya@rsgc.on.ca 
+wgraham@rsgc.on.ca   
+jdolgin@rsgc.on.ca   
+ABantis@rsgc.on.ca   
+HMcDaniel@rsgc.on.ca 
+OMurphy@rsgc.on.ca   
+KLaxdal@rsgc.on.ca   
 Jwalker-sherman@rsgc.on.ca 
+jhugessen@rsgc.on.ca 
 CMacDougall@rsgc.on.ca 
+jwilson@rsgc.on.ca   
+AChiu@rsgc.on.ca     
 DNoe@rsgc.on.ca      
+SFarber@rsgc.on.ca   
+EHaisleyBrown@rsgc.on.ca 
+KSharma@rsgc.on.ca   
+jcrossland@rsgc.on.ca 
 KChepeha@rsgc.on.ca  
-JCostigan@rsgc.on.ca 
-schapple@rsgc.on.ca  
-ffatola@rsgc.on.ca   
-MHartford@rsgc.on.ca 
-JBarkway@rsgc.on.ca  
+AWilker@rsgc.on.ca   
+SDanson@rsgc.on.ca   
+gstewart@rsgc.on.ca  
+OHardinge@rsgc.on.ca 
+KTsambalieros@rsgc.on.ca 
+RWilmer@rsgc.on.ca   
+LSimpson@rsgc.on.ca  
 
 Friday               
+ZWebster@rsgc.on.ca  
+adonnelly@rsgc.on.ca 
+JSchaffer@rsgc.on.ca 
 LWatson@rsgc.on.ca   
+jkenney@rsgc.on.ca   
+NWoollcombe@rsgc.on.ca 
+JoParker@rsgc.on.ca  
+cvont@rsgc.on.ca     
+GBell@rsgc.on.ca     
+sshabbir@rsgc.on.ca  
+wvannostrand@rsgc.on.ca 
+ARigby@rsgc.on.ca    
+WHepner@rsgc.on.ca   
+IBoloten@rsgc.on.ca  
+MLivingston@rsgc.on.ca 
+bmazan@rsgc.on.ca    
+alanghorne@rsgc.on.ca 
+GChien@rsgc.on.ca    
+WRochon@rsgc.on.ca   
+LByrne@rsgc.on.ca    
+RBehbahani@rsgc.on.ca 
+MAnderson@rsgc.on.ca 
+RDavis@rsgc.on.ca    
+drabin@rsgc.on.ca    
+TLatimer@rsgc.on.ca  
+AMartin@rsgc.on.ca   
+SDeshpande@rsgc.on.ca 
+OClute@rsgc.on.ca    
+SZimmermann@rsgc.on.ca 
+JRussell@rsgc.on.ca  
+JAnderson@rsgc.on.ca 
+SSellery@rsgc.on.ca  
+ASmoley@rsgc.on.ca   
+ANash@rsgc.on.ca     
+BDreger@rsgc.on.ca   
+RHodgson@rsgc.on.ca  
+MKahr-Landolt@rsgc.on.ca 
+SReed@rsgc.on.ca     
+RColville-Reeves@rsgc.on.ca 
+PCai@rsgc.on.ca      
+EKelly@rsgc.on.ca    
+oholland@rsgc.on.ca  
+NGeist@rsgc.on.ca    
+GButterworth@rsgc.on.ca 
+WHoward-Waddingham@rsgc.on.ca 
+EMcAuliffe@rsgc.on.ca 
+mblanco@rsgc.on.ca   
+APyper@rsgc.on.ca    
+CAristone@rsgc.on.ca 
+HHardinge@rsgc.on.ca 
+WPearson@rsgc.on.ca  
+LVandenBroek@rsgc.on.ca 
+chmacdonald@rsgc.on.ca 
+JMizen@rsgc.on.ca    
+HStevenson@rsgc.on.ca 
+CGallagher@rsgc.on.ca 
+cforgione@rsgc.on.ca 
+RShabbir@rsgc.on.ca  
+GBenson@rsgc.on.ca   
+ASheeres-Paulicpulle@rsgc.on.ca 
+PBagga@rsgc.on.ca    
+JGoldsmith@rsgc.on.ca 
+LTao@rsgc.on.ca      
+BLeder@rsgc.on.ca    
+BChristmann@rsgc.on.ca 
+CNobleCurveira@rsgc.on.ca 
+lvidal-ribassmith@rsgc.on.ca 
+JBowlesConover@rsgc.on.ca 
+AHepner@rsgc.on.ca   
+RHamilton@rsgc.on.ca 
+JRau@rsgc.on.ca      
+MMcCutcheon@rsgc.on.ca 
+EPeterson@rsgc.on.ca 
+NBethlenfalvy@rsgc.on.ca 
+BAnderson@rsgc.on.ca 
+jday@rsgc.on.ca      
+JLongwell@rsgc.on.ca 
+NUsher-Jones@rsgc.on.ca 
+jstephenson-smith@rsgc.on.ca 
+LConrod@rsgc.on.ca   
+SConnolly@rsgc.on.ca 
+JHancock@rsgc.on.ca  
+mamccutcheon@rsgc.on.ca 
+AHerbert-Robertson@rsgc.on.ca 
+DDiPierdomenico@rsgc.on.ca 
+PBernhard@rsgc.on.ca 
+AFerguson@rsgc.on.ca 
+JNewall@rsgc.on.ca   
+CGoodall@rsgc.on.ca  
+ALee@rsgc.on.ca      
+CMeakin@rsgc.on.ca   
+blai@rsgc.on.ca      
+DeMiller@rsgc.on.ca  
+SBlackwell@rsgc.on.ca 
+GTaylor@rsgc.on.ca   
+POMalley@rsgc.on.ca  
+JCase@rsgc.on.ca     
+jirwin@rsgc.on.ca    
+jlank@rsgc.on.ca     
+MKingsley@rsgc.on.ca 
+WLenkov@rsgc.on.ca   
+SCanavan@rsgc.on.ca  
+WGround@rsgc.on.ca   
+OLogush@rsgc.on.ca   
+AMcLeish@rsgc.on.ca  
+wmcleod@rsgc.on.ca   
 NVassos@rsgc.on.ca   
+SPeterson@rsgc.on.ca 
+MVassos@rsgc.on.ca   
+mforgione@rsgc.on.ca 
+wmcevoy@rsgc.on.ca   
+lmccutcheon@rsgc.on.ca 
+OGane@rsgc.on.ca     
+NTepsich@rsgc.on.ca  
+MPritchard@rsgc.on.ca 
+FGane@rsgc.on.ca     
+RBrocklehurst@rsgc.on.ca 
+CHacker@rsgc.on.ca   
+ZKingsley@rsgc.on.ca 
 RKurdyak@rsgc.on.ca  
+JFisher@rsgc.on.ca   
+QClarke@rsgc.on.ca   
+STatoff@rsgc.on.ca   
+JSussman@rsgc.on.ca  
+cabbott@rsgc.on.ca   
+rgross@rsgc.on.ca    
 lmorgante@rsgc.on.ca 
-schapple@rsgc.on.ca  
-MHartford@rsgc.on.ca 
+NPloughman@rsgc.on.ca 
+ERedfern@rsgc.on.ca  
+SPetrovic@rsgc.on.ca 
+JBlanco@rsgc.on.ca   
+jcorley@rsgc.on.ca   
+kfiset-algarvio@rsgc.on.ca 
+epyper@rsgc.on.ca    
+JBurleton@rsgc.on.ca 
+LTannerya@rsgc.on.ca 
+wgraham@rsgc.on.ca   
+jdolgin@rsgc.on.ca   
+ABantis@rsgc.on.ca   
+HMcDaniel@rsgc.on.ca 
+OMurphy@rsgc.on.ca   
+KLaxdal@rsgc.on.ca   
+Jwalker-sherman@rsgc.on.ca 
+jhugessen@rsgc.on.ca 
+CMacDougall@rsgc.on.ca 
+jwilson@rsgc.on.ca   
+AChiu@rsgc.on.ca     
+DNoe@rsgc.on.ca      
+SFarber@rsgc.on.ca   
+EHaisleyBrown@rsgc.on.ca 
+KSharma@rsgc.on.ca   
+jcrossland@rsgc.on.ca 
+KChepeha@rsgc.on.ca  
+AWilker@rsgc.on.ca   
+SDanson@rsgc.on.ca   
+gstewart@rsgc.on.ca  
+OHardinge@rsgc.on.ca 
+KTsambalieros@rsgc.on.ca 
+RWilmer@rsgc.on.ca   
+LSimpson@rsgc.on.ca  
 
 ______________________________
 
@@ -864,132 +1871,164 @@ Academic Management
 Fr. D and NVH(Monday) KU (Wed-Fri) TH
 
 Monday               
+ZWebster@rsgc.on.ca  
+adonnelly@rsgc.on.ca 
+JSchaffer@rsgc.on.ca 
 LWatson@rsgc.on.ca   
+jkenney@rsgc.on.ca   
 NWoollcombe@rsgc.on.ca 
+JoParker@rsgc.on.ca  
+cvont@rsgc.on.ca     
+GBell@rsgc.on.ca     
 sshabbir@rsgc.on.ca  
 wvannostrand@rsgc.on.ca 
 ARigby@rsgc.on.ca    
-NGeist@rsgc.on.ca    
-RShabbir@rsgc.on.ca  
-lvidal-ribassmith@rsgc.on.ca 
-RHamilton@rsgc.on.ca 
-JRau@rsgc.on.ca      
-EPeterson@rsgc.on.ca 
-NBethlenfalvy@rsgc.on.ca 
-mamccutcheon@rsgc.on.ca 
-JNewall@rsgc.on.ca   
-ALee@rsgc.on.ca      
-blai@rsgc.on.ca      
-DeMiller@rsgc.on.ca  
-POMalley@rsgc.on.ca  
-JCase@rsgc.on.ca     
-jlank@rsgc.on.ca     
-WLenkov@rsgc.on.ca   
-OLogush@rsgc.on.ca   
-NVassos@rsgc.on.ca   
-SPeterson@rsgc.on.ca 
-MVassos@rsgc.on.ca   
-lmccutcheon@rsgc.on.ca 
-lmorgante@rsgc.on.ca 
-jcorley@rsgc.on.ca   
-Jwalker-sherman@rsgc.on.ca 
-TPartridge@rsgc.on.ca 
+WHepner@rsgc.on.ca   
+IBoloten@rsgc.on.ca  
+MLivingston@rsgc.on.ca 
+bmazan@rsgc.on.ca    
+alanghorne@rsgc.on.ca 
+GChien@rsgc.on.ca    
+WRochon@rsgc.on.ca   
+LByrne@rsgc.on.ca    
+RBehbahani@rsgc.on.ca 
+MAnderson@rsgc.on.ca 
+RDavis@rsgc.on.ca    
+drabin@rsgc.on.ca    
+TLatimer@rsgc.on.ca  
+AMartin@rsgc.on.ca   
+SDeshpande@rsgc.on.ca 
+OClute@rsgc.on.ca    
+SZimmermann@rsgc.on.ca 
+JRussell@rsgc.on.ca  
 
 Tuesday              
+ZWebster@rsgc.on.ca  
+adonnelly@rsgc.on.ca 
+JSchaffer@rsgc.on.ca 
+LWatson@rsgc.on.ca   
+jkenney@rsgc.on.ca   
 NWoollcombe@rsgc.on.ca 
 JoParker@rsgc.on.ca  
+cvont@rsgc.on.ca     
+GBell@rsgc.on.ca     
+sshabbir@rsgc.on.ca  
+wvannostrand@rsgc.on.ca 
+ARigby@rsgc.on.ca    
+WHepner@rsgc.on.ca   
+IBoloten@rsgc.on.ca  
+MLivingston@rsgc.on.ca 
+bmazan@rsgc.on.ca    
+alanghorne@rsgc.on.ca 
+GChien@rsgc.on.ca    
+WRochon@rsgc.on.ca   
 LByrne@rsgc.on.ca    
+RBehbahani@rsgc.on.ca 
+MAnderson@rsgc.on.ca 
+RDavis@rsgc.on.ca    
+drabin@rsgc.on.ca    
 TLatimer@rsgc.on.ca  
-JGoldsmith@rsgc.on.ca 
-lvidal-ribassmith@rsgc.on.ca 
-RHamilton@rsgc.on.ca 
-PBernhard@rsgc.on.ca 
-JNewall@rsgc.on.ca   
-CGoodall@rsgc.on.ca  
-blai@rsgc.on.ca      
-WLenkov@rsgc.on.ca   
-SPeterson@rsgc.on.ca 
-lmccutcheon@rsgc.on.ca 
-NPloughman@rsgc.on.ca 
-SPetrovic@rsgc.on.ca 
-jcorley@rsgc.on.ca   
-jhugessen@rsgc.on.ca 
-AChiu@rsgc.on.ca     
-DNoe@rsgc.on.ca      
-AWilker@rsgc.on.ca   
-KTsambalieros@rsgc.on.ca 
-kelder@havergal.on.ca 
-AHodgson@rsgc.on.ca  
-TDavies@rsgc.on.ca   
-DCrosner@rsgc.on.ca  
-JKruse@rsgc.on.ca    
-RLaxdal@rsgc.on.ca   
-FWilkinson@rsgc.on.ca 
-DaRaymond@rsgc.on.ca 
+AMartin@rsgc.on.ca   
+SDeshpande@rsgc.on.ca 
+OClute@rsgc.on.ca    
+SZimmermann@rsgc.on.ca 
+JRussell@rsgc.on.ca  
 
 Wednesday            
+ZWebster@rsgc.on.ca  
+adonnelly@rsgc.on.ca 
+JSchaffer@rsgc.on.ca 
+LWatson@rsgc.on.ca   
+jkenney@rsgc.on.ca   
 NWoollcombe@rsgc.on.ca 
+JoParker@rsgc.on.ca  
+cvont@rsgc.on.ca     
+GBell@rsgc.on.ca     
 sshabbir@rsgc.on.ca  
+wvannostrand@rsgc.on.ca 
+ARigby@rsgc.on.ca    
+WHepner@rsgc.on.ca   
 IBoloten@rsgc.on.ca  
+MLivingston@rsgc.on.ca 
+bmazan@rsgc.on.ca    
+alanghorne@rsgc.on.ca 
+GChien@rsgc.on.ca    
+WRochon@rsgc.on.ca   
+LByrne@rsgc.on.ca    
+RBehbahani@rsgc.on.ca 
+MAnderson@rsgc.on.ca 
+RDavis@rsgc.on.ca    
+drabin@rsgc.on.ca    
 TLatimer@rsgc.on.ca  
-EKelly@rsgc.on.ca    
-NGeist@rsgc.on.ca    
-APyper@rsgc.on.ca    
-JGoldsmith@rsgc.on.ca 
-CNobleCurveira@rsgc.on.ca 
-RHamilton@rsgc.on.ca 
-JRau@rsgc.on.ca      
-EPeterson@rsgc.on.ca 
-NBethlenfalvy@rsgc.on.ca 
-OLogush@rsgc.on.ca   
-SPeterson@rsgc.on.ca 
-lmccutcheon@rsgc.on.ca 
-OGane@rsgc.on.ca     
-RKurdyak@rsgc.on.ca  
-jhugessen@rsgc.on.ca 
-RWilmer@rsgc.on.ca   
-kelder@havergal.on.ca 
-mablum@rsgc.on.ca    
-NJones@rsgc.on.ca    
-JKruse@rsgc.on.ca    
-FWilkinson@rsgc.on.ca 
-RBruce@rsgc.on.ca    
-OBarney@rsgc.on.ca   
+AMartin@rsgc.on.ca   
+SDeshpande@rsgc.on.ca 
+OClute@rsgc.on.ca    
+SZimmermann@rsgc.on.ca 
+JRussell@rsgc.on.ca  
 
 Thursday             
+ZWebster@rsgc.on.ca  
+adonnelly@rsgc.on.ca 
+JSchaffer@rsgc.on.ca 
+LWatson@rsgc.on.ca   
+jkenney@rsgc.on.ca   
 NWoollcombe@rsgc.on.ca 
-NGeist@rsgc.on.ca    
-APyper@rsgc.on.ca    
-RShabbir@rsgc.on.ca  
-GBenson@rsgc.on.ca   
-lvidal-ribassmith@rsgc.on.ca 
-RHamilton@rsgc.on.ca 
-EPeterson@rsgc.on.ca 
-NBethlenfalvy@rsgc.on.ca 
-blai@rsgc.on.ca      
-OLogush@rsgc.on.ca   
-SPeterson@rsgc.on.ca 
-lmccutcheon@rsgc.on.ca 
-NTepsich@rsgc.on.ca  
-jcorley@rsgc.on.ca   
-SDanson@rsgc.on.ca   
-gstewart@rsgc.on.ca  
-RWilmer@rsgc.on.ca   
-JMcMaster@rsgc.on.ca 
-jsutton@rsgc.on.ca   
-AHodgson@rsgc.on.ca  
-mablum@rsgc.on.ca    
-PKirby@rsgc.on.ca    
-NChristoffersen@rsgc.on.ca 
-OBarney@rsgc.on.ca   
-HReed@rsgc.on.ca     
+JoParker@rsgc.on.ca  
+cvont@rsgc.on.ca     
+GBell@rsgc.on.ca     
+sshabbir@rsgc.on.ca  
+wvannostrand@rsgc.on.ca 
+ARigby@rsgc.on.ca    
+WHepner@rsgc.on.ca   
+IBoloten@rsgc.on.ca  
+MLivingston@rsgc.on.ca 
+bmazan@rsgc.on.ca    
+alanghorne@rsgc.on.ca 
+GChien@rsgc.on.ca    
+WRochon@rsgc.on.ca   
+LByrne@rsgc.on.ca    
+RBehbahani@rsgc.on.ca 
+MAnderson@rsgc.on.ca 
+RDavis@rsgc.on.ca    
+drabin@rsgc.on.ca    
+TLatimer@rsgc.on.ca  
+AMartin@rsgc.on.ca   
+SDeshpande@rsgc.on.ca 
+OClute@rsgc.on.ca    
+SZimmermann@rsgc.on.ca 
+JRussell@rsgc.on.ca  
 
 Friday               
+ZWebster@rsgc.on.ca  
+adonnelly@rsgc.on.ca 
+JSchaffer@rsgc.on.ca 
+LWatson@rsgc.on.ca   
+jkenney@rsgc.on.ca   
 NWoollcombe@rsgc.on.ca 
-SPeterson@rsgc.on.ca 
-lmccutcheon@rsgc.on.ca 
-STatoff@rsgc.on.ca   
-jsutton@rsgc.on.ca   
+JoParker@rsgc.on.ca  
+cvont@rsgc.on.ca     
+GBell@rsgc.on.ca     
+sshabbir@rsgc.on.ca  
+wvannostrand@rsgc.on.ca 
+ARigby@rsgc.on.ca    
+WHepner@rsgc.on.ca   
+IBoloten@rsgc.on.ca  
+MLivingston@rsgc.on.ca 
+bmazan@rsgc.on.ca    
+alanghorne@rsgc.on.ca 
+GChien@rsgc.on.ca    
+WRochon@rsgc.on.ca   
+LByrne@rsgc.on.ca    
+RBehbahani@rsgc.on.ca 
+MAnderson@rsgc.on.ca 
+RDavis@rsgc.on.ca    
+drabin@rsgc.on.ca    
+TLatimer@rsgc.on.ca  
+AMartin@rsgc.on.ca   
+SDeshpande@rsgc.on.ca 
+OClute@rsgc.on.ca    
+SZimmermann@rsgc.on.ca 
+JRussell@rsgc.on.ca  
 
 ______________________________
 
@@ -997,56 +2036,70 @@ Yoga
 Ms. McPhedran
 
 Monday               
-CMeakin@rsgc.on.ca   
-mforgione@rsgc.on.ca 
-EHaisleyBrown@rsgc.on.ca 
-KChepeha@rsgc.on.ca  
-jsutton@rsgc.on.ca   
-jsmith@rsgc.on.ca    
-OMcFarlane@rsgc.on.ca 
-QKirkpatrick@rsgc.on.ca 
-JKruse@rsgc.on.ca    
-JFell@rsgc.on.ca     
-NChristoffersen@rsgc.on.ca 
-mrovazzi@rsgc.on.ca  
-FWilkinson@rsgc.on.ca 
-schapple@rsgc.on.ca  
-ffatola@rsgc.on.ca   
-LWurstlin@rsgc.on.ca 
-MHartford@rsgc.on.ca 
-syuan@rsgc.on.ca     
-CManson@rsgc.on.ca   
-MMacMurray@rsgc.on.ca 
+ZWebster@rsgc.on.ca  
+adonnelly@rsgc.on.ca 
+JSchaffer@rsgc.on.ca 
+LWatson@rsgc.on.ca   
+jkenney@rsgc.on.ca   
+NWoollcombe@rsgc.on.ca 
+JoParker@rsgc.on.ca  
+cvont@rsgc.on.ca     
+GBell@rsgc.on.ca     
+sshabbir@rsgc.on.ca  
+wvannostrand@rsgc.on.ca 
+ARigby@rsgc.on.ca    
+WHepner@rsgc.on.ca   
+IBoloten@rsgc.on.ca  
+MLivingston@rsgc.on.ca 
+bmazan@rsgc.on.ca    
+alanghorne@rsgc.on.ca 
+GChien@rsgc.on.ca    
+WRochon@rsgc.on.ca   
+LByrne@rsgc.on.ca    
 
 Tuesday              
+ZWebster@rsgc.on.ca  
+adonnelly@rsgc.on.ca 
+JSchaffer@rsgc.on.ca 
+LWatson@rsgc.on.ca   
+jkenney@rsgc.on.ca   
+NWoollcombe@rsgc.on.ca 
+JoParker@rsgc.on.ca  
+cvont@rsgc.on.ca     
+GBell@rsgc.on.ca     
+sshabbir@rsgc.on.ca  
+wvannostrand@rsgc.on.ca 
+ARigby@rsgc.on.ca    
+WHepner@rsgc.on.ca   
+IBoloten@rsgc.on.ca  
 MLivingston@rsgc.on.ca 
-CNobleCurveira@rsgc.on.ca 
-CMeakin@rsgc.on.ca   
-mforgione@rsgc.on.ca 
-RKurdyak@rsgc.on.ca  
-JFisher@rsgc.on.ca   
-KChepeha@rsgc.on.ca  
-jsutton@rsgc.on.ca   
-QKirkpatrick@rsgc.on.ca 
-mwheler@rsgc.on.ca   
-JCostigan@rsgc.on.ca 
-NChristoffersen@rsgc.on.ca 
-schapple@rsgc.on.ca  
-ffatola@rsgc.on.ca   
-MLeFeuvre@rsgc.on.ca 
-CManson@rsgc.on.ca   
-RBruce@rsgc.on.ca    
-MMacMurray@rsgc.on.ca 
-MFogolini@rsgc.on.ca 
-HReed@rsgc.on.ca     
+bmazan@rsgc.on.ca    
+alanghorne@rsgc.on.ca 
+GChien@rsgc.on.ca    
+WRochon@rsgc.on.ca   
+LByrne@rsgc.on.ca    
 
 Wednesday            
-BDreger@rsgc.on.ca   
-MMcCutcheon@rsgc.on.ca 
-CMeakin@rsgc.on.ca   
-mforgione@rsgc.on.ca 
-KChepeha@rsgc.on.ca  
-jsutton@rsgc.on.ca   
+ZWebster@rsgc.on.ca  
+adonnelly@rsgc.on.ca 
+JSchaffer@rsgc.on.ca 
+LWatson@rsgc.on.ca   
+jkenney@rsgc.on.ca   
+NWoollcombe@rsgc.on.ca 
+JoParker@rsgc.on.ca  
+cvont@rsgc.on.ca     
+GBell@rsgc.on.ca     
+sshabbir@rsgc.on.ca  
+wvannostrand@rsgc.on.ca 
+ARigby@rsgc.on.ca    
+WHepner@rsgc.on.ca   
+IBoloten@rsgc.on.ca  
+MLivingston@rsgc.on.ca 
+bmazan@rsgc.on.ca    
+alanghorne@rsgc.on.ca 
+GChien@rsgc.on.ca    
+WRochon@rsgc.on.ca   
+LByrne@rsgc.on.ca    
 
 Thursday             
 
@@ -1059,90 +2112,93 @@ Ms. Kaye/Fitz
 
 Monday               
 ZWebster@rsgc.on.ca  
+adonnelly@rsgc.on.ca 
+JSchaffer@rsgc.on.ca 
+LWatson@rsgc.on.ca   
 jkenney@rsgc.on.ca   
+NWoollcombe@rsgc.on.ca 
+JoParker@rsgc.on.ca  
+cvont@rsgc.on.ca     
 GBell@rsgc.on.ca     
+sshabbir@rsgc.on.ca  
+wvannostrand@rsgc.on.ca 
+ARigby@rsgc.on.ca    
 WHepner@rsgc.on.ca   
+IBoloten@rsgc.on.ca  
 MLivingston@rsgc.on.ca 
-GChien@rsgc.on.ca    
-WRochon@rsgc.on.ca   
-AMartin@rsgc.on.ca   
-SZimmermann@rsgc.on.ca 
-ANash@rsgc.on.ca     
-BDreger@rsgc.on.ca   
-PCai@rsgc.on.ca      
-APyper@rsgc.on.ca    
-CAristone@rsgc.on.ca 
-JMizen@rsgc.on.ca    
-HStevenson@rsgc.on.ca 
+bmazan@rsgc.on.ca    
 
 Tuesday              
 ZWebster@rsgc.on.ca  
+adonnelly@rsgc.on.ca 
+JSchaffer@rsgc.on.ca 
+LWatson@rsgc.on.ca   
+jkenney@rsgc.on.ca   
+NWoollcombe@rsgc.on.ca 
+JoParker@rsgc.on.ca  
+cvont@rsgc.on.ca     
 GBell@rsgc.on.ca     
+sshabbir@rsgc.on.ca  
+wvannostrand@rsgc.on.ca 
+ARigby@rsgc.on.ca    
 WHepner@rsgc.on.ca   
 IBoloten@rsgc.on.ca  
-GChien@rsgc.on.ca    
-WRochon@rsgc.on.ca   
-RDavis@rsgc.on.ca    
-AMartin@rsgc.on.ca   
-SDeshpande@rsgc.on.ca 
-ANash@rsgc.on.ca     
-HHardinge@rsgc.on.ca 
-LVandenBroek@rsgc.on.ca 
-chmacdonald@rsgc.on.ca 
-GBenson@rsgc.on.ca   
-BChristmann@rsgc.on.ca 
-LConrod@rsgc.on.ca   
+MLivingston@rsgc.on.ca 
+bmazan@rsgc.on.ca    
 
 Wednesday            
 ZWebster@rsgc.on.ca  
-GChien@rsgc.on.ca    
-SDeshpande@rsgc.on.ca 
-SReed@rsgc.on.ca     
-RColville-Reeves@rsgc.on.ca 
-PCai@rsgc.on.ca      
-GButterworth@rsgc.on.ca 
-HHardinge@rsgc.on.ca 
-ASheeres-Paulicpulle@rsgc.on.ca 
-PBernhard@rsgc.on.ca 
-AFerguson@rsgc.on.ca 
-DeMiller@rsgc.on.ca  
-GTaylor@rsgc.on.ca   
-MKingsley@rsgc.on.ca 
-SCanavan@rsgc.on.ca  
-MVassos@rsgc.on.ca   
+adonnelly@rsgc.on.ca 
+JSchaffer@rsgc.on.ca 
+LWatson@rsgc.on.ca   
+jkenney@rsgc.on.ca   
+NWoollcombe@rsgc.on.ca 
+JoParker@rsgc.on.ca  
+cvont@rsgc.on.ca     
+GBell@rsgc.on.ca     
+sshabbir@rsgc.on.ca  
+wvannostrand@rsgc.on.ca 
+ARigby@rsgc.on.ca    
+WHepner@rsgc.on.ca   
+IBoloten@rsgc.on.ca  
+MLivingston@rsgc.on.ca 
+bmazan@rsgc.on.ca    
 
 Thursday             
+ZWebster@rsgc.on.ca  
+adonnelly@rsgc.on.ca 
+JSchaffer@rsgc.on.ca 
+LWatson@rsgc.on.ca   
+jkenney@rsgc.on.ca   
+NWoollcombe@rsgc.on.ca 
+JoParker@rsgc.on.ca  
+cvont@rsgc.on.ca     
+GBell@rsgc.on.ca     
+sshabbir@rsgc.on.ca  
+wvannostrand@rsgc.on.ca 
+ARigby@rsgc.on.ca    
+WHepner@rsgc.on.ca   
+IBoloten@rsgc.on.ca  
 MLivingston@rsgc.on.ca 
-AMartin@rsgc.on.ca   
-ANash@rsgc.on.ca     
-HHardinge@rsgc.on.ca 
-JMizen@rsgc.on.ca    
-HStevenson@rsgc.on.ca 
-CGallagher@rsgc.on.ca 
-cforgione@rsgc.on.ca 
-ASheeres-Paulicpulle@rsgc.on.ca 
-BChristmann@rsgc.on.ca 
-AHepner@rsgc.on.ca   
-AFerguson@rsgc.on.ca 
-CGoodall@rsgc.on.ca  
-CMeakin@rsgc.on.ca   
-DeMiller@rsgc.on.ca  
-SCanavan@rsgc.on.ca  
+bmazan@rsgc.on.ca    
 
 Friday               
-GChien@rsgc.on.ca    
-WRochon@rsgc.on.ca   
-CNobleCurveira@rsgc.on.ca 
-PBernhard@rsgc.on.ca 
-AFerguson@rsgc.on.ca 
-JCase@rsgc.on.ca     
-MKingsley@rsgc.on.ca 
-MVassos@rsgc.on.ca   
-mforgione@rsgc.on.ca 
-cabbott@rsgc.on.ca   
-KChepeha@rsgc.on.ca  
-KTsambalieros@rsgc.on.ca 
-MGoodman@rsgc.on.ca  
+ZWebster@rsgc.on.ca  
+adonnelly@rsgc.on.ca 
+JSchaffer@rsgc.on.ca 
+LWatson@rsgc.on.ca   
+jkenney@rsgc.on.ca   
+NWoollcombe@rsgc.on.ca 
+JoParker@rsgc.on.ca  
+cvont@rsgc.on.ca     
+GBell@rsgc.on.ca     
+sshabbir@rsgc.on.ca  
+wvannostrand@rsgc.on.ca 
+ARigby@rsgc.on.ca    
+WHepner@rsgc.on.ca   
+IBoloten@rsgc.on.ca  
+MLivingston@rsgc.on.ca 
+bmazan@rsgc.on.ca    
 
 ______________________________
 
@@ -1159,22 +2215,22 @@ Thursday
 
 Friday               
 ZWebster@rsgc.on.ca  
-IBoloten@rsgc.on.ca  
-MLivingston@rsgc.on.ca 
-LByrne@rsgc.on.ca    
-MAnderson@rsgc.on.ca 
-AMartin@rsgc.on.ca   
-SDeshpande@rsgc.on.ca 
-SZimmermann@rsgc.on.ca 
-JMizen@rsgc.on.ca    
-HStevenson@rsgc.on.ca 
-CGallagher@rsgc.on.ca 
-cforgione@rsgc.on.ca 
+adonnelly@rsgc.on.ca 
+JSchaffer@rsgc.on.ca 
+LWatson@rsgc.on.ca   
+jkenney@rsgc.on.ca   
+NWoollcombe@rsgc.on.ca 
+JoParker@rsgc.on.ca  
+cvont@rsgc.on.ca     
+GBell@rsgc.on.ca     
+sshabbir@rsgc.on.ca  
+wvannostrand@rsgc.on.ca 
+ARigby@rsgc.on.ca    
 ZWebster@rsgc.on.ca   -> Bader Shaw           
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Animal Therapy       Animal Therapy       Animal Therapy       Sleep In             Massage              
+Animal Therapy       Academic Management  Physical Activity    Yoga                 Animal Therapy       
 
 ______________________________________________________________________________________________
 
@@ -1182,7 +2238,7 @@ NWoollcombe@rsgc.on.ca  -> Bader Shaw
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Academic Management  Academic Management  Academic Management  Academic Management  Academic Management  
+Academic Management  Animal Therapy       Physical Activity    Yoga                 Academic Management  
 
 ______________________________________________________________________________________________
 
@@ -1190,7 +2246,7 @@ alanghorne@rsgc.on.ca  -> Bader Shaw
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Physical Activity    Physical Activity    Sleep In             Sleep In             
+Physical Activity    Academic Management  Animal Therapy       Yoga                 Physical Activity    
 
 ______________________________________________________________________________________________
 
@@ -1198,7 +2254,7 @@ GTaylor@rsgc.on.ca    -> Bader Shaw
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Casual Breakfast     Animal Therapy       Sleep In             Sleep In             
+Animal Therapy       Physical Activity    Yoga                 Academic Management  Casual Breakfast     
 
 ______________________________________________________________________________________________
 
@@ -1206,7 +2262,7 @@ wmcleod@rsgc.on.ca    -> Bader Shaw
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Casual Breakfast     Physical Activity    Sleep In             Sleep In             
+Physical Activity    Yoga                 Animal Therapy       Academic Management  Casual Breakfast     
 
 ______________________________________________________________________________________________
 
@@ -1214,7 +2270,7 @@ OMcFarlane@rsgc.on.ca  -> Bader Shaw
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Yoga                 Casual Breakfast     Casual Breakfast     Sleep In             Sleep In             
+Animal Therapy       Academic Management  Yoga                 Physical Activity    Animal Therapy       
 
 ______________________________________________________________________________________________
 
@@ -1222,7 +2278,7 @@ RDavis@rsgc.on.ca     -> Beatty
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Animal Therapy       Physical Activity    Math Exam            Sleep In             
+Sleep In             Casual Breakfast     Physical Activity    Academic Management  Animal Therapy       
 
 ______________________________________________________________________________________________
 
@@ -1230,7 +2286,7 @@ MKahr-Landolt@rsgc.on.ca  -> Beatty
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Physical Activity    Sleep In             Physical Activity    Sleep In             
+Physical Activity    Academic Management  Casual Breakfast     Yoga                 Animal Therapy       
 
 ______________________________________________________________________________________________
 
@@ -1238,7 +2294,7 @@ GBenson@rsgc.on.ca    -> Beatty
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Animal Therapy       Sleep In             Academic Management  Sleep In             
+Physical Activity    Animal Therapy       Yoga                 Casual Breakfast     Academic Management  
 
 ______________________________________________________________________________________________
 
@@ -1246,7 +2302,7 @@ JBowlesConover@rsgc.on.ca  -> Beatty
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Sleep In             Relaxation           Relaxation           Sleep In             
+Physical Activity    Casual Breakfast     Academic Management  Yoga                 Animal Therapy       
 
 ______________________________________________________________________________________________
 
@@ -1254,7 +2310,7 @@ OLogush@rsgc.on.ca    -> Beatty
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Academic Management  Sleep In             Academic Management  Academic Management  Sleep In             
+Academic Management  Casual Breakfast     Physical Activity    Animal Therapy       Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1262,7 +2318,7 @@ MCulbert@rsgc.on.ca   -> Beatty
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Sleep In             Casual Breakfast     Casual Breakfast     Sleep In             
+Casual Breakfast     Animal Therapy       Physical Activity    Yoga                 Academic Management  
 
 ______________________________________________________________________________________________
 
@@ -1270,7 +2326,7 @@ NBarney@rsgc.on.ca    -> Beatty
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Casual Breakfast     Casual Breakfast     Casual Breakfast     Sleep In             
+Sleep In             Academic Management  Physical Activity    Casual Breakfast     Animal Therapy       
 
 ______________________________________________________________________________________________
 
@@ -1278,7 +2334,7 @@ MStewart@rsgc.on.ca   -> Beatty
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Casual Breakfast     Physical Activity    Physical Activity    Physical Activity    
+Physical Activity    Sleep In             Animal Therapy       Casual Breakfast     Academic Management  
 
 ______________________________________________________________________________________________
 
@@ -1286,7 +2342,7 @@ AWood@rsgc.on.ca      -> Beatty
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Sleep In             Casual Breakfast     Casual Breakfast     Sleep In             
+Casual Breakfast     Physical Activity    Animal Therapy       Academic Management  Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1294,7 +2350,7 @@ RBehbahani@rsgc.on.ca  -> Bibby
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Sleep In             Casual Breakfast     Casual Breakfast     Sleep In             
+Casual Breakfast     Physical Activity    Animal Therapy       Academic Management  Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1302,7 +2358,7 @@ RColville-Reeves@rsgc.on.ca  -> Bibby
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Physical Activity    Animal Therapy       Physical Activity    Sleep In             
+Sleep In             Casual Breakfast     Physical Activity    Academic Management  Animal Therapy       
 
 ______________________________________________________________________________________________
 
@@ -1310,7 +2366,7 @@ EPeterson@rsgc.on.ca  -> Bibby
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Academic Management  Sleep In             Academic Management  Academic Management  Sleep In             
+Academic Management  Casual Breakfast     Yoga                 Physical Activity    Animal Therapy       
 
 ______________________________________________________________________________________________
 
@@ -1318,7 +2374,7 @@ JFisher@rsgc.on.ca    -> Bibby
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Yoga                 Physical Activity    Math Exam            Sleep In             
+Casual Breakfast     Sleep In             Yoga                 Physical Activity    Animal Therapy       
 
 ______________________________________________________________________________________________
 
@@ -1326,7 +2382,7 @@ JBurleton@rsgc.on.ca  -> Bibby
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Physical Activity    Casual Breakfast     Math Exam            Sleep In             
+Sleep In             Casual Breakfast     Physical Activity    Academic Management  Animal Therapy       
 
 ______________________________________________________________________________________________
 
@@ -1334,7 +2390,7 @@ HMcDaniel@rsgc.on.ca  -> Bibby
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Physical Activity    Casual Breakfast     Physical Activity    Sleep In             
+Sleep In             Physical Activity    Casual Breakfast     Academic Management  Animal Therapy       
 
 ______________________________________________________________________________________________
 
@@ -1342,7 +2398,7 @@ APyper@rsgc.on.ca     -> Chow
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Animal Therapy       Sleep In             Academic Management  Academic Management  Sleep In             
+Animal Therapy       Yoga                 Physical Activity    Academic Management  Casual Breakfast     
 
 ______________________________________________________________________________________________
 
@@ -1350,7 +2406,7 @@ AFerguson@rsgc.on.ca  -> Chow
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Sleep In             Animal Therapy       Animal Therapy       Animal Therapy       
+Casual Breakfast     Animal Therapy       Academic Management  Yoga                 Physical Activity    
 
 ______________________________________________________________________________________________
 
@@ -1358,7 +2414,7 @@ ALee@rsgc.on.ca       -> Chow
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Academic Management  Sleep In             Casual Breakfast     Casual Breakfast     Sleep In             
+Academic Management  Casual Breakfast     Animal Therapy       Physical Activity    Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1366,7 +2422,7 @@ AChiu@rsgc.on.ca      -> Chow
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Academic Management  Casual Breakfast     Math Exam            Physical Activity    
+Physical Activity    Academic Management  Sleep In             Casual Breakfast     Animal Therapy       
 
 ______________________________________________________________________________________________
 
@@ -1374,7 +2430,7 @@ TDavies@rsgc.on.ca    -> Chow
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Academic Management  Casual Breakfast     Math Exam            Sleep In             
+Sleep In             Animal Therapy       Academic Management  Casual Breakfast     Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1382,7 +2438,7 @@ WMcIlroy@rsgc.on.ca   -> Chow
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Physical Activity    Sleep In             Casual Breakfast     Sleep In             
+Casual Breakfast     Animal Therapy       Physical Activity    Academic Management  Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1390,7 +2446,7 @@ PBagga@rsgc.on.ca     -> Darvasi
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Casual Breakfast     Casual Breakfast     Math Exam            Sleep In             
+Sleep In             Casual Breakfast     Animal Therapy       Physical Activity    Academic Management  
 
 ______________________________________________________________________________________________
 
@@ -1398,7 +2454,7 @@ SConnolly@rsgc.on.ca  -> Darvasi
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Physical Activity    Sleep In             Casual Breakfast     Sleep In             
+Animal Therapy       Casual Breakfast     Academic Management  Physical Activity    Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1406,7 +2462,7 @@ jirwin@rsgc.on.ca     -> Darvasi
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Sleep In             Physical Activity    Physical Activity    Sleep In             
+Physical Activity    Casual Breakfast     Animal Therapy       Yoga                 Academic Management  
 
 ______________________________________________________________________________________________
 
@@ -1414,7 +2470,7 @@ RLaxdal@rsgc.on.ca    -> Darvasi
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Academic Management  Sleep In             Casual Breakfast     Sleep In             
+Animal Therapy       Casual Breakfast     Academic Management  Physical Activity    Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1422,7 +2478,7 @@ DaRaymond@rsgc.on.ca  -> Darvasi
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Academic Management  Sleep In             Casual Breakfast     Sleep In             
+Casual Breakfast     Animal Therapy       Academic Management  Physical Activity    Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1430,7 +2486,7 @@ JBarkway@rsgc.on.ca   -> Darvasi
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Casual Breakfast     Relaxation           Relaxation           Sleep In             
+Sleep In             Casual Breakfast     Academic Management  Animal Therapy       Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1438,7 +2494,7 @@ OBarney@rsgc.on.ca    -> Darvasi
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Sleep In             Academic Management  Academic Management  Sleep In             
+Academic Management  Yoga                 Animal Therapy       Casual Breakfast     Physical Activity    
 
 ______________________________________________________________________________________________
 
@@ -1446,7 +2502,7 @@ jkenney@rsgc.on.ca    -> DeBlois
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Animal Therapy       Casual Breakfast     Casual Breakfast     Sleep In             Sleep In             
+Animal Therapy       Physical Activity    Academic Management  Yoga                 Casual Breakfast     
 
 ______________________________________________________________________________________________
 
@@ -1454,7 +2510,7 @@ BDreger@rsgc.on.ca    -> DeBlois
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Animal Therapy       Casual Breakfast     Yoga                 Sleep In             Sleep In             
+Animal Therapy       Yoga                 Physical Activity    Academic Management  Casual Breakfast     
 
 ______________________________________________________________________________________________
 
@@ -1462,7 +2518,7 @@ WLenkov@rsgc.on.ca    -> DeBlois
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Academic Management  Academic Management  Casual Breakfast     Sleep In             Sleep In             
+Academic Management  Animal Therapy       Yoga                 Physical Activity    Academic Management  
 
 ______________________________________________________________________________________________
 
@@ -1470,7 +2526,7 @@ cabbott@rsgc.on.ca    -> DeBlois
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Physical Activity    Physical Activity    Sleep In             Animal Therapy       
+Animal Therapy       Physical Activity    Academic Management  Yoga                 Physical Activity    
 
 ______________________________________________________________________________________________
 
@@ -1478,7 +2534,7 @@ rgross@rsgc.on.ca     -> DeBlois
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Physical Activity    Physical Activity    Sleep In             Sleep In             
+Physical Activity    Yoga                 Academic Management  Animal Therapy       Physical Activity    
 
 ______________________________________________________________________________________________
 
@@ -1486,7 +2542,7 @@ JFell@rsgc.on.ca      -> DeBlois
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Yoga                 Casual Breakfast     Casual Breakfast     Sleep In             Sleep In             
+Animal Therapy       Physical Activity    Academic Management  Yoga                 Physical Activity    
 
 ______________________________________________________________________________________________
 
@@ -1494,7 +2550,7 @@ ffatola@rsgc.on.ca    -> DeBlois
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Yoga                 Yoga                 Physical Activity    Relaxation           Physical Activity    
+Physical Activity    Yoga                 Academic Management  Animal Therapy       Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1502,7 +2558,7 @@ MHartford@rsgc.on.ca  -> DeBlois
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Yoga                 Casual Breakfast     Relaxation           Relaxation           Relaxation           
+Animal Therapy       Academic Management  Physical Activity    Yoga                 Casual Breakfast     
 
 ______________________________________________________________________________________________
 
@@ -1510,7 +2566,7 @@ MAnderson@rsgc.on.ca  -> Doerksen
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Casual Breakfast     Physical Activity    Math Exam            Massage              
+Sleep In             Animal Therapy       Physical Activity    Casual Breakfast     Academic Management  
 
 ______________________________________________________________________________________________
 
@@ -1518,7 +2574,7 @@ WHoward-Waddingham@rsgc.on.ca  -> Doerksen
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Physical Activity    Physical Activity    Physical Activity    Physical Activity    
+Physical Activity    Animal Therapy       Casual Breakfast     Academic Management  Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1526,7 +2582,7 @@ NBethlenfalvy@rsgc.on.ca  -> Doerksen
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Academic Management  Sleep In             Academic Management  Academic Management  Sleep In             
+Animal Therapy       Academic Management  Casual Breakfast     Yoga                 Physical Activity    
 
 ______________________________________________________________________________________________
 
@@ -1534,7 +2590,7 @@ MVassos@rsgc.on.ca    -> Doerksen
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Academic Management  Sleep In             Animal Therapy       Relaxation           Animal Therapy       
+Animal Therapy       Academic Management  Casual Breakfast     Physical Activity    Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1542,7 +2598,7 @@ kelder@havergal.on.ca  -> Doerksen
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Academic Management  Academic Management  Math Exam            Sleep In             
+Sleep In             Animal Therapy       Academic Management  Casual Breakfast     Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1550,7 +2606,7 @@ WHope@rsgc.on.ca      -> Doerksen
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Physical Activity    Sleep In             Physical Activity    Sleep In             
+Animal Therapy       Physical Activity    Casual Breakfast     Academic Management  Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1558,7 +2614,7 @@ JMcMaster@rsgc.on.ca  -> Doerksen
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Sleep In             Casual Breakfast     Academic Management  Sleep In             
+Animal Therapy       Casual Breakfast     Yoga                 Physical Activity    Academic Management  
 
 ______________________________________________________________________________________________
 
@@ -1566,7 +2622,7 @@ ALeishman@rsgc.on.ca  -> Doerksen
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Casual Breakfast     Casual Breakfast     Math Exam            Sleep In             
+Sleep In             Casual Breakfast     Academic Management  Animal Therapy       Physical Activity    
 
 ______________________________________________________________________________________________
 
@@ -1574,7 +2630,7 @@ GHardacre@rsgc.on.ca  -> Doerksen
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Casual Breakfast     Casual Breakfast     Physical Activity    Sleep In             
+Sleep In             Casual Breakfast     Physical Activity    Animal Therapy       Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1582,7 +2638,7 @@ GBell@rsgc.on.ca      -> Donnelly
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Animal Therapy       Animal Therapy       Sleep In             Physical Activity    Sleep In             
+Animal Therapy       Physical Activity    Casual Breakfast     Academic Management  Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1590,7 +2646,7 @@ ANash@rsgc.on.ca      -> Donnelly
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Animal Therapy       Animal Therapy       Sleep In             Animal Therapy       Sleep In             
+Animal Therapy       Academic Management  Casual Breakfast     Physical Activity    Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1598,7 +2654,7 @@ SReed@rsgc.on.ca      -> Donnelly
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Physical Activity    Animal Therapy       Math Exam            Sleep In             
+Sleep In             Animal Therapy       Physical Activity    Academic Management  Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1606,7 +2662,7 @@ GButterworth@rsgc.on.ca  -> Donnelly
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Physical Activity    Animal Therapy       Math Exam            Sleep In             
+Sleep In             Physical Activity    Animal Therapy       Academic Management  Casual Breakfast     
 
 ______________________________________________________________________________________________
 
@@ -1614,7 +2670,7 @@ blai@rsgc.on.ca       -> Donnelly
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Academic Management  Academic Management  Physical Activity    Academic Management  Sleep In             
+Academic Management  Physical Activity    Casual Breakfast     Yoga                 Animal Therapy       
 
 ______________________________________________________________________________________________
 
@@ -1622,7 +2678,7 @@ SCanavan@rsgc.on.ca   -> Donnelly
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Sleep In             Animal Therapy       Animal Therapy       Sleep In             
+Animal Therapy       Physical Activity    Casual Breakfast     Academic Management  Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1630,7 +2686,7 @@ OHardinge@rsgc.on.ca  -> Donnelly
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Casual Breakfast     Casual Breakfast     Casual Breakfast     Sleep In             
+Sleep In             Casual Breakfast     Animal Therapy       Academic Management  Physical Activity    
 
 ______________________________________________________________________________________________
 
@@ -1638,7 +2694,7 @@ NJones@rsgc.on.ca     -> Donnelly
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Casual Breakfast     Academic Management  Math Exam            Sleep In             
+Sleep In             Casual Breakfast     Academic Management  Physical Activity    Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1646,7 +2702,7 @@ MLivingston@rsgc.on.ca  -> Enfield
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Animal Therapy       Yoga                 Sleep In             Animal Therapy       Massage              
+Animal Therapy       Physical Activity    Academic Management  Yoga                 Casual Breakfast     
 
 ______________________________________________________________________________________________
 
@@ -1654,7 +2710,7 @@ ABantis@rsgc.on.ca    -> Enfield
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Physical Activity    Sleep In             Physical Activity    Sleep In             
+Physical Activity    Casual Breakfast     Academic Management  Animal Therapy       Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1662,7 +2718,7 @@ OMurphy@rsgc.on.ca    -> Enfield
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Sleep In             Casual Breakfast     Casual Breakfast     Sleep In             
+Casual Breakfast     Academic Management  Animal Therapy       Yoga                 Physical Activity    
 
 ______________________________________________________________________________________________
 
@@ -1670,7 +2726,7 @@ jwilson@rsgc.on.ca    -> Enfield
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Casual Breakfast     Casual Breakfast     Physical Activity    Sleep In             
+Sleep In             Animal Therapy       Casual Breakfast     Physical Activity    Academic Management  
 
 ______________________________________________________________________________________________
 
@@ -1678,7 +2734,7 @@ KSharma@rsgc.on.ca    -> Enfield
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Physical Activity    Sleep In             Physical Activity    Sleep In             
+Animal Therapy       Physical Activity    Casual Breakfast     Yoga                 Academic Management  
 
 ______________________________________________________________________________________________
 
@@ -1686,7 +2742,7 @@ KChepeha@rsgc.on.ca   -> Enfield
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Yoga                 Yoga                 Yoga                 Relaxation           Animal Therapy       
+Animal Therapy       Yoga                 Casual Breakfast     Academic Management  Physical Activity    
 
 ______________________________________________________________________________________________
 
@@ -1694,7 +2750,7 @@ SDanson@rsgc.on.ca    -> Enfield
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Physical Activity    Sleep In             Academic Management  Sleep In             
+Physical Activity    Academic Management  Casual Breakfast     Yoga                 Animal Therapy       
 
 ______________________________________________________________________________________________
 
@@ -1702,7 +2758,7 @@ TLatimer@rsgc.on.ca   -> Evans
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Academic Management  Academic Management  Math Exam            Sleep In             
+Sleep In             Physical Activity    Casual Breakfast     Academic Management  Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1710,7 +2766,7 @@ AHepner@rsgc.on.ca    -> Evans
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Sleep In             Physical Activity    Animal Therapy       Sleep In             
+Physical Activity    Animal Therapy       Casual Breakfast     Yoga                 Academic Management  
 
 ______________________________________________________________________________________________
 
@@ -1718,7 +2774,7 @@ PBernhard@rsgc.on.ca  -> Evans
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Academic Management  Animal Therapy       Math Exam            Animal Therapy       
+Sleep In             Animal Therapy       Academic Management  Physical Activity    Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1726,7 +2782,7 @@ CMeakin@rsgc.on.ca    -> Evans
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Yoga                 Yoga                 Yoga                 Animal Therapy       Physical Activity    
+Yoga                 Casual Breakfast     Physical Activity    Academic Management  Animal Therapy       
 
 ______________________________________________________________________________________________
 
@@ -1734,7 +2790,7 @@ WGround@rsgc.on.ca    -> Evans
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Physical Activity    Sleep In             Casual Breakfast     Sleep In             
+Casual Breakfast     Academic Management  Physical Activity    Animal Therapy       Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1742,7 +2798,7 @@ NPloughman@rsgc.on.ca  -> Evans
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Academic Management  Sleep In             Relaxation           Sleep In             
+Casual Breakfast     Academic Management  Physical Activity    Animal Therapy       Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1750,7 +2806,7 @@ AWilker@rsgc.on.ca    -> Evans
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Academic Management  Sleep In             Casual Breakfast     Sleep In             
+Casual Breakfast     Animal Therapy       Academic Management  Physical Activity    Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1758,7 +2814,7 @@ MGoodman@rsgc.on.ca   -> Evans
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Sleep In             Physical Activity    Physical Activity    Animal Therapy       
+Animal Therapy       Physical Activity    Casual Breakfast     Academic Management  Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1766,7 +2822,7 @@ LByrne@rsgc.on.ca     -> Farrar
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Academic Management  Casual Breakfast     Math Exam            Massage              
+Sleep In             Casual Breakfast     Physical Activity    Academic Management  Animal Therapy       
 
 ______________________________________________________________________________________________
 
@@ -1774,7 +2830,7 @@ NGeist@rsgc.on.ca     -> Farrar
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Academic Management  Sleep In             Academic Management  Academic Management  Sleep In             
+Academic Management  Casual Breakfast     Animal Therapy       Physical Activity    Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1782,7 +2838,7 @@ RHamilton@rsgc.on.ca  -> Farrar
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Academic Management  Academic Management  Academic Management  Academic Management  Sleep In             
+Academic Management  Animal Therapy       Casual Breakfast     Physical Activity    Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1790,7 +2846,7 @@ mhugessen@rsgc.on.ca  -> Farrar
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Physical Activity    Sleep In             Physical Activity    Physical Activity    
+Physical Activity    Animal Therapy       Casual Breakfast     Academic Management  Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1798,7 +2854,7 @@ AHodgson@rsgc.on.ca   -> Farrar
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Academic Management  Sleep In             Academic Management  Sleep In             
+Casual Breakfast     Physical Activity    Academic Management  Animal Therapy       Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1806,7 +2862,7 @@ DCrosner@rsgc.on.ca   -> Farrar
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Academic Management  Sleep In             Casual Breakfast     Sleep In             
+Casual Breakfast     Academic Management  Physical Activity    Animal Therapy       Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1814,7 +2870,7 @@ PKirby@rsgc.on.ca     -> Farrar
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Physical Activity    Sleep In             Academic Management  Sleep In             
+Casual Breakfast     Physical Activity    Academic Management  Yoga                 Animal Therapy       
 
 ______________________________________________________________________________________________
 
@@ -1822,7 +2878,7 @@ mamccutcheon@rsgc.on.ca  -> Fitz
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Academic Management  Casual Breakfast     Relaxation           Sleep In             Sleep In             
+Academic Management  Physical Activity    Animal Therapy       Yoga                 Casual Breakfast     
 
 ______________________________________________________________________________________________
 
@@ -1830,7 +2886,7 @@ AHerbert-Robertson@rsgc.on.ca  -> Fitz
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Physical Activity    Physical Activity    Sleep In             Sleep In             
+Physical Activity    Animal Therapy       Academic Management  Yoga                 Physical Activity    
 
 ______________________________________________________________________________________________
 
@@ -1838,7 +2894,7 @@ jlank@rsgc.on.ca      -> Fitz
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Academic Management  Physical Activity    Relaxation           Sleep In             Sleep In             
+Animal Therapy       Academic Management  Physical Activity    Yoga                 Physical Activity    
 
 ______________________________________________________________________________________________
 
@@ -1846,7 +2902,7 @@ mforgione@rsgc.on.ca  -> Fitz
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Yoga                 Yoga                 Yoga                 Casual Breakfast     Animal Therapy       
+Yoga                 Physical Activity    Academic Management  Animal Therapy       Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1854,7 +2910,7 @@ ZKingsley@rsgc.on.ca  -> Fitz
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Physical Activity    Casual Breakfast     Sleep In             Sleep In             
+Physical Activity    Animal Therapy       Yoga                 Academic Management  Physical Activity    
 
 ______________________________________________________________________________________________
 
@@ -1862,7 +2918,7 @@ SFarber@rsgc.on.ca    -> Fitz
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Physical Activity    Physical Activity    Sleep In             Sleep In             
+Animal Therapy       Physical Activity    Academic Management  Yoga                 Animal Therapy       
 
 ______________________________________________________________________________________________
 
@@ -1870,7 +2926,7 @@ dbarkway@rsgc.on.ca   -> Fitz
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Casual Breakfast     Physical Activity    Sleep In             Sleep In             
+Physical Activity    Animal Therapy       Academic Management  Yoga                 Animal Therapy       
 
 ______________________________________________________________________________________________
 
@@ -1878,7 +2934,7 @@ jsutton@rsgc.on.ca    -> Fitz
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Yoga                 Yoga                 Yoga                 Academic Management  Academic Management  
+Yoga                 Animal Therapy       Academic Management  Physical Activity    Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1886,7 +2942,7 @@ LWurstlin@rsgc.on.ca  -> Fitz
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Yoga                 Casual Breakfast     Physical Activity    Sleep In             Sleep In             
+Physical Activity    Animal Therapy       Academic Management  Yoga                 Casual Breakfast     
 
 ______________________________________________________________________________________________
 
@@ -1894,7 +2950,7 @@ JSchaffer@rsgc.on.ca  -> Ghoreshy
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Sleep In             Casual Breakfast     Casual Breakfast     Sleep In             
+Casual Breakfast     Animal Therapy       Physical Activity    Academic Management  Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1902,7 +2958,7 @@ JGoldsmith@rsgc.on.ca  -> Ghoreshy
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Academic Management  Academic Management  Math Exam            Sleep In             
+Sleep In             Animal Therapy       Academic Management  Casual Breakfast     Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1910,7 +2966,7 @@ CNobleCurveira@rsgc.on.ca  -> Ghoreshy
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Yoga                 Academic Management  Math Exam            Animal Therapy       
+Sleep In             Yoga                 Animal Therapy       Casual Breakfast     Physical Activity    
 
 ______________________________________________________________________________________________
 
@@ -1918,7 +2974,7 @@ JRau@rsgc.on.ca       -> Ghoreshy
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Academic Management  Sleep In             Academic Management  Physical Activity    Sleep In             
+Academic Management  Casual Breakfast     Physical Activity    Animal Therapy       Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1926,7 +2982,7 @@ KLaxdal@rsgc.on.ca    -> Ghoreshy
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Casual Breakfast     Casual Breakfast     Casual Breakfast     Sleep In             
+Sleep In             Casual Breakfast     Animal Therapy       Yoga                 Academic Management  
 
 ______________________________________________________________________________________________
 
@@ -1934,7 +2990,7 @@ LSimpson@rsgc.on.ca   -> Ghoreshy
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Physical Activity    Sleep In             Physical Activity    Sleep In             
+Physical Activity    Animal Therapy       Casual Breakfast     Yoga                 Academic Management  
 
 ______________________________________________________________________________________________
 
@@ -1942,7 +2998,7 @@ BGolding@rsgc.on.ca   -> Ghoreshy
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Casual Breakfast     Casual Breakfast     Casual Breakfast     Sleep In             
+Sleep In             Casual Breakfast     Physical Activity    Academic Management  Animal Therapy       
 
 ______________________________________________________________________________________________
 
@@ -1950,7 +3006,7 @@ HReed@rsgc.on.ca      -> Ghoreshy
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Yoga                 Sleep In             Academic Management  Sleep In             
+Animal Therapy       Physical Activity    Casual Breakfast     Academic Management  Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1958,7 +3014,7 @@ MMcCutcheon@rsgc.on.ca  -> Girvan
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Casual Breakfast     Yoga                 Math Exam            Sleep In             
+Sleep In             Casual Breakfast     Yoga                 Academic Management  Animal Therapy       
 
 ______________________________________________________________________________________________
 
@@ -1966,7 +3022,7 @@ SBlackwell@rsgc.on.ca  -> Girvan
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Casual Breakfast     Casual Breakfast     Math Exam            Sleep In             
+Sleep In             Casual Breakfast     Animal Therapy       Yoga                 Physical Activity    
 
 ______________________________________________________________________________________________
 
@@ -1974,7 +3030,7 @@ mwheler@rsgc.on.ca    -> Girvan
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Yoga                 Sleep In             Physical Activity    Sleep In             
+Physical Activity    Casual Breakfast     Animal Therapy       Academic Management  Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -1982,7 +3038,7 @@ AFell@rsgc.on.ca      -> Girvan
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Sleep In             Casual Breakfast     Physical Activity    Sleep In             
+Academic Management  Casual Breakfast     Physical Activity    Yoga                 Animal Therapy       
 
 ______________________________________________________________________________________________
 
@@ -1990,7 +3046,7 @@ RBruce@rsgc.on.ca     -> Girvan
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Yoga                 Academic Management  Math Exam            Sleep In             
+Sleep In             Animal Therapy       Physical Activity    Yoga                 Academic Management  
 
 ______________________________________________________________________________________________
 
@@ -1998,7 +3054,7 @@ JAnderson@rsgc.on.ca  -> Gledhill
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Physical Activity    Sleep In             Physical Activity    Sleep In             
+Physical Activity    Animal Therapy       Casual Breakfast     Yoga                 Academic Management  
 
 ______________________________________________________________________________________________
 
@@ -2006,7 +3062,7 @@ SSellery@rsgc.on.ca   -> Gledhill
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Physical Activity    Sleep In             Physical Activity    Sleep In             
+Physical Activity    Casual Breakfast     Academic Management  Yoga                 Animal Therapy       
 
 ______________________________________________________________________________________________
 
@@ -2014,7 +3070,7 @@ MKingsley@rsgc.on.ca  -> Gledhill
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Casual Breakfast     Animal Therapy       Math Exam            Animal Therapy       
+Sleep In             Animal Therapy       Casual Breakfast     Yoga                 Physical Activity    
 
 ______________________________________________________________________________________________
 
@@ -2022,7 +3078,7 @@ OGane@rsgc.on.ca      -> Gledhill
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Casual Breakfast     Academic Management  Math Exam            Sleep In             
+Sleep In             Casual Breakfast     Physical Activity    Academic Management  Animal Therapy       
 
 ______________________________________________________________________________________________
 
@@ -2030,7 +3086,7 @@ jcorley@rsgc.on.ca    -> Gledhill
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Academic Management  Academic Management  Sleep In             Academic Management  Sleep In             
+Academic Management  Animal Therapy       Physical Activity    Casual Breakfast     Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -2038,7 +3094,7 @@ QKirkpatrick@rsgc.on.ca  -> Gledhill
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Yoga                 Yoga                 Sleep In             Physical Activity    Sleep In             
+Physical Activity    Yoga                 Casual Breakfast     Animal Therapy       Academic Management  
 
 ______________________________________________________________________________________________
 
@@ -2046,7 +3102,7 @@ STrevor@rsgc.on.ca    -> Gledhill
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Casual Breakfast     Casual Breakfast     Math Exam            Sleep In             
+Casual Breakfast     Academic Management  Animal Therapy       Physical Activity    Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -2054,7 +3110,7 @@ JCostigan@rsgc.on.ca  -> Gledhill
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Yoga                 Sleep In             Relaxation           Sleep In             
+Animal Therapy       Casual Breakfast     Yoga                 Physical Activity    Academic Management  
 
 ______________________________________________________________________________________________
 
@@ -2062,7 +3118,7 @@ schapple@rsgc.on.ca   -> Gledhill
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Yoga                 Yoga                 Relaxation           Relaxation           Relaxation           
+Yoga                 Academic Management  Physical Activity    Casual Breakfast     Animal Therapy       
 
 ______________________________________________________________________________________________
 
@@ -2070,7 +3126,7 @@ ASmoley@rsgc.on.ca    -> Hart
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Physical Activity    Physical Activity    Sleep In             Sleep In             
+Physical Activity    Academic Management  Animal Therapy       Yoga                 Physical Activity    
 
 ______________________________________________________________________________________________
 
@@ -2078,7 +3134,7 @@ chmacdonald@rsgc.on.ca  -> Hart
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Animal Therapy       Physical Activity    Sleep In             Sleep In             
+Physical Activity    Animal Therapy       Academic Management  Yoga                 Animal Therapy       
 
 ______________________________________________________________________________________________
 
@@ -2086,7 +3142,7 @@ DDiPierdomenico@rsgc.on.ca  -> Hart
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Physical Activity    Physical Activity    Sleep In             Sleep In             
+Physical Activity    Animal Therapy       Academic Management  Yoga                 Physical Activity    
 
 ______________________________________________________________________________________________
 
@@ -2094,7 +3150,7 @@ NVassos@rsgc.on.ca    -> Hart
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Academic Management  Casual Breakfast     Casual Breakfast     Sleep In             Relaxation           
+Animal Therapy       Academic Management  Physical Activity    Yoga                 Casual Breakfast     
 
 ______________________________________________________________________________________________
 
@@ -2102,7 +3158,7 @@ SPeterson@rsgc.on.ca  -> Hart
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Academic Management  Academic Management  Academic Management  Academic Management  Academic Management  
+Academic Management  Animal Therapy       Yoga                 Physical Activity    Academic Management  
 
 ______________________________________________________________________________________________
 
@@ -2110,7 +3166,7 @@ STatoff@rsgc.on.ca    -> Hart
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Casual Breakfast     Physical Activity    Relaxation           Academic Management  
+Physical Activity    Academic Management  Animal Therapy       Yoga                 Casual Breakfast     
 
 ______________________________________________________________________________________________
 
@@ -2118,7 +3174,7 @@ lmorgante@rsgc.on.ca  -> Hart
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Academic Management  Casual Breakfast     Relaxation           Sleep In             Relaxation           
+Academic Management  Animal Therapy       Yoga                 Physical Activity    Casual Breakfast     
 
 ______________________________________________________________________________________________
 
@@ -2126,7 +3182,7 @@ jsmith@rsgc.on.ca     -> Hart
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Yoga                 Casual Breakfast     Relaxation           Sleep In             Sleep In             
+Animal Therapy       Physical Activity    Yoga                 Academic Management  Animal Therapy       
 
 ______________________________________________________________________________________________
 
@@ -2134,7 +3190,7 @@ GChien@rsgc.on.ca     -> Hutton
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Animal Therapy       Animal Therapy       Animal Therapy       Math Exam            Animal Therapy       
+Animal Therapy       Casual Breakfast     Sleep In             Academic Management  Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -2142,7 +3198,7 @@ ASheeres-Paulicpulle@rsgc.on.ca  -> Hutton
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Sleep In             Animal Therapy       Animal Therapy       Sleep In             
+Animal Therapy       Casual Breakfast     Academic Management  Yoga                 Physical Activity    
 
 ______________________________________________________________________________________________
 
@@ -2150,7 +3206,7 @@ BLeder@rsgc.on.ca     -> Hutton
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Casual Breakfast     Casual Breakfast     Math Exam            Sleep In             
+Sleep In             Casual Breakfast     Animal Therapy       Yoga                 Academic Management  
 
 ______________________________________________________________________________________________
 
@@ -2158,7 +3214,7 @@ Jwalker-sherman@rsgc.on.ca  -> Hutton
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Academic Management  Sleep In             Relaxation           Relaxation           Sleep In             
+Academic Management  Physical Activity    Casual Breakfast     Yoga                 Animal Therapy       
 
 ______________________________________________________________________________________________
 
@@ -2166,7 +3222,7 @@ CMacDougall@rsgc.on.ca  -> Hutton
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Physical Activity    Sleep In             Relaxation           Sleep In             
+Casual Breakfast     Animal Therapy       Physical Activity    Academic Management  Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -2174,7 +3230,7 @@ DNoe@rsgc.on.ca       -> Hutton
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Academic Management  Sleep In             Relaxation           Sleep In             
+Casual Breakfast     Animal Therapy       Physical Activity    Academic Management  Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -2182,7 +3238,7 @@ SOrmsby@rsgc.on.ca    -> Hutton
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Sleep In             Casual Breakfast     Casual Breakfast     Sleep In             
+Animal Therapy       Casual Breakfast     Yoga                 Academic Management  Physical Activity    
 
 ______________________________________________________________________________________________
 
@@ -2190,7 +3246,7 @@ LVandenBroek@rsgc.on.ca  -> Kotecha
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Animal Therapy       Casual Breakfast     Math Exam            Sleep In             
+Sleep In             Animal Therapy       Casual Breakfast     Yoga                 Physical Activity    
 
 ______________________________________________________________________________________________
 
@@ -2198,7 +3254,7 @@ cforgione@rsgc.on.ca  -> Kotecha
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Sleep In             Casual Breakfast     Animal Therapy       Massage              
+Animal Therapy       Casual Breakfast     Physical Activity    Yoga                 Academic Management  
 
 ______________________________________________________________________________________________
 
@@ -2206,7 +3262,7 @@ jstephenson-smith@rsgc.on.ca  -> Kotecha
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Sleep In             Casual Breakfast     Casual Breakfast     Sleep In             
+Physical Activity    Animal Therapy       Casual Breakfast     Academic Management  Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -2214,7 +3270,7 @@ JHancock@rsgc.on.ca   -> Kotecha
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Physical Activity    Sleep In             Physical Activity    Sleep In             
+Physical Activity    Casual Breakfast     Yoga                 Animal Therapy       Academic Management  
 
 ______________________________________________________________________________________________
 
@@ -2222,7 +3278,7 @@ RKurdyak@rsgc.on.ca   -> Kotecha
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Yoga                 Academic Management  Math Exam            Relaxation           
+Casual Breakfast     Yoga                 Physical Activity    Animal Therapy       Academic Management  
 
 ______________________________________________________________________________________________
 
@@ -2230,7 +3286,7 @@ JSussman@rsgc.on.ca   -> Kotecha
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Physical Activity    Sleep In             Physical Activity    Sleep In             
+Physical Activity    Casual Breakfast     Academic Management  Animal Therapy       Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -2238,7 +3294,7 @@ MFogolini@rsgc.on.ca  -> Kotecha
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Yoga                 Sleep In             Physical Activity    Sleep In             
+Physical Activity    Animal Therapy       Yoga                 Casual Breakfast     Academic Management  
 
 ______________________________________________________________________________________________
 
@@ -2246,7 +3302,7 @@ wvannostrand@rsgc.on.ca  -> Lambersky
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Academic Management  Casual Breakfast     Casual Breakfast     Sleep In             Sleep In             
+Academic Management  Animal Therapy       Yoga                 Physical Activity    Casual Breakfast     
 
 ______________________________________________________________________________________________
 
@@ -2254,7 +3310,7 @@ ARigby@rsgc.on.ca     -> Lambersky
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Academic Management  Casual Breakfast     Casual Breakfast     Sleep In             Sleep In             
+Academic Management  Animal Therapy       Yoga                 Physical Activity    Casual Breakfast     
 
 ______________________________________________________________________________________________
 
@@ -2262,7 +3318,7 @@ mblanco@rsgc.on.ca    -> Lambersky
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Physical Activity    Physical Activity    Sleep In             Sleep In             
+Physical Activity    Academic Management  Yoga                 Animal Therapy       Physical Activity    
 
 ______________________________________________________________________________________________
 
@@ -2270,7 +3326,7 @@ EHaisleyBrown@rsgc.on.ca  -> Lambersky
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Yoga                 Casual Breakfast     Relaxation           Sleep In             Sleep In             
+Yoga                 Physical Activity    Academic Management  Animal Therapy       Casual Breakfast     
 
 ______________________________________________________________________________________________
 
@@ -2278,7 +3334,7 @@ CManson@rsgc.on.ca    -> Lambersky
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Yoga                 Yoga                 Casual Breakfast     Sleep In             Sleep In             
+Physical Activity    Animal Therapy       Yoga                 Academic Management  Animal Therapy       
 
 ______________________________________________________________________________________________
 
@@ -2286,7 +3342,7 @@ CAristone@rsgc.on.ca  -> Newton
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Animal Therapy       Physical Activity    Sleep In             Physical Activity    Sleep In             
+Animal Therapy       Academic Management  Physical Activity    Yoga                 Casual Breakfast     
 
 ______________________________________________________________________________________________
 
@@ -2294,7 +3350,7 @@ RShabbir@rsgc.on.ca   -> Newton
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Academic Management  Sleep In             Casual Breakfast     Academic Management  Sleep In             
+Academic Management  Casual Breakfast     Physical Activity    Animal Therapy       Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -2302,7 +3358,7 @@ MPritchard@rsgc.on.ca  -> Newton
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Physical Activity    Casual Breakfast     Math Exam            Sleep In             
+Sleep In             Casual Breakfast     Physical Activity    Animal Therapy       Academic Management  
 
 ______________________________________________________________________________________________
 
@@ -2310,7 +3366,7 @@ KTsambalieros@rsgc.on.ca  -> Newton
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Academic Management  Sleep In             Casual Breakfast     Animal Therapy       
+Animal Therapy       Casual Breakfast     Academic Management  Yoga                 Physical Activity    
 
 ______________________________________________________________________________________________
 
@@ -2318,7 +3374,7 @@ BDonnelly@rsgc.on.ca  -> Newton
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Sleep In             Casual Breakfast     Casual Breakfast     Sleep In             
+Casual Breakfast     Animal Therapy       Academic Management  Physical Activity    Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -2326,7 +3382,7 @@ AMartin@rsgc.on.ca    -> Rankin
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Animal Therapy       Animal Therapy       Sleep In             Animal Therapy       Massage              
+Animal Therapy       Yoga                 Academic Management  Casual Breakfast     Physical Activity    
 
 ______________________________________________________________________________________________
 
@@ -2334,7 +3390,7 @@ EKelly@rsgc.on.ca     -> Rankin
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Physical Activity    Academic Management  Math Exam            Sleep In             
+Sleep In             Physical Activity    Academic Management  Casual Breakfast     Animal Therapy       
 
 ______________________________________________________________________________________________
 
@@ -2342,7 +3398,7 @@ BChristmann@rsgc.on.ca  -> Rankin
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Animal Therapy       Sleep In             Animal Therapy       Sleep In             
+Animal Therapy       Casual Breakfast     Yoga                 Physical Activity    Academic Management  
 
 ______________________________________________________________________________________________
 
@@ -2350,7 +3406,7 @@ BAnderson@rsgc.on.ca  -> Rankin
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Sleep In             Physical Activity    Physical Activity    Sleep In             
+Physical Activity    Animal Therapy       Yoga                 Academic Management  Casual Breakfast     
 
 ______________________________________________________________________________________________
 
@@ -2358,7 +3414,7 @@ NUsher-Jones@rsgc.on.ca  -> Rankin
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Physical Activity    Physical Activity    Physical Activity    Physical Activity    
+Physical Activity    Academic Management  Casual Breakfast     Animal Therapy       Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -2366,7 +3422,7 @@ jcrossland@rsgc.on.ca  -> Rankin
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Physical Activity    Sleep In             Physical Activity    Sleep In             
+Animal Therapy       Physical Activity    Academic Management  Yoga                 Casual Breakfast     
 
 ______________________________________________________________________________________________
 
@@ -2374,7 +3430,7 @@ FTafel-Sennecke@rsgc.on.ca  -> Rankin
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Casual Breakfast     Casual Breakfast     Casual Breakfast     Sleep In             
+Sleep In             Animal Therapy       Casual Breakfast     Physical Activity    Academic Management  
 
 ______________________________________________________________________________________________
 
@@ -2382,7 +3438,7 @@ mablum@rsgc.on.ca     -> Rankin
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Sleep In             Academic Management  Academic Management  Sleep In             
+Animal Therapy       Academic Management  Casual Breakfast     Physical Activity    Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -2390,7 +3446,7 @@ adonnelly@rsgc.on.ca  -> Seale
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Casual Breakfast     Physical Activity    Sleep In             Sleep In             
+Physical Activity    Animal Therapy       Academic Management  Yoga                 Casual Breakfast     
 
 ______________________________________________________________________________________________
 
@@ -2398,7 +3454,7 @@ JoParker@rsgc.on.ca   -> Seale
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Academic Management  Casual Breakfast     Sleep In             Sleep In             
+Physical Activity    Academic Management  Animal Therapy       Yoga                 Academic Management  
 
 ______________________________________________________________________________________________
 
@@ -2406,7 +3462,7 @@ bmazan@rsgc.on.ca     -> Seale
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Casual Breakfast     Physical Activity    Sleep In             Sleep In             
+Physical Activity    Animal Therapy       Academic Management  Yoga                 Casual Breakfast     
 
 ______________________________________________________________________________________________
 
@@ -2414,7 +3470,7 @@ WRochon@rsgc.on.ca    -> Seale
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Animal Therapy       Animal Therapy       Relaxation           Sleep In             Animal Therapy       
+Animal Therapy       Physical Activity    Yoga                 Academic Management  Animal Therapy       
 
 ______________________________________________________________________________________________
 
@@ -2422,7 +3478,7 @@ JBlanco@rsgc.on.ca    -> Seale
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Casual Breakfast     Casual Breakfast     Sleep In             Sleep In             
+Physical Activity    Academic Management  Animal Therapy       Yoga                 Casual Breakfast     
 
 ______________________________________________________________________________________________
 
@@ -2430,7 +3486,7 @@ syuan@rsgc.on.ca      -> Seale
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Yoga                 Casual Breakfast     Physical Activity    Sleep In             Sleep In             
+Physical Activity    Academic Management  Animal Therapy       Yoga                 Casual Breakfast     
 
 ______________________________________________________________________________________________
 
@@ -2438,7 +3494,7 @@ LWatson@rsgc.on.ca    -> Spacie
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Academic Management  Casual Breakfast     Casual Breakfast     Casual Breakfast     Relaxation           
+Academic Management  Yoga                 Physical Activity    Animal Therapy       Casual Breakfast     
 
 ______________________________________________________________________________________________
 
@@ -2446,7 +3502,7 @@ cvont@rsgc.on.ca      -> Spacie
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Casual Breakfast     Casual Breakfast     Sleep In             Sleep In             
+Physical Activity    Yoga                 Animal Therapy       Academic Management  Casual Breakfast     
 
 ______________________________________________________________________________________________
 
@@ -2454,7 +3510,7 @@ sshabbir@rsgc.on.ca   -> Spacie
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Academic Management  Casual Breakfast     Academic Management  Sleep In             Sleep In             
+Academic Management  Physical Activity    Yoga                 Animal Therapy       Casual Breakfast     
 
 ______________________________________________________________________________________________
 
@@ -2462,7 +3518,7 @@ WHepner@rsgc.on.ca    -> Spacie
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Animal Therapy       Animal Therapy       Casual Breakfast     Sleep In             Sleep In             
+Animal Therapy       Physical Activity    Yoga                 Academic Management  Animal Therapy       
 
 ______________________________________________________________________________________________
 
@@ -2470,7 +3526,7 @@ jdolgin@rsgc.on.ca    -> Spacie
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Casual Breakfast     Relaxation           Sleep In             Sleep In             
+Physical Activity    Animal Therapy       Yoga                 Academic Management  Casual Breakfast     
 
 ______________________________________________________________________________________________
 
@@ -2478,7 +3534,7 @@ mrovazzi@rsgc.on.ca   -> Spacie
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Yoga                 Casual Breakfast     Physical Activity    Sleep In             Sleep In             
+Physical Activity    Yoga                 Animal Therapy       Academic Management  Physical Activity    
 
 ______________________________________________________________________________________________
 
@@ -2486,7 +3542,7 @@ FWilkinson@rsgc.on.ca  -> Spacie
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Yoga                 Academic Management  Academic Management  Sleep In             Sleep In             
+Academic Management  Animal Therapy       Physical Activity    Yoga                 Academic Management  
 
 ______________________________________________________________________________________________
 
@@ -2494,7 +3550,7 @@ oholland@rsgc.on.ca   -> Stevens
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Casual Breakfast     Physical Activity    Math Exam            Sleep In             
+Sleep In             Physical Activity    Casual Breakfast     Animal Therapy       Academic Management  
 
 ______________________________________________________________________________________________
 
@@ -2502,7 +3558,7 @@ JMizen@rsgc.on.ca     -> Stevens
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Animal Therapy       Sleep In             Casual Breakfast     Animal Therapy       Massage              
+Animal Therapy       Physical Activity    Casual Breakfast     Yoga                 Academic Management  
 
 ______________________________________________________________________________________________
 
@@ -2510,7 +3566,7 @@ CGallagher@rsgc.on.ca  -> Stevens
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Sleep In             Casual Breakfast     Animal Therapy       Massage              
+Animal Therapy       Physical Activity    Casual Breakfast     Yoga                 Academic Management  
 
 ______________________________________________________________________________________________
 
@@ -2518,7 +3574,7 @@ drabin@rsgc.on.ca     -> Totten
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Physical Activity    Sleep In             Casual Breakfast     Sleep In             
+Casual Breakfast     Physical Activity    Academic Management  Animal Therapy       Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -2526,7 +3582,7 @@ OClute@rsgc.on.ca     -> Totten
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Casual Breakfast     Casual Breakfast     Math Exam            Sleep In             
+Sleep In             Casual Breakfast     Physical Activity    Academic Management  Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -2534,7 +3590,7 @@ JRussell@rsgc.on.ca   -> Totten
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Casual Breakfast     Casual Breakfast     Casual Breakfast     Sleep In             
+Sleep In             Casual Breakfast     Academic Management  Physical Activity    Animal Therapy       
 
 ______________________________________________________________________________________________
 
@@ -2542,7 +3598,7 @@ DeMiller@rsgc.on.ca   -> Totten
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Academic Management  Sleep In             Animal Therapy       Animal Therapy       Sleep In             
+Academic Management  Animal Therapy       Casual Breakfast     Yoga                 Physical Activity    
 
 ______________________________________________________________________________________________
 
@@ -2550,7 +3606,7 @@ POMalley@rsgc.on.ca   -> Totten
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Academic Management  Sleep In             Casual Breakfast     Relaxation           Sleep In             
+Academic Management  Casual Breakfast     Animal Therapy       Yoga                 Physical Activity    
 
 ______________________________________________________________________________________________
 
@@ -2558,7 +3614,7 @@ AMcLeish@rsgc.on.ca   -> Totten
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Physical Activity    Physical Activity    Sleep In             Physical Activity    Sleep In             
+Animal Therapy       Physical Activity    Yoga                 Casual Breakfast     Academic Management  
 
 ______________________________________________________________________________________________
 
@@ -2566,7 +3622,7 @@ CHacker@rsgc.on.ca    -> Totten
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Sleep In             Relaxation           Relaxation           Sleep In             
+Animal Therapy       Casual Breakfast     Academic Management  Yoga                 Physical Activity    
 
 ______________________________________________________________________________________________
 
@@ -2574,7 +3630,7 @@ DDaudi@rsgc.on.ca     -> Totten
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Sleep In             Casual Breakfast     Physical Activity    Sleep In             
+Physical Activity    Casual Breakfast     Animal Therapy       Academic Management  Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -2582,7 +3638,7 @@ SZimmermann@rsgc.on.ca  -> Van Herk
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Animal Therapy       Casual Breakfast     Casual Breakfast     Math Exam            Massage              
+Animal Therapy       Casual Breakfast     Sleep In             Physical Activity    Yoga                 
 
 ______________________________________________________________________________________________
 
@@ -2590,7 +3646,7 @@ SDeshpande@rsgc.on.ca  -> Vivares
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Sleep In             Animal Therapy       Animal Therapy       Math Exam            Massage              
+Sleep In             Animal Therapy       Yoga                 Physical Activity    Casual Breakfast     
 
 ______________________________________________________________________________________________
 
@@ -2598,7 +3654,7 @@ RHodgson@rsgc.on.ca   -> Vivares
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Physical Activity    Sleep In             Casual Breakfast     Sleep In             
+Casual Breakfast     Physical Activity    Animal Therapy       Yoga                 Academic Management  
 
 ______________________________________________________________________________________________
 
@@ -2606,7 +3662,7 @@ SPetrovic@rsgc.on.ca  -> Vivares
 
 Monday               Tuesday              Wednesday            Thursday             Friday               
 
-Casual Breakfast     Academic Management  Casual Breakfast     Casual Breakfast     Sleep In             
+Animal Therapy       Casual Breakfast     Academic Management  Physical Activity    Yoga                 
 
 ______________________________________________________________________________________________
 

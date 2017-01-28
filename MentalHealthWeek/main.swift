@@ -46,7 +46,7 @@ for (number, line) in reader.enumerated() // Go through the data and process eac
             titles.append(descriptor) // Build descriptor lookup table
         }
     } else { // If we are processing a student
-        columnDescriptors = line.trimmingCharacters(in: CharacterSet.whitespacesAndNewlines).components(separatedBy: ",")
+        columnDescriptors = line.trimmingCharacters(in: CharacterSet.whitespacesAndNewlines).components(separatedBy: ",") //
         
         let student = input.getAndAssignStudent(data: columnDescriptors, titles: titles) // Get the student and assign them to the activity
         students.append(student) // Append the student to a list of students
@@ -65,7 +65,6 @@ var output = Printer(stu: students, act: activities) //just intalitzingt the pri
 
 output.superVisorList2() // prints out the list for super visors
 output.indivdualTime() //prints out lists for advisors / students
-
 
 // Close the output file
 writer.close() // MAKE NOTE OF THIS

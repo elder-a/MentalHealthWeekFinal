@@ -11,7 +11,7 @@ import Foundation
 
 class Printer  {
     
-    var week = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"] //just for printing out
+    var week = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Friday"] //just for printing out
     
     //allows for sorting by advisors
     var advisorList : [String] = ["Bader Shaw","Beatty","Bibby","Chow","Darvasi","DeBlois","Doerksen","Donnelly","Enfield","Evans","Farrar","Fitz","Ghoreshy","Girvan","Gledhill","Grdon","Hart","Hutton","Kotecha","Lambersky","Newton","O'leary","Rankin","Seale","Spacie","Stevens","Totten", "Van Herk", "Vivares"]
@@ -55,7 +55,7 @@ class Printer  {
     func indivdualTime () { //this is for the advisors and students
         
         for name in advisorList {
-            for i in 0...students.count-3 {
+            for i in 0...students.count-5 {
                 //this only prints if in correct advisors thereby sorting the students into there advisors
                 if name == students[i].advisor {
                     writer.write(line: "\(format(baseWord: students[i].email)) -> \(format(baseWord:  students[i].advisor))")
@@ -75,7 +75,9 @@ class Printer  {
     
     
     func superVisorList2 (){ //This is for the activity supervisors
-        for i in 1...activities.count-1 {
+        
+        
+        for i in 0...activities.count-1 { //works as it should
             
             //prints names of supervisor and activity
             writer.write(line: "")
@@ -87,12 +89,13 @@ class Printer  {
             writer.write(line: "\(activities[i].supervisorName)")
             
             //prints all students and proper days of week
-            for j in 0...4 {
+            for j in 0...activities[i].weekdays.count - 1 { //else it prints two firday
                 
                 writer.write(line: "")
                 writer.write(line: "\(format(baseWord: week[j]))") //day of week
                 
-                if activities[i].weekdays[j].count-1 > 0 { //
+                
+                if activities[i].weekdays[j].count > 0 { //
                     for l in 0...activities[i].weekdays[j].count-1{
                         writer.write(line: "\(format(baseWord: activities[i].weekdays[j][l]))") //name of person in activity
                         

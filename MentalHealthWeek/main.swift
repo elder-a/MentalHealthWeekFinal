@@ -31,7 +31,7 @@ var activities : [Activity] = [ // An array of all the activities
 var input = Input() // Initialize input class
 
 // Open the input file
-guard let reader = LineReader(path: "/Users/student/Desktop/MentalHealthWeekFinal/survey_response_all_data_new_headers.csv") else {
+guard let reader = LineReader(path: "/Users/student/Desktop/github/MentalHealthWeekFinal/survey_response_all_data_new_headers.csv") else {
     exit(0); // cannot open file
 }
 
@@ -54,8 +54,7 @@ for (number, line) in reader.enumerated() // Go through the data and process eac
 }
 
 
-
-guard let writer = LineWriter(path: "/Users/student/Desktop/MentalHealthWeekFinal/survey_output.txt", appending: false) else {
+guard let writer = LineWriter(path: "/Users/student/Desktop/github/MentalHealthWeekFinal/survey_output.txt", appending: false) else {
     print("Cannot open output file") //lets us print to text document
     exit(0); // cannot open output file
 }

@@ -115,8 +115,21 @@ class Input
                         {
                             if let currentActivity = activities.filter({$0.shortName == currentActivityName }).first // Find the activity corresponding to the one we want
                             {
-                                studentActivities.append(currentActivity.name) // Append the activity name
+                                
                                 assignStudent(currentActivity: currentActivity, weekdayIndex: weekdayIndex, email: email) // Assign the student to that activity
+                                
+                                if var currentActivity = activities.filter({$0.shortName == currentActivityName }).first // Add a student to the activity they are in
+                                {
+                                    if (currentActivity.weekdays[weekdayIndex].count < currentActivity.personCap) // If it's not already filled...
+                                    {
+                                        if activities.index(of: currentActivity) != nil // Make sure the index of the activity exists
+                                        {
+                                            studentActivities.append(currentActivity.name) // Append the activity name
+                                            
+                                            break
+                                        }
+                                    }
+                                }
                             }
                         }
                     }
